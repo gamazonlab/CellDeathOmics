@@ -1,0 +1,50 @@
+Tissue,Module
+adipose subcutaneous,2
+adipose visceral omentum,2
+adrenal gland,2
+artery aorta,2
+artery coronary,2
+artery tibial,2
+brain amygdala,1
+brain anterior cingulate cortex ba24,1
+brain caudate basal ganglia,1
+brain cerebellar hemisphere,1
+brain cerebellum,1
+brain cortex,1
+brain frontal cortex ba9,1
+brain hippocampus,1
+brain hypothalamus,1
+brain nucleus accumbens basal ganglia,1
+brain putamen basal ganglia,1
+brain spinal cord cervical c-1,1
+brain substantia nigra,1
+breast mammary tissue,2
+cells cultured fibroblasts,2
+cells ebv-transformed lymphocytes,4
+colon sigmoid,2
+colon transverse,3
+esophagus gastroesophageal junction,2
+esophagus mucosa,3
+esophagus muscularis,2
+heart atrial appendage,2
+heart left ventricle,2
+kidney cortex,2
+liver,2
+lung,2
+minor salivary gland,2
+muscle skeletal,2
+nerve tibial,2
+ovary,2
+pancreas,2
+pituitary,2
+prostate,2
+skin not sun exposed suprapubic,3
+skin sun exposed lower leg,3
+small intestine terminal ileum,3
+spleen,3
+stomach,2
+testis,2
+thyroid,2
+uterus,2
+vagina,3
+whole blood,3
