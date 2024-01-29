@@ -1,0 +1,514 @@
+Phenotype Code,Phenotype Description,Category,Derivation,Detailed Description (as applicable),variable_type,source,n_non_missing,n_missing,n_controls,n_cases,PHESANT_transformation,Additional Notes
+A04,Other bacterial intestinal infections,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: A04 Other bacterial intestinal infections,categorical,icd10,361194,0,360432,762,NA,NA
+A08,Viral and other specified intestinal infections,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: A08 Viral and other specified intestinal infections,categorical,icd10,361194,0,360731,463,NA,NA
+A09,Diarrhoea and gastro-enteritis of presumed infectious origin,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: A09 Diarrhoea and gastro-enteritis of presumed infectious origin,categorical,icd10,361194,0,359033,2161,NA,NA
+A41,Other septicaemia,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: A41 Other septicaemia,categorical,icd10,361194,0,360098,1096,NA,NA
+A63,"Other predominantly sexually transmitted diseases, not elsewhere classified",Infectious disease,ICD10/FinnGen,"Diagnoses - main ICD10: A63 Other predominantly sexually transmitted diseases, not elsewhere classified",categorical,icd10,361194,0,361093,101,NA,NA
+A87,Viral meningitis,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: A87 Viral meningitis,categorical,icd10,361194,0,361078,116,NA,NA
+AB1_INFECTIONS,Certain infectious and parasitic diseases *,Infectious disease,ICD10/FinnGen,Certain infectious and parasitic diseases,categorical,finngen,361194,0,353664,7530,NA,NA
+AB1_INTESTINAL_INFECTIONS,Intestinal infectious diseases *,Infectious disease,ICD10/FinnGen,Intestinal infectious diseases,categorical,finngen,361194,0,356890,4304,NA,NA
+AB1_MYCOSES,Mycoses *,Infectious disease,ICD10/FinnGen,Mycoses,categorical,finngen,361194,0,360751,443,NA,NA
+AB1_OTHER_BACTERIAL,Other bacterial diseases *,Infectious disease,ICD10/FinnGen,Other bacterial diseases,categorical,finngen,361194,0,359232,1962,NA,NA
+AB1_OTHER_VIRAL,Other viral diseases *,Infectious disease,ICD10/FinnGen,Other viral diseases,categorical,finngen,361194,0,360014,1180,NA,NA
+AB1_SEXUAL_TRANSMISSION,Infections with a predominantly sexual mode of transmission *,Infectious disease,ICD10/FinnGen,Infections with a predominantly sexual mode of transmission,categorical,finngen,361194,0,361058,136,NA,NA
+AB1_VIRAL_CNS,Viral infections of the central nervous system *,Infectious disease,ICD10/FinnGen,Viral infections of the central nervous system,categorical,finngen,361194,0,360997,197,NA,NA
+AB1_VIRAL_HEPATITIS,Viral hepatitis *,Infectious disease,ICD10/FinnGen,Viral hepatitis,categorical,finngen,361194,0,360951,243,NA,NA
+AB1_VIRAL_SKIN_MUCOUS_MEMBRANE,Viral infections characterized by skin and mucous membrane lesions *,Infectious disease,ICD10/FinnGen,Viral infections characterized by skin and mucous membrane lesions,categorical,finngen,361194,0,360336,858,NA,NA
+AD,Alzheimer’s disease *,Mental/behavioral,ICD10/FinnGen,Alzheimer’s disease,categorical,finngen,361194,0,361075,119,NA,NA
+AMN2,Transient global amnesia *,Mental/behavioral,ICD10/FinnGen,Transient global amnesia,categorical,finngen,361194,0,360911,283,NA,NA
+ASTHMA_EOSINOPHIL_SUGG,Suggestive for eosinophilic asthma *,Respiratory,ICD10/FinnGen,Suggestive for eosinophilic asthma,categorical,finngen,361194,0,358892,2302,NA,NA
+ASTHMA_PNEUMONIA,Asthma-related pneumonia *,Respiratory,ICD10/FinnGen,Asthma-related pneumonia,categorical,finngen,361194,0,355294,5900,NA,NA
+B02,Zoster [herpes zoster],Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: B02 Zoster [herpes zoster],categorical,icd10,361194,0,361033,161,NA,NA
+B07,Viral warts,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: B07 Viral warts,categorical,icd10,361194,0,360757,437,NA,NA
+B18,Chronic viral hepatitis,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: B18 Chronic viral hepatitis,categorical,icd10,361194,0,361060,134,NA,NA
+B34,Viral infection of unspecified site,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: B34 Viral infection of unspecified site,categorical,icd10,361194,0,360261,933,NA,NA
+B37,Candidiasis,Infectious disease,ICD10/FinnGen,Diagnoses - main ICD10: B37 Candidiasis,categorical,icd10,361194,0,360942,252,NA,NA
+C_DIFFICILE_ENTEROCOLITIS,Enterocolitis due to Clostridium difficile *,Infectious disease,ICD10/FinnGen,Enterocolitis due to Clostridium difficile,categorical,finngen,361194,0,361010,184,NA,NA
+C_EYE_ADNEXA,Malignant neoplasm of eye and adnexa *,Neoplasms,ICD10/FinnGen,Malignant neoplasm of eye and adnexa,categorical,finngen,361194,0,361079,115,NA,NA
+C_LIVER_INTRAHEPATIC_BILE_DUCTS,Malignant neoplasm of liver and intrahepatic bile ducts *,Neoplasms,ICD10/FinnGen,Malignant neoplasm of liver and intrahepatic bile ducts,categorical,finngen,361194,0,360990,204,NA,NA
+C_MELANOMA_SKIN,Malignant melanoma of skin *,Neoplasms,ICD10/FinnGen,Malignant melanoma of skin,categorical,finngen,361194,0,358660,2534,NA,NA
+C_MESOTHELIOMA,Mesothelioma *,Neoplasms,ICD10/FinnGen,Mesothelioma,categorical,finngen,361194,0,361029,165,NA,NA
+C_MULTIPLE_MYELOMA_PLASMA_CELL,Multiple myeloma and malignant plasma cell neoplasms *,Neoplasms,ICD10/FinnGen,Multiple myeloma and malignant plasma cell neoplasms,categorical,finngen,361194,0,360766,428,NA,NA
+C_MYELOID-LEUKAEMIA,Myeloid leukaemia *,Neoplasms,ICD10/FinnGen,Myeloid leukaemia,categorical,finngen,361194,0,360880,314,NA,NA
+C_NONFOLLICULAR_LYMPHOMA,Non-follicular lymphoma *,Neoplasms,ICD10/FinnGen,Non-follicular lymphoma,categorical,finngen,361194,0,360493,701,NA,NA
+C_OESOPHAGUS,Malignant neoplasm of oesophagus *,Neoplasms,ICD10/FinnGen,Malignant neoplasm of oesophagus,categorical,finngen,361194,0,360697,497,NA,NA
+C_STROKE,Stroke *,Circulatory,ICD10/FinnGen,STROKE,categorical,finngen,361194,0,355048,6146,NA,NA
+C_TNK_LYMPHOMA,Mature T/NK-cell lymphomas *,Neoplasms,ICD10/FinnGen,Mature T/NK-cell lymphomas,categorical,finngen,361194,0,361060,134,NA,NA
+C01,Malignant neoplasm of base of tongue,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C01 Malignant neoplasm of base of tongue,categorical,icd10,361194,0,361092,102,NA,NA
+C02,Malignant neoplasm of other and unspecified parts of tongue,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C02 Malignant neoplasm of other and unspecified parts of tongue,categorical,icd10,361194,0,361042,152,NA,NA
+C09,Malignant neoplasm of tonsil,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C09 Malignant neoplasm of tonsil,categorical,icd10,361194,0,361032,162,NA,NA
+C15,Malignant neoplasm of oesophagus,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C15 Malignant neoplasm of oesophagus,categorical,icd10,361194,0,360675,519,NA,NA
+C16,Malignant neoplasm of stomach,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C16 Malignant neoplasm of stomach,categorical,icd10,361194,0,360806,388,NA,NA
+C17,Malignant neoplasm of small intestine,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C17 Malignant neoplasm of small intestine,categorical,icd10,361194,0,361080,114,NA,NA
+C18,Malignant neoplasm of colon,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C18 Malignant neoplasm of colon,categorical,icd10,361194,0,358968,2226,NA,NA
+C19,Malignant neoplasm of rectosigmoid junction,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C19 Malignant neoplasm of rectosigmoid junction,categorical,icd10,361194,0,360696,498,NA,NA
+C20,Malignant neoplasm of rectum,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C20 Malignant neoplasm of rectum,categorical,icd10,361194,0,360076,1118,NA,NA
+C21,Malignant neoplasm of anus and anal canal,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C21 Malignant neoplasm of anus and anal canal,categorical,icd10,361194,0,361055,139,NA,NA
+C22,Malignant neoplasm of liver and intrahepatic bile ducts,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C22 Malignant neoplasm of liver and intrahepatic bile ducts,categorical,icd10,361194,0,361005,189,NA,NA
+C25,Malignant neoplasm of pancreas,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C25 Malignant neoplasm of pancreas,categorical,icd10,361194,0,360791,403,NA,NA
+C3_URINARY_TRACT,Malignant neoplasm of urinary organs *,Neoplasms,ICD10/FinnGen,Malignant neoplasm of urinary organs,categorical,finngen,361194,0,359353,1841,NA,NA
+C32,Malignant neoplasm of larynx,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C32 Malignant neoplasm of larynx,categorical,icd10,361194,0,361035,159,NA,NA
+C34,Malignant neoplasm of bronchus and lung,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C34 Malignant neoplasm of bronchus and lung,categorical,icd10,361194,0,359767,1427,NA,NA
+C43,Malignant melanoma of skin,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C43 Malignant melanoma of skin,categorical,icd10,361194,0,359522,1672,NA,NA
+C44,Other malignant neoplasms of skin,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C44 Other malignant neoplasms of skin,categorical,icd10,361194,0,352108,9086,NA,NA
+C45,Mesothelioma,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C45 Mesothelioma,categorical,icd10,361194,0,361044,150,NA,NA
+C48,Malignant neoplasm of retroperitoneum and peritoneum,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C48 Malignant neoplasm of retroperitoneum and peritoneum,categorical,icd10,361194,0,361072,122,NA,NA
+C50,Malignant neoplasm of breast,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C50 Malignant neoplasm of breast,categorical,icd10,361194,0,352890,8304,NA,NA
+C53,Malignant neoplasm of cervix uteri,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C53 Malignant neoplasm of cervix uteri,categorical,icd10,361194,0,361002,192,NA,NA
+C54,Malignant neoplasm of corpus uteri,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C54 Malignant neoplasm of corpus uteri,categorical,icd10,361194,0,360206,988,NA,NA
+C56,Malignant neoplasm of ovary,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C56 Malignant neoplasm of ovary,categorical,icd10,361194,0,360501,693,NA,NA
+C61,Malignant neoplasm of prostate,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C61 Malignant neoplasm of prostate,categorical,icd10,361194,0,356852,4342,NA,NA
+C62,Malignant neoplasm of testis,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C62 Malignant neoplasm of testis,categorical,icd10,361194,0,360973,221,NA,NA
+C64,"Malignant neoplasm of kidney, except renal pelvis",Neoplasms,ICD10/FinnGen,"Diagnoses - main ICD10: C64 Malignant neoplasm of kidney, except renal pelvis",categorical,icd10,361194,0,360493,701,NA,NA
+C67,Malignant neoplasm of bladder,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C67 Malignant neoplasm of bladder,categorical,icd10,361194,0,359640,1554,NA,NA
+C69,Malignant neoplasm of eye and adnexa,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C69 Malignant neoplasm of eye and adnexa,categorical,icd10,361194,0,361057,137,NA,NA
+C71,Malignant neoplasm of brain,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C71 Malignant neoplasm of brain,categorical,icd10,361194,0,360826,368,NA,NA
+C73,Malignant neoplasm of thyroid gland,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C73 Malignant neoplasm of thyroid gland,categorical,icd10,361194,0,360916,278,NA,NA
+C77,Secondary and unspecified malignant neoplasm of lymph nodes,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C77 Secondary and unspecified malignant neoplasm of lymph nodes,categorical,icd10,361194,0,360536,658,NA,NA
+C78,Secondary malignant neoplasm of respiratory and digestive organs,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C78 Secondary malignant neoplasm of respiratory and digestive organs,categorical,icd10,361194,0,359816,1378,NA,NA
+C79,Secondary malignant neoplasm of other sites,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C79 Secondary malignant neoplasm of other sites,categorical,icd10,361194,0,360095,1099,NA,NA
+C80,Malignant neoplasm without specification of site,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C80 Malignant neoplasm without specification of site,categorical,icd10,361194,0,360796,398,NA,NA
+C81,Hodgkin's disease,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C81 Hodgkin's disease,categorical,icd10,361194,0,361044,150,NA,NA
+C82,Follicular [nodular] non-Hodgkin's lymphoma,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C82 Follicular [nodular] non-Hodgkin's lymphoma,categorical,icd10,361194,0,360874,320,NA,NA
+C83,Diffuse non-Hodgkin's lymphoma,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C83 Diffuse non-Hodgkin's lymphoma,categorical,icd10,361194,0,360607,587,NA,NA
+C85,Other and unspecified types of non-Hodgkin's lymphoma,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C85 Other and unspecified types of non-Hodgkin's lymphoma,categorical,icd10,361194,0,360432,762,NA,NA
+C90,Multiple myeloma and malignant plasma cell neoplasms,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C90 Multiple myeloma and malignant plasma cell neoplasms,categorical,icd10,361194,0,360793,401,NA,NA
+C91,Lymphoid leukaemia,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C91 Lymphoid leukaemia,categorical,icd10,361194,0,360845,349,NA,NA
+C92,Myeloid leukaemia,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: C92 Myeloid leukaemia,categorical,icd10,361194,0,360866,328,NA,NA
+CAMPYLOENTERITIS,Campylobacter enteritis *,Infectious disease,ICD10/FinnGen,Campylobacter enteritis,categorical,finngen,361194,0,360905,289,NA,NA
+CHILDHOOD_ALLERGY,Childhood allergy (age < 16) *,Blood/immune,ICD10/FinnGen,Childhood allergy (age < 16),categorical,finngen,361194,0,361053,141,NA,NA
+CHIRHEP_NAS,"Chirrosis of liver, NAS *",Digestive,ICD10/FinnGen,"Chirrosis of liver, NAS",categorical,finngen,361194,0,361010,184,NA,NA
+CONGEN_HEART_ARTER,Congenital malformations of heart and great arteries *,Congenital,ICD10/FinnGen,Congenital malformations of heart and great arteries,categorical,finngen,361194,0,360767,427,NA,NA
+COPD_EARLYANDLATER,"COPD, early/later onset *",Respiratory,ICD10/FinnGen,"COPD, early/later onset",categorical,finngen,361194,0,359297,1897,NA,NA
+COPD_OPPORTUNIST_INFECTIONS,COPD related to chronic (opportunist) infections *,Respiratory,ICD10/FinnGen,COPD related to chronic (opportunist) infections,categorical,finngen,361194,0,360717,477,NA,NA
+D03,Melanoma in situ,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D03 Melanoma in situ,categorical,icd10,361194,0,360617,577,NA,NA
+D04,Carcinoma in situ of skin,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D04 Carcinoma in situ of skin,categorical,icd10,361194,0,360792,402,NA,NA
+D05,Carcinoma in situ of breast,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D05 Carcinoma in situ of breast,categorical,icd10,361194,0,359740,1454,NA,NA
+D06,Carcinoma in situ of cervix uteri,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D06 Carcinoma in situ of cervix uteri,categorical,icd10,361194,0,360744,450,NA,NA
+D07,Carcinoma in situ of other and unspecified genital organs,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D07 Carcinoma in situ of other and unspecified genital organs,categorical,icd10,361194,0,360858,336,NA,NA
+D09,Carcinoma in situ of other and unspecified sites,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D09 Carcinoma in situ of other and unspecified sites,categorical,icd10,361194,0,361053,141,NA,NA
+D10,Benign neoplasm of mouth and pharynx,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D10 Benign neoplasm of mouth and pharynx,categorical,icd10,361194,0,360823,371,NA,NA
+D11,Benign neoplasm of major salivary glands,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D11 Benign neoplasm of major salivary glands,categorical,icd10,361194,0,360818,376,NA,NA
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",Neoplasms,ICD10/FinnGen,"Diagnoses - main ICD10: D12 Benign neoplasm of colon, rectum, anus and anal canal",categorical,icd10,361194,0,352317,8877,NA,NA
+D14,Benign neoplasm of middle ear and respiratory system,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D14 Benign neoplasm of middle ear and respiratory system,categorical,icd10,361194,0,360991,203,NA,NA
+D16,Benign neoplasm of bone and articular cartilage,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D16 Benign neoplasm of bone and articular cartilage,categorical,icd10,361194,0,360983,211,NA,NA
+D17,Benign lipomatous neoplasm,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D17 Benign lipomatous neoplasm,categorical,icd10,361194,0,356880,4314,NA,NA
+D18,"Haemangioma and lymphangioma, any site",Neoplasms,ICD10/FinnGen,"Diagnoses - main ICD10: D18 Haemangioma and lymphangioma, any site",categorical,icd10,361194,0,360267,927,NA,NA
+D22,Melanocytic naevi,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D22 Melanocytic naevi,categorical,icd10,361194,0,357693,3501,NA,NA
+D24,Benign neoplasm of breast,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D24 Benign neoplasm of breast,categorical,icd10,361194,0,360105,1089,NA,NA
+D25,Leiomyoma of uterus,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D25 Leiomyoma of uterus,categorical,icd10,361194,0,355687,5507,NA,NA
+D27,Benign neoplasm of ovary,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D27 Benign neoplasm of ovary,categorical,icd10,361194,0,360248,946,NA,NA
+D3_HYPERGAMMAGLONAS,"Hypergammalglobulinemia, unspecified *",Blood/immune,ICD10/FinnGen,"Hypergammalglobulinemia, unspecified",categorical,finngen,361194,0,361052,142,NA,NA
+D3_ITP,Idiopathic thrombocytopenic purpura *,Blood/immune,ICD10/FinnGen,Idiopathic thrombocytopenic purpura,categorical,finngen,361194,0,360987,207,NA,NA
+D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Purpura and other haemorrhagic conditions *,Blood/immune,ICD10/FinnGen,Purpura and other haemorrhagic conditions,categorical,finngen,361194,0,360734,460,NA,NA
+D3_SCNDPOLYCYTHAEMIA,Secondary polycythaemia *,Blood/immune,ICD10/FinnGen,Secondary polycythaemia,categorical,finngen,361194,0,361035,159,NA,NA
+D3_THROMBOCYTOPENIANAS,"Thrombocytopenia, unspecified *",Blood/immune,ICD10/FinnGen,"Thrombocytopenia, unspecified",categorical,finngen,361194,0,360964,230,NA,NA
+D30,Benign neoplasm of urinary organs,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D30 Benign neoplasm of urinary organs,categorical,icd10,361194,0,361079,115,NA,NA
+D32,Benign neoplasm of meninges,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D32 Benign neoplasm of meninges,categorical,icd10,361194,0,360867,327,NA,NA
+D33,Benign neoplasm of brain and other parts of central nervous system,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D33 Benign neoplasm of brain and other parts of central nervous system,categorical,icd10,361194,0,360941,253,NA,NA
+D34,Benign neoplasm of thyroid gland,Neoplasms,ICD10/FinnGen,Diagnoses - main ICD10: D34 Benign neoplasm of thyroid gland,categorical,icd10,361194,0,360998,196,NA,NA
+D45,Polycythaemia vera,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D45 Polycythaemia vera,categorical,icd10,361194,0,360945,249,NA,NA
+D46,Myelodysplastic syndromes,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D46 Myelodysplastic syndromes,categorical,icd10,361194,0,361039,155,NA,NA
+D50,Iron deficiency anaemia,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D50 Iron deficiency anaemia,categorical,icd10,361194,0,357972,3222,NA,NA
+D61,Other aplastic anaemias,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D61 Other aplastic anaemias,categorical,icd10,361194,0,361067,127,NA,NA
+D63,Anaemia in chronic diseases classified elsewhere,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D63 Anaemia in chronic diseases classified elsewhere,categorical,icd10,361194,0,361080,114,NA,NA
+D64,Other anaemias,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D64 Other anaemias,categorical,icd10,361194,0,357492,3702,NA,NA
+D69,Purpura and other haemorrhagic conditions,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D69 Purpura and other haemorrhagic conditions,categorical,icd10,361194,0,360784,410,NA,NA
+D70,Agranulocytosis,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D70 Agranulocytosis,categorical,icd10,361194,0,360212,982,NA,NA
+D86,Sarcoidosis,Blood/immune,ICD10/FinnGen,Diagnoses - main ICD10: D86 Sarcoidosis,categorical,icd10,361194,0,361024,170,NA,NA
+DM_BCKGRND_RETINOPAT,Background diabetic retinopathy *,Other,ICD10/FinnGen,Background diabetic retinopathy,categorical,finngen,361194,0,361086,108,NA,NA
+DM_KETOACIDOSIS,Diabetic ketoacidosis *,Endocrine/metabolic,ICD10/FinnGen,Diabetic ketoacidosis,categorical,finngen,361194,0,360960,234,NA,NA
+DM_PERIPH_ANGIOPATHY,Peripheral angiopathy *,Circulatory,ICD10/FinnGen,Peripheral angiopathy,categorical,finngen,361194,0,361013,181,NA,NA
+DM_PERIPHATHERO,Peripheral atherosclerosis *,Circulatory,ICD10/FinnGen,Peripheral atherosclerosis,categorical,finngen,361194,0,360690,504,NA,NA
+E03,Other hypothyroidism,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E03 Other hypothyroidism,categorical,icd10,361194,0,361076,118,NA,NA
+E05,Thyrotoxicosis [hyperthyroidism],Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E05 Thyrotoxicosis [hyperthyroidism],categorical,icd10,361194,0,360802,392,NA,NA
+E11,Non-insulin-dependent diabetes mellitus,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E11 Non-insulin-dependent diabetes mellitus,categorical,icd10,361194,0,360489,705,NA,NA
+E16,Other disorders of pancreatic internal secretion,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E16 Other disorders of pancreatic internal secretion,categorical,icd10,361194,0,360899,295,NA,NA
+E21,Hyperparathyroidism and other disorders of parathyroid gland,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E21 Hyperparathyroidism and other disorders of parathyroid gland,categorical,icd10,361194,0,360886,308,NA,NA
+E22,Hyperfunction of pituitary gland,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E22 Hyperfunction of pituitary gland,categorical,icd10,361194,0,361081,113,NA,NA
+E23,Hypofunction and other disorders of pituitary gland,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E23 Hypofunction and other disorders of pituitary gland,categorical,icd10,361194,0,361021,173,NA,NA
+E4_DM1,Type 1 diabetes *,Endocrine/metabolic,ICD10/FinnGen,Type 1 diabetes,categorical,finngen,361194,0,360611,583,NA,NA
+E4_DM2,Type 2 diabetes *,Endocrine/metabolic,ICD10/FinnGen,Type 2 diabetes,categorical,finngen,361194,0,360306,888,NA,NA
+E66,Obesity,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E66 Obesity,categorical,icd10,361194,0,360841,353,NA,NA
+E83,Disorders of mineral metabolism,Endocrine/metabolic,ICD10/FinnGen,Diagnoses - main ICD10: E83 Disorders of mineral metabolism,categorical,icd10,361194,0,360436,758,NA,NA
+ENDOMETRIOSIS_OVARY,Endometriosis of ovary *,Genitourinary,ICD10/FinnGen,Endometriosis of ovary,categorical,finngen,361194,0,360808,386,NA,NA
+ENDOMETRIOSIS_PELVICPERITONEUM,Endometriosis of pelvic peritoneum *,Genitourinary,ICD10/FinnGen,Endometriosis of pelvic peritoneum,categorical,finngen,361194,0,360906,288,NA,NA
+ENDOMETRIOSIS_UTERUS,Endometriosis of uterus *,Genitourinary,ICD10/FinnGen,Endometriosis of uterus,categorical,finngen,361194,0,360689,505,NA,NA
+F05,"Delirium, not induced by alcohol and other psychoactive substances",Mental/behavioral,ICD10/FinnGen,"Diagnoses - main ICD10: F05 Delirium, not induced by alcohol and other psychoactive substances",categorical,icd10,361194,0,361088,106,NA,NA
+F10,Mental and behavioural disorders due to use of alcohol,Mental/behavioral,ICD10/FinnGen,Diagnoses - main ICD10: F10 Mental and behavioural disorders due to use of alcohol,categorical,icd10,361194,0,360408,786,NA,NA
+F20,Schizophrenia,Mental/behavioral,ICD10/FinnGen,Diagnoses - main ICD10: F20 Schizophrenia,categorical,icd10,361194,0,360996,198,NA,NA
+F31,Bipolar affective disorder,Mental/behavioral,ICD10/FinnGen,Diagnoses - main ICD10: F31 Bipolar affective disorder,categorical,icd10,361194,0,360823,371,NA,NA
+F32,Depressive episode,Mental/behavioral,ICD10/FinnGen,Diagnoses - main ICD10: F32 Depressive episode,categorical,icd10,361194,0,360418,776,NA,NA
+F33,Recurrent depressive disorder,Mental/behavioral,ICD10/FinnGen,Diagnoses - main ICD10: F33 Recurrent depressive disorder,categorical,icd10,361194,0,360901,293,NA,NA
+F41,Other anxiety disorders,Mental/behavioral,ICD10/FinnGen,Diagnoses - main ICD10: F41 Other anxiety disorders,categorical,icd10,361194,0,360778,416,NA,NA
+F43,"Reaction to severe stress, and adjustment disorders",Mental/behavioral,ICD10/FinnGen,"Diagnoses - main ICD10: F43 Reaction to severe stress, and adjustment disorders",categorical,icd10,361194,0,360967,227,NA,NA
+F45,Somatoform disorders,Mental/behavioral,ICD10/FinnGen,Diagnoses - main ICD10: F45 Somatoform disorders,categorical,icd10,361194,0,360953,241,NA,NA
+F5_ALCOHOLAC,Acute alcohol intoxication *,Mental/behavioral,ICD10/FinnGen,Acute alcohol intoxication,categorical,finngen,361194,0,361063,131,NA,NA
+F5_ALLANXIOUS,All anxiety disorders *,Mental/behavioral,ICD10/FinnGen,All anxiety disorders,categorical,finngen,361194,0,360662,532,NA,NA
+F5_DEMENTIA,Dementia *,Mental/behavioral,ICD10/FinnGen,Dementia,categorical,finngen,361194,0,361037,157,NA,NA
+F5_DEPRESSIO,Depression *,Mental/behavioral,ICD10/FinnGen,Depression,categorical,finngen,361194,0,360049,1145,NA,NA
+F5_MOOD,Mood [affective] disorders *,Mental/behavioral,ICD10/FinnGen,Mood [affective] disorders,categorical,finngen,361194,0,359648,1546,NA,NA
+F5_PANIC,Panic disorder *,Mental/behavioral,ICD10/FinnGen,Panic disorder,categorical,finngen,361194,0,361082,112,NA,NA
+F5_PERSONALITY,Specific personality disorders *,Mental/behavioral,ICD10/FinnGen,Specific personality disorders,categorical,finngen,361194,0,361066,128,NA,NA
+F52,"Sexual dysfunction, not caused by organic disorder or disease",Mental/behavioral,ICD10/FinnGen,"Diagnoses - main ICD10: F52 Sexual dysfunction, not caused by organic disorder or disease",categorical,icd10,361194,0,361073,121,NA,NA
+FIBRO_COMORB,Fibromyalgia related co-morbidities *,Musculoskeletal,ICD10/FinnGen,Fibromyalgia related co-morbidities,categorical,finngen,361194,0,358889,2305,NA,NA
+G12,Spinal muscular atrophy and related syndromes,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G12 Spinal muscular atrophy and related syndromes,categorical,icd10,361194,0,361074,120,NA,NA
+G20,Parkinson's disease,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G20 Parkinson's disease,categorical,icd10,361194,0,360988,206,NA,NA
+G24,Dystonia,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G24 Dystonia,categorical,icd10,361194,0,361087,107,NA,NA
+G35,Multiple sclerosis,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G35 Multiple sclerosis,categorical,icd10,361194,0,360628,566,NA,NA
+G37,Other demyelinating diseases of central nervous system,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G37 Other demyelinating diseases of central nervous system,categorical,icd10,361194,0,360994,200,NA,NA
+G40,Epilepsy,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G40 Epilepsy,categorical,icd10,361194,0,360399,795,NA,NA
+G43,Migraine,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G43 Migraine,categorical,icd10,361194,0,360122,1072,NA,NA
+G45,Transient cerebral ischaemic attacks and related syndromes,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G45 Transient cerebral ischaemic attacks and related syndromes,categorical,icd10,361194,0,359450,1744,NA,NA
+G47,Sleep disorders,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G47 Sleep disorders,categorical,icd10,361194,0,358471,2723,NA,NA
+G50,Disorders of trigeminal nerve,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G50 Disorders of trigeminal nerve,categorical,icd10,361194,0,360982,212,NA,NA
+G51,Facial nerve disorders,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G51 Facial nerve disorders,categorical,icd10,361194,0,360819,375,NA,NA
+G54,Nerve root and plexus disorders,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G54 Nerve root and plexus disorders,categorical,icd10,361194,0,361051,143,NA,NA
+G56,Mononeuropathies of upper limb,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G56 Mononeuropathies of upper limb,categorical,icd10,361194,0,353064,8130,NA,NA
+G57,Mononeuropathies of lower limb,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G57 Mononeuropathies of lower limb,categorical,icd10,361194,0,360083,1111,NA,NA
+G6_ALS,Motor neuron disease *,Nervous,ICD10/FinnGen,Motor neuron disease,categorical,finngen,361194,0,361027,167,NA,NA
+G6_BELLPA,Bell's palsy *,Nervous,ICD10/FinnGen,Bell's palsy,categorical,finngen,361194,0,360856,338,NA,NA
+G6_CPETAL,Cerebral palsy and other paralytic syndromes *,Nervous,ICD10/FinnGen,Cerebral palsy and other paralytic syndromes,categorical,finngen,361194,0,360610,584,NA,NA
+G6_DEMYEL,Demyelenating diseases of the central nervous system *,Nervous,ICD10/FinnGen,Demyelenating diseases of the central nervous system,categorical,finngen,361194,0,360406,788,NA,NA
+G6_GUILBAR,Guillain-Barre syndrome *,Nervous,ICD10/FinnGen,Guillain-Barre syndrome,categorical,finngen,361194,0,361039,155,NA,NA
+G6_HYDROCEPH,Hydrocephalus *,Nervous,ICD10/FinnGen,Hydrocephalus,categorical,finngen,361194,0,361081,113,NA,NA
+G6_MYONEU,Diseases of the myoneural junction and muscle *,Nervous,ICD10/FinnGen,Diseases of the myoneural junction and muscle,categorical,finngen,361194,0,360960,234,NA,NA
+G6_TRINEU,Trigeminal neuralgia *,Nervous,ICD10/FinnGen,Trigeminal neuralgia,categorical,finngen,361194,0,361005,189,NA,NA
+G6_XTRAPYR,Extrapyramidal and movement disorders *,Nervous,ICD10/FinnGen,Extrapyramidal and movement disorders,categorical,finngen,361194,0,360714,480,NA,NA
+G61,Inflammatory polyneuropathy,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G61 Inflammatory polyneuropathy,categorical,icd10,361194,0,360988,206,NA,NA
+G62,Other polyneuropathies,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G62 Other polyneuropathies,categorical,icd10,361194,0,360902,292,NA,NA
+G81,Hemiplegia,Nervous,ICD10/FinnGen,Diagnoses - main ICD10: G81 Hemiplegia,categorical,icd10,361194,0,360903,291,NA,NA
+GLOMER_NEPHRITIS,Glomerulonephritis *,Genitourinary,ICD10/FinnGen,Glomerulonephritis,categorical,finngen,361194,0,360565,629,NA,NA
+H00,Hordeolum and chalazion,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H00 Hordeolum and chalazion,categorical,icd10,361194,0,359727,1467,NA,NA
+H04,Disorders of lachrymal system,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H04 Disorders of lachrymal system,categorical,icd10,361194,0,359718,1476,NA,NA
+H05,Disorders of orbit,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H05 Disorders of orbit,categorical,icd10,361194,0,361052,142,NA,NA
+H25,Senile cataract,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H25 Senile cataract,categorical,icd10,361194,0,354862,6332,NA,NA
+H33,Retinal detachments and breaks,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H33 Retinal detachments and breaks,categorical,icd10,361194,0,358523,2671,NA,NA
+H34,Retinal vascular occlusions,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H34 Retinal vascular occlusions,categorical,icd10,361194,0,360891,303,NA,NA
+H40,Glaucoma,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H40 Glaucoma,categorical,icd10,361194,0,359479,1715,NA,NA
+H43,Disorders of vitreous body,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H43 Disorders of vitreous body,categorical,icd10,361194,0,360746,448,NA,NA
+H49,Paralytic strabismus,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H49 Paralytic strabismus,categorical,icd10,361194,0,361059,135,NA,NA
+H50,Other strabismus,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H50 Other strabismus,categorical,icd10,361194,0,360553,641,NA,NA
+H52,Disorders of refraction and accommodation,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H52 Disorders of refraction and accommodation,categorical,icd10,361194,0,361008,186,NA,NA
+H53,Visual disturbances,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H53 Visual disturbances,categorical,icd10,361194,0,360634,560,NA,NA
+H60,Otitis externa,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H60 Otitis externa,categorical,icd10,361194,0,360892,302,NA,NA
+H65,Nonsuppurative otitis media,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H65 Nonsuppurative otitis media,categorical,icd10,361194,0,360413,781,NA,NA
+H66,Suppurative and unspecified otitis media,Eye,ICD10/FinnGen,Diagnoses - main ICD10: H66 Suppurative and unspecified otitis media,categorical,icd10,361194,0,360747,447,NA,NA
+H7_BCKRNDRETINOPAT,Background retinopathy and retinal vascular changes *,Eye,ICD10/FinnGen,Background retinopathy and retinal vascular changes,categorical,finngen,361194,0,361086,108,NA,NA
+H7_CONVERSTRAB,Convergent concomitant strabismus *,Eye,ICD10/FinnGen,Convergent concomitant strabismus,categorical,finngen,361194,0,361056,138,NA,NA
+H7_DIVERGSTRAB,Divergent concomitant strabismus *,Eye,ICD10/FinnGen,Divergent concomitant strabismus,categorical,finngen,361194,0,360918,276,NA,NA
+H7_ECTROPION,Ectropion of eyelid *,Eye,ICD10/FinnGen,Ectropion of eyelid,categorical,finngen,361194,0,360877,317,NA,NA
+H7_ENTROPION,Entropion and trichiasis of eyelid *,Eye,ICD10/FinnGen,Entropion and trichiasis of eyelid,categorical,finngen,361194,0,360642,552,NA,NA
+H7_EPIPHORA,Epiphora *,Eye,ICD10/FinnGen,Epiphora,categorical,finngen,361194,0,360602,592,NA,NA
+H7_GLAUCCLOSEPRIM,Primary angle-closure glaucoma *,Eye,ICD10/FinnGen,Primary angle-closure glaucoma,categorical,finngen,361194,0,360732,462,NA,NA
+H7_GLAUCPRIMOPEN,Primary open-angle glaucoma *,Eye,ICD10/FinnGen,Primary open-angle glaucoma,categorical,finngen,361194,0,360664,530,NA,NA
+H7_LACRIMALSYSTEM,Disorders of lacrimal system *,Eye,ICD10/FinnGen,Disorders of lacrimal system,categorical,finngen,361194,0,359639,1555,NA,NA
+H7_MACULADEGEN,Degeneration of macula and posterior pole *,Eye,ICD10/FinnGen,Degeneration of macula and posterior pole,categorical,finngen,361194,0,360181,1013,NA,NA
+H7_PTERYGIUM,Pterygium *,Eye,ICD10/FinnGen,Pterygium,categorical,finngen,361194,0,361070,124,NA,NA
+H7_RETINALBREAK,Retinal breaks without detachment *,Eye,ICD10/FinnGen,Retinal breaks without detachment,categorical,finngen,361194,0,360376,818,NA,NA
+H7_RETINALDETACHBREAK,Retinal detachment with retinal break *,Eye,ICD10/FinnGen,Retinal detachment with retinal break,categorical,finngen,361194,0,359996,1198,NA,NA
+H7_STENOLACRI,Stenosis and insufficiency of lacrimal passages *,Eye,ICD10/FinnGen,Stenosis and insufficiency of lacrimal passages,categorical,finngen,361194,0,360372,822,NA,NA
+H7_VITRHAEMORR,Vitreous haemorrhage *,Eye,ICD10/FinnGen,Vitreous haemorrhage,categorical,finngen,361194,0,360938,256,NA,NA
+H7_XANTHELASMA,Xanthelasma of eyelid *,Eye,ICD10/FinnGen,Xanthelasma of eyelid,categorical,finngen,361194,0,361041,153,NA,NA
+H71,Cholesteatoma of middle ear,Ear,ICD10/FinnGen,Diagnoses - main ICD10: H71 Cholesteatoma of middle ear,categorical,icd10,361194,0,360864,330,NA,NA
+H74,Other disorders of middle ear and mastoid,Ear,ICD10/FinnGen,Diagnoses - main ICD10: H74 Other disorders of middle ear and mastoid,categorical,icd10,361194,0,360961,233,NA,NA
+H8_BPV,Benign paroxysmal vertigo *,Ear,ICD10/FinnGen,Benign paroxysmal vertigo,categorical,finngen,361194,0,361046,148,NA,NA
+H8_CHRON_SUPOTITIS,Chronic suppurative otitis media *,Ear,ICD10/FinnGen,Chronic suppurative otitis media,categorical,finngen,361194,0,360989,205,NA,NA
+H8_HL_CON_NAS,"Conductive hearing loss, unspecified *",Ear,ICD10/FinnGen,"Conductive hearing loss, unspecified",categorical,finngen,361194,0,361037,157,NA,NA
+H8_HL_SEN_NAS,Sensorineural hearing loss *,Ear,ICD10/FinnGen,Sensorineural hearing loss,categorical,finngen,361194,0,361090,104,NA,NA
+H8_LABYRINTHITIS,Labyrinthitis *,Ear,ICD10/FinnGen,Labyrinthitis,categorical,finngen,361194,0,360677,517,NA,NA
+H8_MENIERE,Ménière disease *,Ear,ICD10/FinnGen,Ménière disease,categorical,finngen,361194,0,361072,122,NA,NA
+H8_OTORRHOEA,Otorrhoea *,Ear,ICD10/FinnGen,Otorrhoea,categorical,finngen,361194,0,361052,142,NA,NA
+H8_PERCHRONDR,Perichondritis of external ear *,Ear,ICD10/FinnGen,Perichondritis of external ear,categorical,finngen,361194,0,360920,274,NA,NA
+H80,Otosclerosis,Ear,ICD10/FinnGen,Diagnoses - main ICD10: H80 Otosclerosis,categorical,icd10,361194,0,360973,221,NA,NA
+H81,Disorders of vestibular function,Ear,ICD10/FinnGen,Diagnoses - main ICD10: H81 Disorders of vestibular function,categorical,icd10,361194,0,360853,341,NA,NA
+H90,Conductive and sensorineural hearing loss,Ear,ICD10/FinnGen,Diagnoses - main ICD10: H90 Conductive and sensorineural hearing loss,categorical,icd10,361194,0,360912,282,NA,NA
+H91,Other hearing loss,Ear,ICD10/FinnGen,Diagnoses - main ICD10: H91 Other hearing loss,categorical,icd10,361194,0,360804,390,NA,NA
+H92,Otalgia and effusion of ear,Ear,ICD10/FinnGen,Diagnoses - main ICD10: H92 Otalgia and effusion of ear,categorical,icd10,361194,0,360943,251,NA,NA
+I10,Essential (primary) hypertension,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I10 Essential (primary) hypertension,categorical,icd10,361194,0,360407,787,NA,NA
+I12,Hypertensive renal disease,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I12 Hypertensive renal disease,categorical,icd10,361194,0,361018,176,NA,NA
+I20,Angina pectoris,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I20 Angina pectoris,categorical,icd10,361194,0,354948,6246,NA,NA
+I21,Acute myocardial infarction,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I21 Acute myocardial infarction,categorical,icd10,361194,0,355246,5948,NA,NA
+I22,Subsequent myocardial infarction,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I22 Subsequent myocardial infarction,categorical,icd10,361194,0,360730,464,NA,NA
+I25,Chronic ischaemic heart disease,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I25 Chronic ischaemic heart disease,categorical,icd10,361194,0,348425,12769,NA,NA
+I26,Pulmonary embolism,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I26 Pulmonary embolism,categorical,icd10,361194,0,359076,2118,NA,NA
+I30,Acute pericarditis,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I30 Acute pericarditis,categorical,icd10,361194,0,361058,136,NA,NA
+I31,Other diseases of pericardium,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I31 Other diseases of pericardium,categorical,icd10,361194,0,360812,382,NA,NA
+I33,Acute and subacute endocarditis,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I33 Acute and subacute endocarditis,categorical,icd10,361194,0,361061,133,NA,NA
+I34,Nonrheumatic mitral valve disorders,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I34 Nonrheumatic mitral valve disorders,categorical,icd10,361194,0,360642,552,NA,NA
+I35,Nonrheumatic aortic valve disorders,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I35 Nonrheumatic aortic valve disorders,categorical,icd10,361194,0,360293,901,NA,NA
+I42,Cardiomyopathy,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I42 Cardiomyopathy,categorical,icd10,361194,0,360715,479,NA,NA
+I44,Atrioventricular and left bundle-branch block,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I44 Atrioventricular and left bundle-branch block,categorical,icd10,361194,0,360543,651,NA,NA
+I46,Cardiac arrest,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I46 Cardiac arrest,categorical,icd10,361194,0,361027,167,NA,NA
+I47,Paroxysmal tachycardia,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I47 Paroxysmal tachycardia,categorical,icd10,361194,0,359509,1685,NA,NA
+I48,Atrial fibrillation and flutter,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I48 Atrial fibrillation and flutter,categorical,icd10,361194,0,354838,6356,NA,NA
+I50,Heart failure,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I50 Heart failure,categorical,icd10,361194,0,360106,1088,NA,NA
+I60,Subarachnoid haemorrhage,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I60 Subarachnoid haemorrhage,categorical,icd10,361194,0,360552,642,NA,NA
+I61,Intracerebral haemorrhage,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I61 Intracerebral haemorrhage,categorical,icd10,361194,0,360701,493,NA,NA
+I63,Cerebral infarction,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I63 Cerebral infarction,categorical,icd10,361194,0,358841,2353,NA,NA
+I64,"Stroke, not specified as haemorrhage or infarction",Circulatory,ICD10/FinnGen,"Diagnoses - main ICD10: I64 Stroke, not specified as haemorrhage or infarction",categorical,icd10,361194,0,360452,742,NA,NA
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Circulatory,ICD10/FinnGen,"Diagnoses - main ICD10: I65 Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",categorical,icd10,361194,0,360734,460,NA,NA
+I70,Atherosclerosis,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I70 Atherosclerosis,categorical,icd10,361194,0,360628,566,NA,NA
+I71,Aortic aneurysm and dissection,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I71 Aortic aneurysm and dissection,categorical,icd10,361194,0,360630,564,NA,NA
+I74,Arterial embolism and thrombosis,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I74 Arterial embolism and thrombosis,categorical,icd10,361194,0,360684,510,NA,NA
+I77,Other disorders of arteries and arterioles,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I77 Other disorders of arteries and arterioles,categorical,icd10,361194,0,360520,674,NA,NA
+I80,Phlebitis and thrombophlebitis,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis,categorical,icd10,361194,0,358905,2289,NA,NA
+I82,Other venous embolism and thrombosis,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I82 Other venous embolism and thrombosis,categorical,icd10,361194,0,361049,145,NA,NA
+I83,Varicose veins of lower extremities,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I83 Varicose veins of lower extremities,categorical,icd10,361194,0,352431,8763,NA,NA
+I84,Haemorrhoids,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I84 Haemorrhoids,categorical,icd10,361194,0,349092,12102,NA,NA
+I85,Oesophageal varices,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I85 Oesophageal varices,categorical,icd10,361194,0,360913,281,NA,NA
+I86,Varicose veins of other sites,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I86 Varicose veins of other sites,categorical,icd10,361194,0,360972,222,NA,NA
+I9_ANEURYSM,"Cerebral aneurysm, nonruptured *",Circulatory,ICD10/FinnGen,"Cerebral aneurysm, nonruptured",categorical,finngen,361194,0,360969,225,NA,NA
+I9_AORTANEUR,Aortic aneurysm *,Circulatory,ICD10/FinnGen,Aortic aneurysm,categorical,finngen,361194,0,360605,589,NA,NA
+I9_AORTDIS,Dissection of aorta *,Circulatory,ICD10/FinnGen,Dissection of aorta,categorical,finngen,361194,0,361065,129,NA,NA
+I9_ARTEMBTHRLOW,Arterial embolism and thrombosis of lower extremity artery *,Circulatory,ICD10/FinnGen,Arterial embolism and thrombosis of lower extremity artery,categorical,finngen,361194,0,360832,362,NA,NA
+I9_AVBLOCK,AV-block *,Circulatory,ICD10/FinnGen,AV-block,categorical,finngen,361194,0,360585,609,NA,NA
+I9_CHD,Major coronary heart disease event *,Circulatory,ICD10/FinnGen,Major coronary heart disease event,categorical,finngen,361194,0,351037,10157,NA,NA
+I9_CONDUCTIO,Conduction disorders *,Circulatory,ICD10/FinnGen,Conduction disorders,categorical,finngen,361194,0,360139,1055,NA,NA
+I9_CORATHER,Coronary atherosclerosis *,Circulatory,ICD10/FinnGen,Coronary atherosclerosis,categorical,finngen,361194,0,346860,14334,NA,NA
+I9_DISVEINLYMPH,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified *",Circulatory,ICD10/FinnGen,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",categorical,finngen,361194,0,349327,11867,NA,NA
+I9_HYPERTENSION,Hypertensive diseases *,Circulatory,ICD10/FinnGen,Hypertensive diseases,categorical,finngen,361194,0,359881,1313,NA,NA
+I9_HYPTENS,Hypertension *,Circulatory,ICD10/FinnGen,Hypertension,categorical,finngen,361194,0,359957,1237,NA,NA
+I9_HYPTENSHR,Hypertensive heart and/or renal disease *,Circulatory,ICD10/FinnGen,Hypertensive heart and/or renal disease,categorical,finngen,361194,0,360818,376,NA,NA
+I9_IHD,"Ischaemic heart disease, wide definition *",Circulatory,ICD10/FinnGen,"Ischaemic heart disease, wide definition",categorical,finngen,361194,0,340337,20857,NA,NA
+I9_INTRACRA,Nontraumatic intracranial haemmorrhage *,Circulatory,ICD10/FinnGen,Nontraumatic intracranial haemmorrhage,categorical,finngen,361194,0,359941,1253,NA,NA
+I9_NONRHEVALV,Non-rheumatic valve diseases *,Circulatory,ICD10/FinnGen,Non-rheumatic valve diseases,categorical,finngen,361194,0,359588,1606,NA,NA
+I9_PAD,Peripheral artery disease *,Circulatory,ICD10/FinnGen,Peripheral artery disease,categorical,finngen,361194,0,359964,1230,NA,NA
+I9_PHLETHROMBDVTLOW,DVT of lower extremities *,Circulatory,ICD10/FinnGen,DVT of lower extremities,categorical,finngen,361194,0,359078,2116,NA,NA
+I9_RHEUFEV,Rheumatic fever incl heart disease *,Circulatory,ICD10/FinnGen,Rheumatic fever incl heart disease,categorical,finngen,361194,0,360760,434,NA,NA
+I9_RHEUVALV,Rheumatic valve diseases *,Circulatory,ICD10/FinnGen,Rheumatic valve diseases,categorical,finngen,361194,0,360767,427,NA,NA
+I9_STR,"Stroke, excluding SAH *",Circulatory,ICD10/FinnGen,"Stroke, excluding SAH",categorical,finngen,361194,0,357362,3832,NA,NA
+I9_STR_EXH,"Ischaemic Stroke, excluding all haemorrhages *",Circulatory,ICD10/FinnGen,"Ischaemic Stroke, excluding all haemorrhages",categorical,finngen,361194,0,357880,3314,NA,NA
+I9_STR_SAH,"Stroke, including SAH *",Circulatory,ICD10/FinnGen,"Stroke, including SAH",categorical,finngen,361194,0,356710,4484,NA,NA
+I9_UAP,Unstable angina pectoris *,Circulatory,ICD10/FinnGen,Unstable angina pectoris,categorical,finngen,361194,0,357755,3439,NA,NA
+I9_VASCINT,Vascular diseases of the intestine *,Circulatory,ICD10/FinnGen,Vascular diseases of the intestine,categorical,finngen,361194,0,360922,272,NA,NA
+I9_VTE,Venous thromboembolism *,Circulatory,ICD10/FinnGen,Venous thromboembolism,categorical,finngen,361194,0,356574,4620,NA,NA
+I95,Hypotension,Circulatory,ICD10/FinnGen,Diagnoses - main ICD10: I95 Hypotension,categorical,icd10,361194,0,360628,566,NA,NA
+ILD_DIFF_DG,ILD differential diagnosis *,Respiratory,ICD10/FinnGen,ILD differential diagnosis,categorical,finngen,361194,0,334484,26710,NA,NA
+INFLUENZA,All influenza (not pneumonia) *,Infectious disease,ICD10/FinnGen,All influenza (not pneumonia),categorical,finngen,361194,0,361047,147,NA,NA
+IPF,Idiopathic pulmonary fibrosis (attempt to specificity) *,Respiratory,ICD10/FinnGen,Idiopathic pulmonary fibrosis (attempt to specificity),categorical,finngen,361194,0,360856,338,NA,NA
+J01,Acute sinusitis,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J01 Acute sinusitis,categorical,icd10,361194,0,361082,112,NA,NA
+J02,Acute pharyngitis,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J02 Acute pharyngitis,categorical,icd10,361194,0,360853,341,NA,NA
+J03,Acute tonsillitis,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J03 Acute tonsillitis,categorical,icd10,361194,0,360789,405,NA,NA
+J06,Acute upper respiratory infections of multiple and unspecified sites,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J06 Acute upper respiratory infections of multiple and unspecified sites,categorical,icd10,361194,0,360838,356,NA,NA
+J10_EXTERLUNG,Lung diseases due to external agents *,Respiratory,ICD10/FinnGen,Lung diseases due to external agents,categorical,finngen,361194,0,360913,281,NA,NA
+J13,Pneumonia due to Streptococcus pneumoniae,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J13 Pneumonia due to Streptococcus pneumoniae,categorical,icd10,361194,0,361025,169,NA,NA
+J15,"Bacterial pneumonia, not elsewhere classified",Respiratory,ICD10/FinnGen,"Diagnoses - main ICD10: J15 Bacterial pneumonia, not elsewhere classified",categorical,icd10,361194,0,360968,226,NA,NA
+J18,"Pneumonia, organism unspecified",Respiratory,ICD10/FinnGen,"Diagnoses - main ICD10: J18 Pneumonia, organism unspecified",categorical,icd10,361194,0,356564,4630,NA,NA
+J20,Acute bronchitis,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J20 Acute bronchitis,categorical,icd10,361194,0,361092,102,NA,NA
+J22,Unspecified acute lower respiratory infection,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J22 Unspecified acute lower respiratory infection,categorical,icd10,361194,0,358054,3140,NA,NA
+J31,"Chronic rhinitis, nasopharyngitis and pharyngitis",Respiratory,ICD10/FinnGen,"Diagnoses - main ICD10: J31 Chronic rhinitis, nasopharyngitis and pharyngitis",categorical,icd10,361194,0,360903,291,NA,NA
+J32,Chronic sinusitis,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J32 Chronic sinusitis,categorical,icd10,361194,0,360015,1179,NA,NA
+J33,Nasal polyp,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J33 Nasal polyp,categorical,icd10,361194,0,358987,2207,NA,NA
+J35,Chronic diseases of tonsils and adenoids,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J35 Chronic diseases of tonsils and adenoids,categorical,icd10,361194,0,360500,694,NA,NA
+J36,Peritonsillar abscess,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J36 Peritonsillar abscess,categorical,icd10,361194,0,360856,338,NA,NA
+J38,"Diseases of vocal cords and larynx, not elsewhere classified",Respiratory,ICD10/FinnGen,"Diagnoses - main ICD10: J38 Diseases of vocal cords and larynx, not elsewhere classified",categorical,icd10,361194,0,360026,1168,NA,NA
+J40,"Bronchitis, not specified as acute or chronic",Respiratory,ICD10/FinnGen,"Diagnoses - main ICD10: J40 Bronchitis, not specified as acute or chronic",categorical,icd10,361194,0,361040,154,NA,NA
+J43,Emphysema,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J43 Emphysema,categorical,icd10,361194,0,361065,129,NA,NA
+J45,Asthma,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J45 Asthma,categorical,icd10,361194,0,359501,1693,NA,NA
+J46,Status asthmaticus,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J46 Status asthmaticus,categorical,icd10,361194,0,361014,180,NA,NA
+J47,Bronchiectasis,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J47 Bronchiectasis,categorical,icd10,361194,0,360801,393,NA,NA
+J69,Pneumonitis due to solids and liquids,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J69 Pneumonitis due to solids and liquids,categorical,icd10,361194,0,361051,143,NA,NA
+J86,Pyothorax,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J86 Pyothorax,categorical,icd10,361194,0,361033,161,NA,NA
+J90,"Pleural effusion, not elsewhere classified",Respiratory,ICD10/FinnGen,"Diagnoses - main ICD10: J90 Pleural effusion, not elsewhere classified",categorical,icd10,361194,0,360161,1033,NA,NA
+J93,Pneumothorax,Respiratory,ICD10/FinnGen,Diagnoses - main ICD10: J93 Pneumothorax,categorical,icd10,361194,0,360886,308,NA,NA
+J96,"Respiratory failure, not elsewhere classified",Respiratory,ICD10/FinnGen,"Diagnoses - main ICD10: J96 Respiratory failure, not elsewhere classified",categorical,icd10,361194,0,361000,194,NA,NA
+K00,Disorders of tooth development and eruption,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K00 Disorders of tooth development and eruption,categorical,icd10,361194,0,361071,123,NA,NA
+K01,Embedded and impacted teeth,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K01 Embedded and impacted teeth,categorical,icd10,361194,0,359751,1443,NA,NA
+K02,Dental caries,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K02 Dental caries,categorical,icd10,361194,0,359084,2110,NA,NA
+K04,Diseases of pulp and periapical tissues,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K04 Diseases of pulp and periapical tissues,categorical,icd10,361194,0,359585,1609,NA,NA
+K05,Gingivitis and periodontal diseases,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K05 Gingivitis and periodontal diseases,categorical,icd10,361194,0,360736,458,NA,NA
+K07,Dentofacial anomalies [including malocclusion],Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K07 Dentofacial anomalies [including malocclusion],categorical,icd10,361194,0,360784,410,NA,NA
+K09,"Cysts of oral region, not elsewhere classified",Digestive,ICD10/FinnGen,"Diagnoses - main ICD10: K09 Cysts of oral region, not elsewhere classified",categorical,icd10,361194,0,360907,287,NA,NA
+K10,Other diseases of jaws,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K10 Other diseases of jaws,categorical,icd10,361194,0,361006,188,NA,NA
+K11,Diseases of salivary glands,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K11 Diseases of salivary glands,categorical,icd10,361194,0,360436,758,NA,NA
+K11_ACHAL,Achalasia of cardia *,Circulatory,ICD10/FinnGen,Achalasia of cardia,categorical,finngen,361194,0,361075,119,NA,NA
+K11_ACUTGASTR,Acute gastritis *,Digestive,ICD10/FinnGen,Acute gastritis,categorical,finngen,361194,0,360600,594,NA,NA
+K11_ADHE,Intestinal adhesions without obstruction *,Digestive,ICD10/FinnGen,Intestinal adhesions without obstruction,categorical,finngen,361194,0,360550,644,NA,NA
+K11_APPENDIX,Diseases of appendix *,Digestive,ICD10/FinnGen,Diseases of appendix,categorical,finngen,361194,0,358241,2953,NA,NA
+K11_APPENDOTH,Other appendicitis *,Digestive,ICD10/FinnGen,Other appendicitis,categorical,finngen,361194,0,360768,426,NA,NA
+K11_BARRET,Barret oesophagus *,Digestive,ICD10/FinnGen,Barret oesophagus,categorical,finngen,361194,0,359403,1791,NA,NA
+K11_CHOLANGI,Cholangitis (sclerosing) *,Digestive,ICD10/FinnGen,Cholangitis (sclerosing),categorical,finngen,361194,0,360907,287,NA,NA
+K11_CHRONGASTR,Chronic gastritis *,Digestive,ICD10/FinnGen,Chronic gastritis,categorical,finngen,361194,0,359404,1790,NA,NA
+K11_CHRONPANC,Chronic pancreatitis *,Digestive,ICD10/FinnGen,Chronic pancreatitis,categorical,finngen,361194,0,360948,246,NA,NA
+K11_COELIAC,Coeliac disease *,Digestive,ICD10/FinnGen,Coeliac disease,categorical,finngen,361194,0,360352,842,NA,NA
+K11_GALLBILPANC,"Disorders of gallbladder, biliary tract and pancreas *",Digestive,ICD10/FinnGen,"Disorders of gallbladder, biliary tract and pancreas",categorical,finngen,361194,0,347272,13922,NA,NA
+K11_GASTRODUOULC,Gastroduodenal ulcer *,Digestive,ICD10/FinnGen,Gastroduodenal ulcer,categorical,finngen,361194,0,357727,3467,NA,NA
+K11_GIBLEEDING,GI-bleeding *,Digestive,ICD10/FinnGen,GI-bleeding,categorical,finngen,361194,0,355959,5235,NA,NA
+K11_ILEUS,Paralytic ileus and intestinal obstruction *,Digestive,ICD10/FinnGen,Paralytic ileus and intestinal obstruction,categorical,finngen,361194,0,359092,2102,NA,NA
+K11_IMPACT,Impaction of intestines *,Digestive,ICD10/FinnGen,Impaction of intestines,categorical,finngen,361194,0,361069,125,NA,NA
+K11_LIVER,Diseases of liver *,Digestive,ICD10/FinnGen,Diseases of liver,categorical,finngen,361194,0,359531,1663,NA,NA
+K11_OESOBST,Oesophageal obstruction *,Digestive,ICD10/FinnGen,Oesophageal obstruction,categorical,finngen,361194,0,360200,994,NA,NA
+K11_OESULC,Ulcer of oesophagus *,Digestive,ICD10/FinnGen,Ulcer of oesophagus,categorical,finngen,361194,0,358096,3098,NA,NA
+K11_PERITON,Diseases of peritoneum *,Digestive,ICD10/FinnGen,Diseases of peritoneum,categorical,finngen,361194,0,360429,765,NA,NA
+K11_VOLVU,Volvulus *,Digestive,ICD10/FinnGen,Volvulus,categorical,finngen,361194,0,360974,220,NA,NA
+K12,Stomatitis and related lesions,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K12 Stomatitis and related lesions,categorical,icd10,361194,0,360923,271,NA,NA
+K14,Diseases of tongue,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K14 Diseases of tongue,categorical,icd10,361194,0,360351,843,NA,NA
+K20,Oesophagitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K20 Oesophagitis,categorical,icd10,361194,0,356395,4799,NA,NA
+K21,Gastro-oesophageal reflux disease,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K21 Gastro-oesophageal reflux disease,categorical,icd10,361194,0,350451,10743,NA,NA
+K25,Gastric ulcer,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K25 Gastric ulcer,categorical,icd10,361194,0,359360,1834,NA,NA
+K26,Duodenal ulcer,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K26 Duodenal ulcer,categorical,icd10,361194,0,359903,1291,NA,NA
+K29,Gastritis and duodenitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K29 Gastritis and duodenitis,categorical,icd10,361194,0,348516,12678,NA,NA
+K30,Dyspepsia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K30 Dyspepsia,categorical,icd10,361194,0,353608,7586,NA,NA
+K35,Acute appendicitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K35 Acute appendicitis,categorical,icd10,361194,0,358790,2404,NA,NA
+K37,Unspecified appendicitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K37 Unspecified appendicitis,categorical,icd10,361194,0,360839,355,NA,NA
+K40,Inguinal hernia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K40 Inguinal hernia,categorical,icd10,361194,0,348047,13147,NA,NA
+K41,Femoral hernia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K41 Femoral hernia,categorical,icd10,361194,0,360728,466,NA,NA
+K42,Umbilical hernia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K42 Umbilical hernia,categorical,icd10,361194,0,358666,2528,NA,NA
+K43,Ventral hernia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K43 Ventral hernia,categorical,icd10,361194,0,358945,2249,NA,NA
+K44,Diaphragmatic hernia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K44 Diaphragmatic hernia,categorical,icd10,361194,0,353152,8042,NA,NA
+K46,Unspecified abdominal hernia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K46 Unspecified abdominal hernia,categorical,icd10,361194,0,361088,106,NA,NA
+K50,Crohn's disease [regional enteritis],Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K50 Crohn's disease [regional enteritis],categorical,icd10,361194,0,360226,968,NA,NA
+K51,Ulcerative colitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K51 Ulcerative colitis,categorical,icd10,361194,0,359051,2143,NA,NA
+K52,Other non-infective gastro-enteritis and colitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K52 Other non-infective gastro-enteritis and colitis,categorical,icd10,361194,0,352437,8757,NA,NA
+K55,Vascular disorders of intestine,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K55 Vascular disorders of intestine,categorical,icd10,361194,0,360832,362,NA,NA
+K56,Paralytic ileus and intestinal obstruction without hernia,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K56 Paralytic ileus and intestinal obstruction without hernia,categorical,icd10,361194,0,359343,1851,NA,NA
+K57,Diverticular disease of intestine,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K57 Diverticular disease of intestine,categorical,icd10,361194,0,348532,12662,NA,NA
+K58,Irritable bowel syndrome,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K58 Irritable bowel syndrome,categorical,icd10,361194,0,360073,1121,NA,NA
+K60,Fissure and fistula of anal and rectal regions,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K60 Fissure and fistula of anal and rectal regions,categorical,icd10,361194,0,359085,2109,NA,NA
+K61,Abscess of anal and rectal regions,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K61 Abscess of anal and rectal regions,categorical,icd10,361194,0,360141,1053,NA,NA
+K65,Peritonitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K65 Peritonitis,categorical,icd10,361194,0,360950,244,NA,NA
+K70,Alcoholic liver disease,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K70 Alcoholic liver disease,categorical,icd10,361194,0,360850,344,NA,NA
+K74,Fibrosis and cirrhosis of liver,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K74 Fibrosis and cirrhosis of liver,categorical,icd10,361194,0,360942,252,NA,NA
+K75,Other inflammatory liver diseases,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K75 Other inflammatory liver diseases,categorical,icd10,361194,0,360892,302,NA,NA
+K80,Cholelithiasis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K80 Cholelithiasis,categorical,icd10,361194,0,350674,10520,NA,NA
+K81,Cholecystitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K81 Cholecystitis,categorical,icd10,361194,0,359264,1930,NA,NA
+K85,Acute pancreatitis,Digestive,ICD10/FinnGen,Diagnoses - main ICD10: K85 Acute pancreatitis,categorical,icd10,361194,0,359902,1292,NA,NA
+K91,"Postprocedural disorders of digestive system, not elsewhere classified",Digestive,ICD10/FinnGen,"Diagnoses - main ICD10: K91 Postprocedural disorders of digestive system, not elsewhere classified",categorical,icd10,361194,0,360500,694,NA,NA
+KRA_PSY_ALCOH,"Alcohol abuse, main dg *",Mental/behavioral,ICD10/FinnGen,"Alcohol abuse, main dg",categorical,finngen,361194,0,360872,322,NA,NA
+KRA_PSY_ANXIETY,Anxiety disorders *,Mental/behavioral,ICD10/FinnGen,Anxiety disorders,categorical,finngen,361194,0,360102,1092,NA,NA
+KRA_PSY_SUBSTANCE,Substance abuse *,Mental/behavioral,ICD10/FinnGen,Substance abuse,categorical,finngen,361194,0,360362,832,NA,NA
+L02,"Cutaneous abscess, furuncle and carbuncle",Dermatologic,ICD10/FinnGen,"Diagnoses - main ICD10: L02 Cutaneous abscess, furuncle and carbuncle",categorical,icd10,361194,0,359497,1697,NA,NA
+L03,Cellulitis,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L03 Cellulitis,categorical,icd10,361194,0,356947,4247,NA,NA
+L05,Pilonidal cyst,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L05 Pilonidal cyst,categorical,icd10,361194,0,360800,394,NA,NA
+L12_ACTINKERA,Actinic keratosis *,Dermatologic,ICD10/FinnGen,Actinic keratosis,categorical,finngen,361194,0,359845,1349,NA,NA
+L12_HIDRADENITISSUP,Hidradenitis suppurativa *,Dermatologic,ICD10/FinnGen,Hidradenitis suppurativa,categorical,finngen,361194,0,361059,135,NA,NA
+L12_HYPETROPHICSCAR,Hypertrophic scar *,Dermatologic,ICD10/FinnGen,Hypertrophic scar,categorical,finngen,361194,0,361041,153,NA,NA
+L12_LICHENSCLERATROPH,Lichen sclerosus et atrophicus *,Dermatologic,ICD10/FinnGen,Lichen sclerosus et atrophicus,categorical,finngen,361194,0,360924,270,NA,NA
+L12_PSORI_ARTHRO,Arthropathic psoriasis *,Dermatologic,ICD10/FinnGen,Arthropathic psoriasis,categorical,finngen,361194,0,360954,240,NA,NA
+L12_PYOGENGRANUL,Pyogenic granuloma *,Dermatologic,ICD10/FinnGen,Pyogenic granuloma,categorical,finngen,361194,0,360935,259,NA,NA
+L12_SCARCONDITIONS,Scar conditions and fibrosis of skin *,Dermatologic,ICD10/FinnGen,Scar conditions and fibrosis of skin,categorical,finngen,361194,0,359718,1476,NA,NA
+L12_URTICARIA,Urticaria *,Dermatologic,ICD10/FinnGen,Urticaria,categorical,finngen,361194,0,361043,151,NA,NA
+L27,Dermatitis due to substances taken internally,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L27 Dermatitis due to substances taken internally,categorical,icd10,361194,0,361075,119,NA,NA
+L28,Lichen simplex chronicus and prurigo,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L28 Lichen simplex chronicus and prurigo,categorical,icd10,361194,0,361072,122,NA,NA
+L29,Pruritus,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L29 Pruritus,categorical,icd10,361194,0,360942,252,NA,NA
+L40,Psoriasis,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L40 Psoriasis,categorical,icd10,361194,0,360720,474,NA,NA
+L43,Lichen planus,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L43 Lichen planus,categorical,icd10,361194,0,360820,374,NA,NA
+L50,Urticaria,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L50 Urticaria,categorical,icd10,361194,0,361051,143,NA,NA
+L57,Skin changes due to chronic exposure to nonionising radiation,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L57 Skin changes due to chronic exposure to nonionising radiation,categorical,icd10,361194,0,359747,1447,NA,NA
+L60,Nail disorders,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L60 Nail disorders,categorical,icd10,361194,0,360308,886,NA,NA
+L71,Rosacea,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L71 Rosacea,categorical,icd10,361194,0,361085,109,NA,NA
+L72,Follicular cysts of skin and subcutaneous tissue,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L72 Follicular cysts of skin and subcutaneous tissue,categorical,icd10,361194,0,354550,6644,NA,NA
+L82,Seborrhoeic keratosis,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L82 Seborrhoeic keratosis,categorical,icd10,361194,0,359163,2031,NA,NA
+L90,Atrophic disorders of skin,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L90 Atrophic disorders of skin,categorical,icd10,361194,0,359511,1683,NA,NA
+L91,Hypertrophic disorders of skin,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L91 Hypertrophic disorders of skin,categorical,icd10,361194,0,360579,615,NA,NA
+L92,Granulomatous disorders of skin and subcutaneous tissue,Dermatologic,ICD10/FinnGen,Diagnoses - main ICD10: L92 Granulomatous disorders of skin and subcutaneous tissue,categorical,icd10,361194,0,360856,338,NA,NA
+L97,"Ulcer of lower limb, not elsewhere classified",Dermatologic,ICD10/FinnGen,"Diagnoses - main ICD10: L97 Ulcer of lower limb, not elsewhere classified",categorical,icd10,361194,0,360932,262,NA,NA
+M00,Pyogenic arthritis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M00 Pyogenic arthritis,categorical,icd10,361194,0,360938,256,NA,NA
+M05,Seropositive rheumatoid arthritis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M05 Seropositive rheumatoid arthritis,categorical,icd10,361194,0,360906,288,NA,NA
+M10,Gout,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M10 Gout,categorical,icd10,361194,0,360879,315,NA,NA
+M13,Other arthritis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M13 Other arthritis,categorical,icd10,361194,0,360084,1110,NA,NA
+M13_ALGONEURO,Alogoneurodystrophy *,Nervous,ICD10/FinnGen,Alogoneurodystrophy,categorical,finngen,361194,0,361071,123,NA,NA
+M13_BAKERCYST,Synovial cyst of popliteal space [Baker] *,Musculoskeletal,ICD10/FinnGen,Synovial cyst of popliteal space [Baker],categorical,finngen,361194,0,360971,223,NA,NA
+M13_DEQUERVAIN,Radial styloid tenosynovitis [de Quervain] *,Musculoskeletal,ICD10/FinnGen,Radial styloid tenosynovitis [de Quervain],categorical,finngen,361194,0,360952,242,NA,NA
+M13_DUPUTRYEN,Palmar fascial fibromatosis [Dupuytren] *,Musculoskeletal,ICD10/FinnGen,Palmar fascial fibromatosis [Dupuytren],categorical,finngen,361194,0,358246,2948,NA,NA
+M13_GANGLION,Ganglion *,Musculoskeletal,ICD10/FinnGen,Ganglion,categorical,finngen,361194,0,358955,2239,NA,NA
+M13_GIANTCELL,Giant cell arteritis *,Musculoskeletal,ICD10/FinnGen,Giant cell arteritis,categorical,finngen,361194,0,360963,231,NA,NA
+M13_OLECRANONBURSITIS,Olecranon bursitis *,Musculoskeletal,ICD10/FinnGen,Olecranon bursitis,categorical,finngen,361194,0,360909,285,NA,NA
+M13_OSTEOPOROSIS,Osteoporosis *,Musculoskeletal,ICD10/FinnGen,Osteoporosis,categorical,finngen,361194,0,360261,933,NA,NA
+M13_PLANTARFASC,Plantar fascial fibromatosis *,Musculoskeletal,ICD10/FinnGen,Plantar fascial fibromatosis,categorical,finngen,361194,0,360994,200,NA,NA
+M13_POLYARTHROPATHIES,Polyarthropathies *,Musculoskeletal,ICD10/FinnGen,#Polyarthropathies,categorical,finngen,361194,0,357919,3275,NA,NA
+M13_PREPATELLARBURSITIS,Prepatellar bursitis *,Musculoskeletal,ICD10/FinnGen,Prepatellar bursitis,categorical,finngen,361194,0,360972,222,NA,NA
+M13_PYOGARTH,Pyogenic arthritis *,Musculoskeletal,ICD10/FinnGen,Pyogenic arthritis,categorical,finngen,361194,0,360916,278,NA,NA
+M13_RADICULOPATHY,Radiculopathy *,Musculoskeletal,ICD10/FinnGen,Radiculopathy,categorical,finngen,361194,0,360662,532,NA,NA
+M13_SCIATICA,Siatica+with lumbago *,Musculoskeletal,ICD10/FinnGen,Siatica+with lumbago,categorical,finngen,361194,0,360041,1153,NA,NA
+M13_TRIGGERFINGER,Trigger finger *,Musculoskeletal,ICD10/FinnGen,Trigger finger,categorical,finngen,361194,0,359195,1999,NA,NA
+M13_TROCHANTERICBURSITIS,Trochanteric bursitis *,Musculoskeletal,ICD10/FinnGen,Trochanteric bursitis,categorical,finngen,361194,0,360750,444,NA,NA
+M15,Polyarthrosis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M15 Polyarthrosis,categorical,icd10,361194,0,359930,1264,NA,NA
+M16,Coxarthrosis [arthrosis of hip],Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M16 Coxarthrosis [arthrosis of hip],categorical,icd10,361194,0,352058,9136,NA,NA
+M17,Gonarthrosis [arthrosis of knee],Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee],categorical,icd10,361194,0,349697,11497,NA,NA
+M18,Arthrosis of first carpometacarpal joint,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M18 Arthrosis of first carpometacarpal joint,categorical,icd10,361194,0,360296,898,NA,NA
+M19,Other arthrosis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M19 Other arthrosis,categorical,icd10,361194,0,357029,4165,NA,NA
+M31,Other necrotising vasculopathies,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M31 Other necrotising vasculopathies,categorical,icd10,361194,0,360868,326,NA,NA
+M41,Scoliosis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M41 Scoliosis,categorical,icd10,361194,0,361012,182,NA,NA
+M45,Ankylosing spondylitis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M45 Ankylosing spondylitis,categorical,icd10,361194,0,361048,146,NA,NA
+M60,Myositis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M60 Myositis,categorical,icd10,361194,0,361086,108,NA,NA
+M65,Synovitis and tenosynovitis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M65 Synovitis and tenosynovitis,categorical,icd10,361194,0,358382,2812,NA,NA
+M66,Spontaneous rupture of synovium and tendon,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M66 Spontaneous rupture of synovium and tendon,categorical,icd10,361194,0,360806,388,NA,NA
+M76,"Enthesopathies of lower limb, excluding foot",Musculoskeletal,ICD10/FinnGen,"Diagnoses - main ICD10: M76 Enthesopathies of lower limb, excluding foot",categorical,icd10,361194,0,360905,289,NA,NA
+M80,Osteoporosis with pathological fracture,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture,categorical,icd10,361194,0,361019,175,NA,NA
+M81,Osteoporosis without pathological fracture,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M81 Osteoporosis without pathological fracture,categorical,icd10,361194,0,360457,737,NA,NA
+M86,Osteomyelitis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M86 Osteomyelitis,categorical,icd10,361194,0,360946,248,NA,NA
+M87,Osteonecrosis,Musculoskeletal,ICD10/FinnGen,Diagnoses - main ICD10: M87 Osteonecrosis,categorical,icd10,361194,0,361003,191,NA,NA
+MENINGITIS,Meningitis *,Nervous,ICD10/FinnGen,Meningitis,categorical,finngen,361194,0,361060,134,NA,NA
+N02,Recurrent and persistent haematuria,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N02 Recurrent and persistent haematuria,categorical,icd10,361194,0,360725,469,NA,NA
+N10,Acute tubulo-interstitial nephritis,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N10 Acute tubulo-interstitial nephritis,categorical,icd10,361194,0,361070,124,NA,NA
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",Genitourinary,ICD10/FinnGen,"Diagnoses - main ICD10: N12 Tubulo-interstitial nephritis, not specified as acute or chronic",categorical,icd10,361194,0,360611,583,NA,NA
+N14_GLOMERULAR,Glomerular diseases *,Genitourinary,ICD10/FinnGen,Glomerular diseases,categorical,finngen,361194,0,360489,705,NA,NA
+N17,Acute renal failure,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N17 Acute renal failure,categorical,icd10,361194,0,360400,794,NA,NA
+N18,Chronic renal failure,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N18 Chronic renal failure,categorical,icd10,361194,0,360673,521,NA,NA
+N19,Unspecified renal failure,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N19 Unspecified renal failure,categorical,icd10,361194,0,361030,164,NA,NA
+N20,Calculus of kidney and ureter,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N20 Calculus of kidney and ureter,categorical,icd10,361194,0,357654,3540,NA,NA
+N21,Calculus of lower urinary tract,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N21 Calculus of lower urinary tract,categorical,icd10,361194,0,360723,471,NA,NA
+N30,Cystitis,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N30 Cystitis,categorical,icd10,361194,0,359619,1575,NA,NA
+N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",Genitourinary,ICD10/FinnGen,"Diagnoses - main ICD10: N31 Neuromuscular dysfunction of bladder, not elsewhere classified",categorical,icd10,361194,0,360180,1014,NA,NA
+N35,Urethral stricture,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N35 Urethral stricture,categorical,icd10,361194,0,359157,2037,NA,NA
+N40,Hyperplasia of prostate,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N40 Hyperplasia of prostate,categorical,icd10,361194,0,356085,5109,NA,NA
+N41,Inflammatory diseases of prostate,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N41 Inflammatory diseases of prostate,categorical,icd10,361194,0,360351,843,NA,NA
+N43,Hydrocele and spermatocele,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N43 Hydrocele and spermatocele,categorical,icd10,361194,0,360310,884,NA,NA
+N45,Orchitis and epididymitis,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N45 Orchitis and epididymitis,categorical,icd10,361194,0,360589,605,NA,NA
+N47,"Redundant prepuce, phimosis and paraphimosis",Genitourinary,ICD10/FinnGen,"Diagnoses - main ICD10: N47 Redundant prepuce, phimosis and paraphimosis",categorical,icd10,361194,0,359651,1543,NA,NA
+N49,"Inflammatory disorders of male genital organs, not elsewhere classified",Genitourinary,ICD10/FinnGen,"Diagnoses - main ICD10: N49 Inflammatory disorders of male genital organs, not elsewhere classified",categorical,icd10,361194,0,361073,121,NA,NA
+N60,Benign mammary dysplasia,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N60 Benign mammary dysplasia,categorical,icd10,361194,0,360037,1157,NA,NA
+N61,Inflammatory disorders of breast,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N61 Inflammatory disorders of breast,categorical,icd10,361194,0,360851,343,NA,NA
+N63,Unspecified lump in breast,Other,ICD10/FinnGen,Diagnoses - main ICD10: N63 Unspecified lump in breast,categorical,icd10,361194,0,359995,1199,NA,NA
+N70,Salpingitis and oophoritis,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N70 Salpingitis and oophoritis,categorical,icd10,361194,0,361003,191,NA,NA
+N71,"Inflammatory disease of uterus, except cervix",Genitourinary,ICD10/FinnGen,"Diagnoses - main ICD10: N71 Inflammatory disease of uterus, except cervix",categorical,icd10,361194,0,361068,126,NA,NA
+N72,Inflammatory disease of cervix uteri,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N72 Inflammatory disease of cervix uteri,categorical,icd10,361194,0,360824,370,NA,NA
+N73,Other female pelvic inflammatory diseases,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N73 Other female pelvic inflammatory diseases,categorical,icd10,361194,0,360573,621,NA,NA
+N75,Diseases of Bartholin's gland,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N75 Diseases of Bartholin's gland,categorical,icd10,361194,0,360604,590,NA,NA
+N80,Endometriosis,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N80 Endometriosis,categorical,icd10,361194,0,359698,1496,NA,NA
+N81,Female genital prolapse,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N81 Female genital prolapse,categorical,icd10,361194,0,353683,7511,NA,NA
+N82,Fistulae involving female genital tract,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N82 Fistulae involving female genital tract,categorical,icd10,361194,0,361078,116,NA,NA
+N83,"Noninflammatory disorders of ovary, Fallopian tube and broad ligament",Genitourinary,ICD10/FinnGen,"Diagnoses - main ICD10: N83 Noninflammatory disorders of ovary, Fallopian tube and broad ligament",categorical,icd10,361194,0,358979,2215,NA,NA
+N84,Polyp of female genital tract,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N84 Polyp of female genital tract,categorical,icd10,361194,0,354208,6986,NA,NA
+N86,Erosion and ectropion of cervix uteri,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N86 Erosion and ectropion of cervix uteri,categorical,icd10,361194,0,360838,356,NA,NA
+N87,Dysplasia of cervix uteri,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N87 Dysplasia of cervix uteri,categorical,icd10,361194,0,360092,1102,NA,NA
+N92,"Excessive, frequent and irregular menstruation",Genitourinary,ICD10/FinnGen,"Diagnoses - main ICD10: N92 Excessive, frequent and irregular menstruation",categorical,icd10,361194,0,352719,8475,NA,NA
+N97,Female infertility,Genitourinary,ICD10/FinnGen,Diagnoses - main ICD10: N97 Female infertility,categorical,icd10,361194,0,360498,696,NA,NA
+NAFLD,Nonalcoholic fatty liver disease *,Digestive,ICD10/FinnGen,Nonalcoholic fatty liver disease,categorical,finngen,361194,0,360919,275,NA,NA
+SPONDYLOARTHRITIS,Spondyloarthritis *,Musculoskeletal,ICD10/FinnGen,Spondyloarthritis,categorical,finngen,361194,0,360730,464,NA,NA
+STILL_ADULT,Adult-onset Still disease *,Blood/immune,ICD10/FinnGen,Adult-onset Still disease,categorical,finngen,361194,0,359708,1486,NA,NA
+ULCERPROCT,Ulcerative proctitis *,Digestive,ICD10/FinnGen,Ulcerative proctitis,categorical,finngen,361194,0,360898,296,NA,NA
+ULCERRECT,Ulcerative rectosigmoiditis *,Digestive,ICD10/FinnGen,Ulcerative rectosigmoiditis,categorical,finngen,361194,0,361034,160,NA,NA
+30000_irnt,White blood cell (leukocyte) count,White blood cells,Lab/Continuous,White blood cell (leukocyte) count,continuous_irnt,phesant,350470,10724,NA,NA,30000_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""White Blood Cell Count"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. White blood count is the number of leukocytes. Analyser operating range was 0 to 9x10^11 cells/Litre. Typical reference range is 3.5x10^9 to 9.6x10^9 cells/Litre."
+30010_irnt,Red blood cell (erythrocyte) count,Red blood cells,Lab/Continuous,Red blood cell (erythrocyte) count,continuous_irnt,phesant,350475,10719,NA,NA,30010_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Red Blood Cell Count"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Red blood cells is the number of erythrocytes. Analyser operating range was 0 to 2x10^13 cells/Litre. Typical reference range is 3.9x10^12 to 5.5x10^12 cells/Litre."
+30020_irnt,Haemoglobin concentration,Red blood cells,Lab/Continuous,Haemoglobin concentration,continuous_irnt,phesant,350474,10720,NA,NA,30020_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Haemoglobin Concentration"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Analyser operating range was 0 to 99.9g/dL Typical reference range is 12.1 to 16.3g/dL"
+30030_irnt,Haematocrit percentage,Red blood cells,Lab/Continuous,Haematocrit percentage,continuous_irnt,phesant,350475,10719,NA,NA,30030_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Haematocrit"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Haematocrit Percentage is the relative volume of packed erythrocytes to whole blood, computed by the formula: (red blood cells x mean corpuscular volume) / 10. Analyser operating range was 0 to 99.9% Typical reference range is 35.4 to 47.2%"
+30040_irnt,Mean corpuscular volume,Red blood cells,Lab/Continuous,Mean corpuscular volume,continuous_irnt,phesant,350473,10721,NA,NA,30040_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Mean Corpuscular Volume"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Mean Corpuscular Haemoglobin Concentration (pg) is the weight of hemoglobin in the average erythrocyte, computed by the formula: MCH = (hemoglobin/red blood cells) x 10."
+30050_irnt,Mean corpuscular haemoglobin,Red blood cells,Lab/Continuous,Mean corpuscular haemoglobin,continuous_irnt,phesant,350472,10722,NA,NA,30050_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Mean Corpuscular Haemoglobin"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit."
+30060_irnt,Mean corpuscular haemoglobin concentration,Red blood cells,Lab/Continuous,Mean corpuscular haemoglobin concentration,continuous_irnt,phesant,350468,10726,NA,NA,30060_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Mean Corpuscular Haemoglobin Concentration"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Mean Corpuscular Haemoglobin Concentration (g/dL) is the average weight of haemoglobin in a measured dilution, computed by the formula: (haemoglobin/haematocrit) x 100."
+30070_irnt,Red blood cell (erythrocyte) distribution width,Red blood cells,Lab/Continuous,Red blood cell (erythrocyte) distribution width,continuous_irnt,phesant,350473,10721,NA,NA,30070_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Red Distribution Width"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Red blood cell Distribution Width is the size distribution spread of the erythrocyte population derived from the red blood cell histogram. It is the coefficient of variation (CV) expressed in % of the red blood cell size distribution."
+30080_irnt,Platelet count,Platelets,Lab/Continuous,Platelet count,continuous_irnt,phesant,350474,10720,NA,NA,30080_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Platelet Count"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Platelet count is the number of thrombocytes derived from the platelet histogram."
+30090_irnt,Platelet crit,Platelets,Lab/Continuous,Platelet crit,continuous_irnt,phesant,350471,10723,NA,NA,30090_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Platelet Crit"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Platelet Crit is a computed value that represents the platelet packed cell volume."
+30100_irnt,Mean platelet (thrombocyte) volume,Platelets,Lab/Continuous,Mean platelet (thrombocyte) volume,continuous_irnt,phesant,350470,10724,NA,NA,30100_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Mean Platelet Volume"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Mean Platelet Volume is the average volume of individual platelets derived from the platelet histogram."
+30110_irnt,Platelet distribution width,Platelets,Lab/Continuous,Platelet distribution width,continuous_irnt,phesant,350470,10724,NA,NA,30110_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Platelet Distribution Width"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Platelet Distribution Width is the coefficient of variation of platelet size."
+30120_irnt,Lymphocyte count,White blood cells,Lab/Continuous,Lymphocyte count,continuous_irnt,phesant,349856,11338,NA,NA,30120_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Lymphocytes Number"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Lymphocyte count is the proportion of ( lymphoctyes / 100 ) x white blood cell count"
+30130_irnt,Monocyte count,White blood cells,Lab/Continuous,Monocyte count,continuous_irnt,phesant,349856,11338,NA,NA,30130_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Monocytes Number"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Monocyte count is the proportion of ( monoctyes / 100 ) x white blood cell count."
+30140_irnt,Neutrophil count,White blood cells,Lab/Continuous,Neutrophill count,continuous_irnt,phesant,349856,11338,NA,NA,30140_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Neutrophils Number"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Neutrophils count is the proportion of ( neutrophils / 100 ) x white blood cell count."
+30180_irnt,Lymphocyte percentage,White blood cells,Lab/Continuous,Lymphocyte percentage,continuous_irnt,phesant,349861,11333,NA,NA,30180_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Lymphocytes Percentage"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Lymphocytes (Percentage) is calculated as the proportion of lymphocytes in the leukocytes."
+30190_irnt,Monocyte percentage,White blood cells,Lab/Continuous,Monocyte percentage,continuous_irnt,phesant,349861,11333,NA,NA,30190_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Monocytes Percentage"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Monocytes (percentage) is calculated as the proportion of monocytes in the leukocytes."
+30200_irnt,Neutrophil percentage,White blood cells,Lab/Continuous,Neutrophill percentage,continuous_irnt,phesant,349861,11333,NA,NA,30200_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Neutrophils Percentage"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Neutrophils (Percentage) is calculated as the proportion of neutrophils in the leukocytes."
+30210_irnt,Eosinophil percentage,White blood cells,Lab/Continuous,Eosinophill percentage,continuous_irnt,phesant,349861,11333,NA,NA,30210_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Eosinophils Percentage"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Eosinophils (Percentage) is calculated as the proportion of eosinophils in the leukocytes."
+30220_irnt,Basophil percentage,White blood cells,Lab/Continuous,Basophill percentage,continuous_irnt,phesant,349861,11333,NA,NA,30220_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Basophils Percentage"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Basophils (Percentage) is calculated as the proportion of basophils in the leukocytes."
+30240_irnt,Reticulocyte percentage,Red blood cells,Lab/Continuous,Reticulocyte percentage,continuous_irnt,phesant,344728,16466,NA,NA,30240_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Reticulocytes Percentage"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Reticulocytes (Percentage) is the number of reticulocytes as a percentage of red blood cells."
+30250_irnt,Reticulocyte count,Red blood cells,Lab/Continuous,Reticulocyte count,continuous_irnt,phesant,344729,16465,NA,NA,30250_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Reticulocytes Number"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Reticulocytes count is computed from the reticulocyte per cent multiplied by the red blood cell count."
+30260_irnt,Mean reticulocyte volume,Red blood cells,Lab/Continuous,Mean reticulocyte volume,continuous_irnt,phesant,344728,16466,NA,NA,30260_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Mean Reticulocytes Volume"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Mean Reticulocytes volume is the average volume of all reticulocytes, calculated from the reticulocytes (percentage)."
+30270_irnt,Mean sphered cell volume,Red blood cells,Lab/Continuous,Mean sphered cell volume,continuous_irnt,phesant,344729,16465,NA,NA,30270_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Mean Sphered Cells Volume"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit."
+30280_irnt,Immature reticulocyte fraction,Red blood cells,Lab/Continuous,Immature reticulocyte fraction,continuous_irnt,phesant,344728,16466,NA,NA,30280_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""Immature Reticulocytes Fraction"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. Immature Reticulocytes Fraction (Percentage) is an indication of new reticulocyte synthesis and is calculated from the reticulocytes (Percentage) as the total number of reticulocyte events in the outermost light scattering region, corresponding to immature reticulocytes, relative to the total number of reticulocytes and is reported as this ratio."
+30290_irnt,High light scatter reticulocyte percentage,Red blood cells,Lab/Continuous,High light scatter reticulocyte percentage,continuous_irnt,phesant,344729,16465,NA,NA,30290_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""High Light Scatter Reticulocytes Percentage"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. High Light Scatter Reticulocytes (Percentage) is computed as: (HLR / Total Erythrocytes) x 100."
+30300_irnt,High light scatter reticulocyte count,Red blood cells,Lab/Continuous,High light scatter reticulocyte count,continuous_irnt,phesant,344729,16465,NA,NA,30300_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,"Result of ""High Light Scatter Reticulocytes Number"" assay, performed on blood sample, obtained from UK Biobank assessment centre visit. High Light Scatter Reticulocytes Count is calculated as: (HLR / Total Erythrocytes) x red blood cells"
+30500_irnt,Microalbumin in urine,Urine,Lab/Continuous,Microalbumin in urine,continuous_irnt,phesant,108706,252488,NA,NA,30500_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,Measured by immunoturbidimetric analysis on a Beckman Coulter AU5400.
+30510_irnt,Creatinine (enzymatic) in urine,Urine,Lab/Continuous,Creatinine (enzymatic) in urine,continuous_irnt,phesant,350812,10382,NA,NA,30510_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,Measured by enzymatic analysis on a Beckman Coulter AU5400.
+30520_irnt,Potassium in urine,Urine,Lab/Continuous,Potassium in urine,continuous_irnt,phesant,350053,11141,NA,NA,30520_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,Measured by ISE (ion selective electrode) analysis on a Beckman Coulter AU5400.
+30530_irnt,Sodium in urine,Urine,Lab/Continuous,Sodium in urine,continuous_irnt,phesant,350061,11133,NA,NA,30530_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT ||,Measured by ISE (ion selective electrode) analysis using Beckman Coulter AU5400.

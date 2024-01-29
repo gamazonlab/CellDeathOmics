@@ -1,0 +1,1062 @@
+gene_name,Tissue,n_snps_in_model,n_tissues
+BCL2L11,Adipose Subcutaneous,12,28
+CASP9,Adipose Subcutaneous,13,47
+RIPK3,Adipose Subcutaneous,10,42
+BBC3,Adipose Subcutaneous,8,36
+CASP8,Adipose Subcutaneous,12,47
+BIK,Adipose Subcutaneous,18,27
+CASP10,Adipose Subcutaneous,27,27
+MEFV,Adipose Subcutaneous,11,20
+BID,Adipose Subcutaneous,40,38
+BOK,Adipose Subcutaneous,44,32
+CASP2,Adipose Subcutaneous,14,13
+RIPK1,Adipose Subcutaneous,30,48
+BAK1,Adipose Subcutaneous,24,49
+HRK,Adipose Subcutaneous,16,13
+CASP7,Adipose Subcutaneous,35,49
+CASP4,Adipose Subcutaneous,4,28
+CASP1,Adipose Subcutaneous,6,13
+MLKL,Adipose Subcutaneous,21,45
+BMF,Adipose Subcutaneous,9,19
+BIRC3,Adipose Subcutaneous,2,17
+BCL2L2,Adipose Subcutaneous,20,31
+BCL2L1,Adipose Subcutaneous,3,7
+CASP3,Adipose Subcutaneous,6,25
+GSDME,Adipose Subcutaneous,41,47
+BCL2,Adipose Subcutaneous,27,21
+GSDMD,Adipose Subcutaneous,16,48
+APAF1,Adipose Subcutaneous,15,39
+CASP9,Adipose Visceral Omentum,12,47
+RIPK3,Adipose Visceral Omentum,17,42
+CASP8,Adipose Visceral Omentum,19,47
+BBC3,Adipose Visceral Omentum,8,36
+BIK,Adipose Visceral Omentum,14,27
+BID,Adipose Visceral Omentum,12,38
+IL18,Adipose Visceral Omentum,7,17
+CASP4,Adipose Visceral Omentum,6,28
+BOK,Adipose Visceral Omentum,11,32
+MEFV,Adipose Visceral Omentum,5,20
+BCL2L2,Adipose Visceral Omentum,13,31
+CASP6,Adipose Visceral Omentum,18,31
+BAK1,Adipose Visceral Omentum,32,49
+CASP7,Adipose Visceral Omentum,32,49
+BIRC2,Adipose Visceral Omentum,7,12
+MLKL,Adipose Visceral Omentum,21,45
+BCL2,Adipose Visceral Omentum,16,21
+CASP10,Adipose Visceral Omentum,5,27
+RIPK1,Adipose Visceral Omentum,18,48
+GSDME,Adipose Visceral Omentum,21,47
+BIRC3,Adipose Visceral Omentum,1,17
+MCL1,Adipose Visceral Omentum,16,7
+GSDMD,Adipose Visceral Omentum,22,48
+CASP5,Adipose Visceral Omentum,8,17
+CASP3,Adipose Visceral Omentum,16,25
+APAF1,Adipose Visceral Omentum,21,39
+BCL2L1,Adrenal Gland,3,7
+CASP9,Adrenal Gland,4,47
+BMF,Adrenal Gland,9,19
+BCL2L11,Adrenal Gland,9,28
+BID,Adrenal Gland,11,38
+CASP8,Adrenal Gland,11,47
+BAD,Adrenal Gland,12,12
+RIPK1,Adrenal Gland,13,48
+BCL2L2,Adrenal Gland,1,31
+CASP10,Adrenal Gland,2,27
+BOK,Adrenal Gland,20,32
+CASP3,Adrenal Gland,1,25
+CASP6,Adrenal Gland,3,31
+CASP7,Adrenal Gland,35,49
+MLKL,Adrenal Gland,10,45
+BBC3,Adrenal Gland,17,36
+HRK,Adrenal Gland,1,13
+BIK,Adrenal Gland,3,27
+BIRC2,Adrenal Gland,3,12
+GSDMD,Adrenal Gland,25,48
+GSDME,Adrenal Gland,19,47
+APAF1,Adrenal Gland,2,39
+BAK1,Adrenal Gland,32,49
+CASP9,Artery Aorta,7,47
+RIPK3,Artery Aorta,19,42
+BID,Artery Aorta,14,38
+PYCARD,Artery Aorta,5,6
+BBC3,Artery Aorta,1,36
+CASP8,Artery Aorta,15,47
+CASP3,Artery Aorta,12,25
+CASP4,Artery Aorta,3,28
+RIPK1,Artery Aorta,18,48
+MEFV,Artery Aorta,5,20
+GSDME,Artery Aorta,27,47
+CASP1,Artery Aorta,15,13
+BCL2L2,Artery Aorta,8,31
+BAK1,Artery Aorta,29,49
+BCL2,Artery Aorta,3,21
+NEK7,Artery Aorta,13,19
+MLKL,Artery Aorta,14,45
+CASP7,Artery Aorta,43,49
+GSDMD,Artery Aorta,23,48
+APAF1,Artery Aorta,16,39
+IL18,Artery Aorta,12,17
+CASP5,Artery Aorta,2,17
+CASP10,Artery Aorta,7,27
+CASP9,Artery Coronary,3,47
+RIPK3,Artery Coronary,2,42
+BBC3,Artery Coronary,1,36
+CASP8,Artery Coronary,13,47
+BCL2A1,Artery Coronary,5,2
+RIPK1,Artery Coronary,3,48
+CASP10,Artery Coronary,3,27
+ZBP1,Artery Coronary,26,7
+CASP7,Artery Coronary,40,49
+IL18,Artery Coronary,11,17
+CASP3,Artery Coronary,12,25
+GSDME,Artery Coronary,7,47
+MLKL,Artery Coronary,1,45
+GSDMD,Artery Coronary,9,48
+BCL2,Artery Coronary,3,21
+BAK1,Artery Coronary,15,49
+APAF1,Artery Coronary,7,39
+CASP9,Artery Tibial,7,47
+RIPK3,Artery Tibial,3,42
+BBC3,Artery Tibial,3,36
+BID,Artery Tibial,14,38
+NEK7,Artery Tibial,15,19
+IL18,Artery Tibial,6,17
+CASP8,Artery Tibial,27,47
+CASP10,Artery Tibial,6,27
+CASP6,Artery Tibial,13,31
+BOK,Artery Tibial,14,32
+CASP4,Artery Tibial,9,28
+RIPK1,Artery Tibial,30,48
+CASP7,Artery Tibial,32,49
+CASP3,Artery Tibial,25,25
+BAK1,Artery Tibial,17,49
+MLKL,Artery Tibial,44,45
+BNIP3,Artery Tibial,9,15
+BCL2L2,Artery Tibial,18,31
+BCL2,Artery Tibial,18,21
+GSDMD,Artery Tibial,20,48
+GSDME,Artery Tibial,33,47
+APAF1,Artery Tibial,26,39
+CASP9,Brain Amygdala,4,47
+BID,Brain Amygdala,6,38
+BBC3,Brain Amygdala,3,36
+CASP8,Brain Amygdala,8,47
+GSDME,Brain Amygdala,5,47
+CASP5,Brain Amygdala,11,17
+CASP7,Brain Amygdala,15,49
+PMAIP1,Brain Amygdala,8,26
+RIPK1,Brain Amygdala,22,48
+BAK1,Brain Amygdala,2,49
+BMF,Brain Amygdala,13,19
+BCL2,Brain Amygdala,11,21
+GSDMD,Brain Amygdala,8,48
+BCL2L11,Brain Anterior cingulate cortex BA24,3,28
+RIPK3,Brain Anterior cingulate cortex BA24,2,42
+BID,Brain Anterior cingulate cortex BA24,4,38
+CASP8,Brain Anterior cingulate cortex BA24,8,47
+BBC3,Brain Anterior cingulate cortex BA24,6,36
+CASP6,Brain Anterior cingulate cortex BA24,12,31
+BAK1,Brain Anterior cingulate cortex BA24,4,49
+CASP4,Brain Anterior cingulate cortex BA24,4,28
+GSDME,Brain Anterior cingulate cortex BA24,6,47
+BIK,Brain Anterior cingulate cortex BA24,3,27
+PMAIP1,Brain Anterior cingulate cortex BA24,3,26
+CASP7,Brain Anterior cingulate cortex BA24,16,49
+APAF1,Brain Anterior cingulate cortex BA24,4,39
+RIPK1,Brain Anterior cingulate cortex BA24,1,48
+MLKL,Brain Anterior cingulate cortex BA24,2,45
+GSDMD,Brain Anterior cingulate cortex BA24,3,48
+BCL2L11,Brain Caudate basal ganglia,11,28
+CASP9,Brain Caudate basal ganglia,3,47
+RIPK3,Brain Caudate basal ganglia,10,42
+BID,Brain Caudate basal ganglia,11,38
+CASP6,Brain Caudate basal ganglia,7,31
+BIK,Brain Caudate basal ganglia,1,27
+BAK1,Brain Caudate basal ganglia,4,49
+BBC3,Brain Caudate basal ganglia,9,36
+BCL2L2,Brain Caudate basal ganglia,1,31
+CASP4,Brain Caudate basal ganglia,5,28
+GSDME,Brain Caudate basal ganglia,7,47
+CASP7,Brain Caudate basal ganglia,13,49
+RIPK1,Brain Caudate basal ganglia,5,48
+MLKL,Brain Caudate basal ganglia,13,45
+GSDMD,Brain Caudate basal ganglia,30,48
+CASP8,Brain Caudate basal ganglia,19,47
+CASP5,Brain Caudate basal ganglia,4,17
+CASP9,Brain Cerebellar Hemisphere,5,47
+PMAIP1,Brain Cerebellar Hemisphere,17,26
+BBC3,Brain Cerebellar Hemisphere,1,36
+CASP6,Brain Cerebellar Hemisphere,11,31
+CASP8,Brain Cerebellar Hemisphere,10,47
+BCL2L11,Brain Cerebellar Hemisphere,30,28
+GSDME,Brain Cerebellar Hemisphere,14,47
+BCL2L2,Brain Cerebellar Hemisphere,2,31
+BMF,Brain Cerebellar Hemisphere,10,19
+CASP4,Brain Cerebellar Hemisphere,5,28
+CASP7,Brain Cerebellar Hemisphere,15,49
+BCL2,Brain Cerebellar Hemisphere,14,21
+NEK7,Brain Cerebellar Hemisphere,8,19
+BNIP3,Brain Cerebellar Hemisphere,5,15
+CASP10,Brain Cerebellar Hemisphere,8,27
+BAK1,Brain Cerebellar Hemisphere,4,49
+MLKL,Brain Cerebellar Hemisphere,8,45
+APAF1,Brain Cerebellar Hemisphere,5,39
+CFLAR,Brain Cerebellar Hemisphere,8,6
+BNIP3L,Brain Cerebellar Hemisphere,15,8
+RIPK1,Brain Cerebellar Hemisphere,14,48
+GSDMD,Brain Cerebellar Hemisphere,6,48
+CASP9,Brain Cerebellum,16,47
+BBC3,Brain Cerebellum,10,36
+CASP6,Brain Cerebellum,9,31
+BCL2L11,Brain Cerebellum,28,28
+PMAIP1,Brain Cerebellum,25,26
+BIK,Brain Cerebellum,2,27
+CASP8,Brain Cerebellum,16,47
+BCL2L2,Brain Cerebellum,1,31
+GSDME,Brain Cerebellum,13,47
+NEK7,Brain Cerebellum,8,19
+BMF,Brain Cerebellum,13,19
+CASP7,Brain Cerebellum,36,49
+BNIP3,Brain Cerebellum,5,15
+BAK1,Brain Cerebellum,31,49
+CASP10,Brain Cerebellum,7,27
+BNIP3L,Brain Cerebellum,16,8
+IL1B,Brain Cerebellum,2,9
+APAF1,Brain Cerebellum,5,39
+MLKL,Brain Cerebellum,3,45
+GSDMD,Brain Cerebellum,14,48
+RIPK1,Brain Cerebellum,14,48
+BCL2L11,Brain Cortex,4,28
+CASP9,Brain Cortex,2,47
+RIPK3,Brain Cortex,5,42
+BID,Brain Cortex,4,38
+CASP8,Brain Cortex,8,47
+BBC3,Brain Cortex,1,36
+CASP6,Brain Cortex,14,31
+BAD,Brain Cortex,3,12
+NEK7,Brain Cortex,13,19
+BCL2L2,Brain Cortex,2,31
+CASP7,Brain Cortex,14,49
+GSDME,Brain Cortex,5,47
+BAK1,Brain Cortex,22,49
+MLKL,Brain Cortex,10,45
+PMAIP1,Brain Cortex,3,26
+BMF,Brain Cortex,10,19
+BOK,Brain Cortex,6,32
+RIPK1,Brain Cortex,5,48
+APAF1,Brain Cortex,4,39
+GSDMD,Brain Cortex,25,48
+BIK,Brain Cortex,2,27
+BCL2L1,Brain Frontal Cortex BA9,3,7
+BCL2L11,Brain Frontal Cortex BA9,9,28
+RIPK3,Brain Frontal Cortex BA9,11,42
+BID,Brain Frontal Cortex BA9,4,38
+CASP8,Brain Frontal Cortex BA9,7,47
+CASP6,Brain Frontal Cortex BA9,13,31
+BAK1,Brain Frontal Cortex BA9,6,49
+BIK,Brain Frontal Cortex BA9,3,27
+BCL2L2,Brain Frontal Cortex BA9,3,31
+CASP7,Brain Frontal Cortex BA9,14,49
+GSDME,Brain Frontal Cortex BA9,9,47
+PMAIP1,Brain Frontal Cortex BA9,4,26
+BBC3,Brain Frontal Cortex BA9,5,36
+RIPK1,Brain Frontal Cortex BA9,4,48
+MLKL,Brain Frontal Cortex BA9,1,45
+GSDMD,Brain Frontal Cortex BA9,10,48
+IL1B,Brain Frontal Cortex BA9,2,9
+BCL2L11,Brain Hippocampus,13,28
+CASP9,Brain Hippocampus,2,47
+RIPK3,Brain Hippocampus,2,42
+BBC3,Brain Hippocampus,3,36
+CASP6,Brain Hippocampus,11,31
+CASP8,Brain Hippocampus,9,47
+BIK,Brain Hippocampus,1,27
+GSDME,Brain Hippocampus,10,47
+BCL2L2,Brain Hippocampus,1,31
+CASP7,Brain Hippocampus,13,49
+APAF1,Brain Hippocampus,7,39
+RIPK1,Brain Hippocampus,5,48
+BAK1,Brain Hippocampus,5,49
+MLKL,Brain Hippocampus,1,45
+BMF,Brain Hippocampus,19,19
+GSDMD,Brain Hippocampus,8,48
+CASP9,Brain Hypothalamus,3,47
+BID,Brain Hypothalamus,4,38
+CASP6,Brain Hypothalamus,11,31
+CASP8,Brain Hypothalamus,8,47
+BCL2,Brain Hypothalamus,1,21
+BAK1,Brain Hypothalamus,20,49
+BCL2L2,Brain Hypothalamus,2,31
+CASP4,Brain Hypothalamus,4,28
+RIPK1,Brain Hypothalamus,5,48
+GSDME,Brain Hypothalamus,15,47
+CASP7,Brain Hypothalamus,18,49
+BMF,Brain Hypothalamus,10,19
+MLKL,Brain Hypothalamus,3,45
+GSDMD,Brain Hypothalamus,9,48
+CASP9,Brain Nucleus accumbens basal ganglia,5,47
+BCL2L11,Brain Nucleus accumbens basal ganglia,15,28
+RIPK3,Brain Nucleus accumbens basal ganglia,6,42
+BID,Brain Nucleus accumbens basal ganglia,3,38
+CFLAR,Brain Nucleus accumbens basal ganglia,10,6
+CASP6,Brain Nucleus accumbens basal ganglia,8,31
+CASP8,Brain Nucleus accumbens basal ganglia,4,47
+BAK1,Brain Nucleus accumbens basal ganglia,6,49
+BIK,Brain Nucleus accumbens basal ganglia,1,27
+NEK7,Brain Nucleus accumbens basal ganglia,13,19
+BCL2L2,Brain Nucleus accumbens basal ganglia,1,31
+PMAIP1,Brain Nucleus accumbens basal ganglia,15,26
+GSDME,Brain Nucleus accumbens basal ganglia,9,47
+CASP4,Brain Nucleus accumbens basal ganglia,9,28
+RIPK1,Brain Nucleus accumbens basal ganglia,5,48
+CASP7,Brain Nucleus accumbens basal ganglia,14,49
+APAF1,Brain Nucleus accumbens basal ganglia,6,39
+MLKL,Brain Nucleus accumbens basal ganglia,4,45
+GSDMD,Brain Nucleus accumbens basal ganglia,16,48
+CASP9,Brain Putamen basal ganglia,3,47
+RIPK3,Brain Putamen basal ganglia,6,42
+BID,Brain Putamen basal ganglia,5,38
+BBC3,Brain Putamen basal ganglia,1,36
+CASP6,Brain Putamen basal ganglia,11,31
+BCL2,Brain Putamen basal ganglia,1,21
+BAK1,Brain Putamen basal ganglia,2,49
+BIK,Brain Putamen basal ganglia,4,27
+GSDME,Brain Putamen basal ganglia,14,47
+CASP7,Brain Putamen basal ganglia,16,49
+RIPK1,Brain Putamen basal ganglia,2,48
+BOK,Brain Putamen basal ganglia,2,32
+MLKL,Brain Putamen basal ganglia,8,45
+GSDMD,Brain Putamen basal ganglia,11,48
+CASP10,Brain Putamen basal ganglia,5,27
+CASP8,Brain Putamen basal ganglia,21,47
+APAF1,Brain Putamen basal ganglia,3,39
+BCL2L11,Brain Spinal cord cervical c-1,12,28
+CASP9,Brain Spinal cord cervical c-1,2,47
+RIPK3,Brain Spinal cord cervical c-1,2,42
+BID,Brain Spinal cord cervical c-1,1,38
+BBC3,Brain Spinal cord cervical c-1,1,36
+BIK,Brain Spinal cord cervical c-1,2,27
+CASP8,Brain Spinal cord cervical c-1,12,47
+BAK1,Brain Spinal cord cervical c-1,5,49
+BIRC2,Brain Spinal cord cervical c-1,30,12
+GSDME,Brain Spinal cord cervical c-1,6,47
+NEK7,Brain Spinal cord cervical c-1,4,19
+MLKL,Brain Spinal cord cervical c-1,3,45
+IL1B,Brain Spinal cord cervical c-1,4,9
+CASP6,Brain Spinal cord cervical c-1,5,31
+CASP7,Brain Spinal cord cervical c-1,16,49
+BAX,Brain Spinal cord cervical c-1,27,11
+RIPK1,Brain Spinal cord cervical c-1,6,48
+GSDMD,Brain Spinal cord cervical c-1,13,48
+RIPK3,Brain Substantia nigra,1,42
+CASP9,Brain Substantia nigra,16,47
+BID,Brain Substantia nigra,7,38
+BAK1,Brain Substantia nigra,12,49
+BMF,Brain Substantia nigra,15,19
+GSDME,Brain Substantia nigra,6,47
+BIRC2,Brain Substantia nigra,5,12
+PMAIP1,Brain Substantia nigra,5,26
+CASP7,Brain Substantia nigra,14,49
+RIPK1,Brain Substantia nigra,13,48
+GSDMD,Brain Substantia nigra,6,48
+RIPK3,Breast Mammary Tissue,27,42
+CASP9,Breast Mammary Tissue,16,47
+BNIP3L,Breast Mammary Tissue,1,8
+BID,Breast Mammary Tissue,4,38
+BBC3,Breast Mammary Tissue,1,36
+CASP8,Breast Mammary Tissue,8,47
+CASP6,Breast Mammary Tissue,6,31
+BOK,Breast Mammary Tissue,19,32
+CASP4,Breast Mammary Tissue,7,28
+BCL2L2,Breast Mammary Tissue,4,31
+CASP2,Breast Mammary Tissue,15,13
+RIPK1,Breast Mammary Tissue,22,48
+BIK,Breast Mammary Tissue,6,27
+HRK,Breast Mammary Tissue,7,13
+BAK1,Breast Mammary Tissue,26,49
+CASP1,Breast Mammary Tissue,12,13
+CASP7,Breast Mammary Tissue,52,49
+MLKL,Breast Mammary Tissue,16,45
+GSDME,Breast Mammary Tissue,36,47
+NEK7,Breast Mammary Tissue,5,19
+CASP3,Breast Mammary Tissue,14,25
+MEFV,Breast Mammary Tissue,19,20
+BIRC3,Breast Mammary Tissue,1,17
+GSDMD,Breast Mammary Tissue,23,48
+BCL2,Breast Mammary Tissue,1,21
+APAF1,Breast Mammary Tissue,5,39
+BCL2L11,Cells Cultured fibroblasts,17,28
+PYCARD,Cells Cultured fibroblasts,5,6
+CASP9,Cells Cultured fibroblasts,10,47
+BOK,Cells Cultured fibroblasts,12,32
+BBC3,Cells Cultured fibroblasts,9,36
+BID,Cells Cultured fibroblasts,15,38
+CASP8,Cells Cultured fibroblasts,40,47
+RIPK3,Cells Cultured fibroblasts,15,42
+MLKL,Cells Cultured fibroblasts,14,45
+BNIP3,Cells Cultured fibroblasts,6,15
+CASP3,Cells Cultured fibroblasts,13,25
+BAX,Cells Cultured fibroblasts,19,11
+HRK,Cells Cultured fibroblasts,22,13
+BAK1,Cells Cultured fibroblasts,24,49
+RIPK1,Cells Cultured fibroblasts,49,48
+PMAIP1,Cells Cultured fibroblasts,18,26
+BCL2L2,Cells Cultured fibroblasts,21,31
+CASP7,Cells Cultured fibroblasts,37,49
+CASP6,Cells Cultured fibroblasts,44,31
+GSDMD,Cells Cultured fibroblasts,17,48
+BCL2,Cells Cultured fibroblasts,10,21
+MCL1,Cells Cultured fibroblasts,17,7
+CASP10,Cells Cultured fibroblasts,11,27
+CFLAR,Cells Cultured fibroblasts,16,6
+GSDME,Cells Cultured fibroblasts,28,47
+NEK7,Cells Cultured fibroblasts,5,19
+BIRC3,Cells Cultured fibroblasts,3,17
+BIK,Cells EBV-transformed lymphocytes,7,27
+BCL2,Cells EBV-transformed lymphocytes,16,21
+CASP1,Cells EBV-transformed lymphocytes,1,13
+BOK,Cells EBV-transformed lymphocytes,2,32
+CASP9,Cells EBV-transformed lymphocytes,30,47
+RIPK1,Cells EBV-transformed lymphocytes,4,48
+BMF,Cells EBV-transformed lymphocytes,1,19
+IL1B,Cells EBV-transformed lymphocytes,3,9
+CASP7,Cells EBV-transformed lymphocytes,10,49
+BAK1,Cells EBV-transformed lymphocytes,4,49
+GSDMD,Cells EBV-transformed lymphocytes,63,48
+MLKL,Cells EBV-transformed lymphocytes,1,45
+GSDME,Cells EBV-transformed lymphocytes,14,47
+APAF1,Cells EBV-transformed lymphocytes,2,39
+CASP9,Colon Sigmoid,2,47
+RIPK3,Colon Sigmoid,19,42
+BID,Colon Sigmoid,21,38
+CASP8,Colon Sigmoid,16,47
+BMF,Colon Sigmoid,14,19
+CASP4,Colon Sigmoid,6,28
+BAX,Colon Sigmoid,21,11
+RIPK1,Colon Sigmoid,22,48
+CASP7,Colon Sigmoid,19,49
+BNIP3,Colon Sigmoid,13,15
+BCL2L2,Colon Sigmoid,14,31
+MLKL,Colon Sigmoid,15,45
+BOK,Colon Sigmoid,21,32
+GSDMD,Colon Sigmoid,20,48
+GSDME,Colon Sigmoid,11,47
+CASP5,Colon Sigmoid,6,17
+BAK1,Colon Sigmoid,18,49
+CASP3,Colon Sigmoid,21,25
+APAF1,Colon Sigmoid,22,39
+BCL2L11,Colon Transverse,11,28
+CASP9,Colon Transverse,6,47
+RIPK3,Colon Transverse,16,42
+BAD,Colon Transverse,18,12
+BID,Colon Transverse,12,38
+BBC3,Colon Transverse,2,36
+CASP8,Colon Transverse,16,47
+BAX,Colon Transverse,1,11
+ZBP1,Colon Transverse,9,7
+BCL2L2,Colon Transverse,1,31
+CASP6,Colon Transverse,2,31
+BIK,Colon Transverse,15,27
+MEFV,Colon Transverse,8,20
+RIPK1,Colon Transverse,23,48
+PMAIP1,Colon Transverse,36,26
+BAK1,Colon Transverse,17,49
+CASP5,Colon Transverse,9,17
+CASP7,Colon Transverse,30,49
+GSDME,Colon Transverse,5,47
+MLKL,Colon Transverse,18,45
+NEK7,Colon Transverse,9,19
+APAF1,Colon Transverse,8,39
+BIRC3,Colon Transverse,1,17
+GSDMD,Colon Transverse,26,48
+BCL2,Colon Transverse,16,21
+BOK,Colon Transverse,4,32
+CASP4,Colon Transverse,5,28
+CASP1,Colon Transverse,1,13
+CASP9,Esophagus Gastroesophageal Junction,17,47
+RIPK3,Esophagus Gastroesophageal Junction,14,42
+BBC3,Esophagus Gastroesophageal Junction,6,36
+BID,Esophagus Gastroesophageal Junction,7,38
+IL18,Esophagus Gastroesophageal Junction,4,17
+BAD,Esophagus Gastroesophageal Junction,18,12
+CASP6,Esophagus Gastroesophageal Junction,2,31
+BIK,Esophagus Gastroesophageal Junction,5,27
+CASP4,Esophagus Gastroesophageal Junction,4,28
+RIPK1,Esophagus Gastroesophageal Junction,16,48
+PMAIP1,Esophagus Gastroesophageal Junction,9,26
+CASP8,Esophagus Gastroesophageal Junction,12,47
+CASP3,Esophagus Gastroesophageal Junction,1,25
+CASP7,Esophagus Gastroesophageal Junction,36,49
+BAK1,Esophagus Gastroesophageal Junction,16,49
+BCL2L11,Esophagus Gastroesophageal Junction,4,28
+CASP1,Esophagus Gastroesophageal Junction,7,13
+BAX,Esophagus Gastroesophageal Junction,17,11
+NEK7,Esophagus Gastroesophageal Junction,22,19
+ZBP1,Esophagus Gastroesophageal Junction,9,7
+BOK,Esophagus Gastroesophageal Junction,14,32
+MEFV,Esophagus Gastroesophageal Junction,14,20
+MLKL,Esophagus Gastroesophageal Junction,17,45
+GSDMD,Esophagus Gastroesophageal Junction,22,48
+CFLAR,Esophagus Gastroesophageal Junction,5,6
+APAF1,Esophagus Gastroesophageal Junction,5,39
+BCL2L2,Esophagus Gastroesophageal Junction,19,31
+GSDME,Esophagus Gastroesophageal Junction,22,47
+BCL2,Esophagus Gastroesophageal Junction,31,21
+BCL2L11,Esophagus Mucosa,5,28
+BAD,Esophagus Mucosa,22,12
+CASP9,Esophagus Mucosa,19,47
+BNIP3L,Esophagus Mucosa,2,8
+RIPK3,Esophagus Mucosa,20,42
+BBC3,Esophagus Mucosa,15,36
+IL18,Esophagus Mucosa,17,17
+BID,Esophagus Mucosa,17,38
+PYCARD,Esophagus Mucosa,30,6
+CASP8,Esophagus Mucosa,10,47
+MLKL,Esophagus Mucosa,8,45
+PMAIP1,Esophagus Mucosa,11,26
+BIK,Esophagus Mucosa,23,27
+RIPK1,Esophagus Mucosa,9,48
+CFLAR,Esophagus Mucosa,8,6
+BOK,Esophagus Mucosa,19,32
+CASP10,Esophagus Mucosa,18,27
+CASP4,Esophagus Mucosa,8,28
+BNIP3,Esophagus Mucosa,14,15
+CASP6,Esophagus Mucosa,3,31
+CASP7,Esophagus Mucosa,36,49
+CASP1,Esophagus Mucosa,2,13
+CASP3,Esophagus Mucosa,18,25
+BIRC3,Esophagus Mucosa,4,17
+BAK1,Esophagus Mucosa,31,49
+NEK7,Esophagus Mucosa,10,19
+BAX,Esophagus Mucosa,14,11
+BIRC2,Esophagus Mucosa,8,12
+CASP5,Esophagus Mucosa,2,17
+APAF1,Esophagus Mucosa,8,39
+MCL1,Esophagus Mucosa,13,7
+GSDMD,Esophagus Mucosa,17,48
+GSDME,Esophagus Mucosa,9,47
+HRK,Esophagus Mucosa,13,13
+CASP9,Esophagus Muscularis,7,47
+RIPK3,Esophagus Muscularis,16,42
+PYCARD,Esophagus Muscularis,11,6
+BCL2L11,Esophagus Muscularis,4,28
+BBC3,Esophagus Muscularis,1,36
+BID,Esophagus Muscularis,19,38
+BIK,Esophagus Muscularis,14,27
+IL18,Esophagus Muscularis,7,17
+CASP8,Esophagus Muscularis,12,47
+CASP6,Esophagus Muscularis,11,31
+RIPK1,Esophagus Muscularis,24,48
+PMAIP1,Esophagus Muscularis,7,26
+CASP10,Esophagus Muscularis,3,27
+CASP7,Esophagus Muscularis,39,49
+BAK1,Esophagus Muscularis,16,49
+CASP1,Esophagus Muscularis,8,13
+MLKL,Esophagus Muscularis,14,45
+CASP4,Esophagus Muscularis,17,28
+CASP3,Esophagus Muscularis,9,25
+BIRC3,Esophagus Muscularis,3,17
+NEK7,Esophagus Muscularis,15,19
+BCL2L2,Esophagus Muscularis,16,31
+GSDMD,Esophagus Muscularis,24,48
+GSDME,Esophagus Muscularis,54,47
+BOK,Esophagus Muscularis,31,32
+APAF1,Esophagus Muscularis,10,39
+CASP5,Esophagus Muscularis,5,17
+BCL2,Esophagus Muscularis,7,21
+BCL2L11,Heart Atrial Appendage,11,28
+CASP9,Heart Atrial Appendage,9,47
+RIPK3,Heart Atrial Appendage,17,42
+BBC3,Heart Atrial Appendage,3,36
+CASP8,Heart Atrial Appendage,12,47
+BCL2,Heart Atrial Appendage,11,21
+BIRC2,Heart Atrial Appendage,7,12
+CASP6,Heart Atrial Appendage,7,31
+MLKL,Heart Atrial Appendage,21,45
+CASP4,Heart Atrial Appendage,4,28
+PMAIP1,Heart Atrial Appendage,15,26
+BAD,Heart Atrial Appendage,4,12
+MEFV,Heart Atrial Appendage,6,20
+RIPK1,Heart Atrial Appendage,3,48
+BIK,Heart Atrial Appendage,7,27
+BOK,Heart Atrial Appendage,30,32
+BAX,Heart Atrial Appendage,17,11
+BAK1,Heart Atrial Appendage,9,49
+BID,Heart Atrial Appendage,26,38
+CASP10,Heart Atrial Appendage,8,27
+CASP3,Heart Atrial Appendage,11,25
+CASP7,Heart Atrial Appendage,29,49
+GSDME,Heart Atrial Appendage,30,47
+GSDMD,Heart Atrial Appendage,15,48
+BCL2L2,Heart Atrial Appendage,17,31
+APAF1,Heart Atrial Appendage,8,39
+CASP9,Heart Left Ventricle,18,47
+RIPK3,Heart Left Ventricle,19,42
+BCL2,Heart Left Ventricle,7,21
+CASP8,Heart Left Ventricle,11,47
+BMF,Heart Left Ventricle,5,19
+BID,Heart Left Ventricle,23,38
+CASP6,Heart Left Ventricle,8,31
+CASP4,Heart Left Ventricle,2,28
+RIPK1,Heart Left Ventricle,5,48
+MEFV,Heart Left Ventricle,12,20
+BIRC2,Heart Left Ventricle,3,12
+BNIP3,Heart Left Ventricle,14,15
+BBC3,Heart Left Ventricle,7,36
+BAK1,Heart Left Ventricle,18,49
+MCL1,Heart Left Ventricle,13,7
+GSDME,Heart Left Ventricle,11,47
+PMAIP1,Heart Left Ventricle,13,26
+NEK7,Heart Left Ventricle,4,19
+MLKL,Heart Left Ventricle,9,45
+BCL2L2,Heart Left Ventricle,12,31
+CASP3,Heart Left Ventricle,19,25
+CASP10,Heart Left Ventricle,20,27
+ZBP1,Heart Left Ventricle,11,7
+BAD,Heart Left Ventricle,9,12
+BOK,Heart Left Ventricle,28,32
+CASP7,Heart Left Ventricle,31,49
+GSDMD,Heart Left Ventricle,25,48
+APAF1,Heart Left Ventricle,17,39
+CASP9,Kidney Cortex,2,47
+CASP8,Kidney Cortex,9,47
+BID,Kidney Cortex,1,38
+BIRC3,Kidney Cortex,8,17
+BAK1,Kidney Cortex,3,49
+GSDME,Kidney Cortex,6,47
+RIPK3,Kidney Cortex,25,42
+RIPK1,Kidney Cortex,1,48
+BNIP3,Kidney Cortex,16,15
+MLKL,Kidney Cortex,1,45
+CASP7,Kidney Cortex,12,49
+CASP2,Kidney Cortex,13,13
+MEFV,Kidney Cortex,51,20
+GSDMD,Kidney Cortex,3,48
+CASP9,Liver,5,47
+RIPK3,Liver,14,42
+CASP8,Liver,11,47
+RIPK1,Liver,3,48
+CASP7,Liver,23,49
+BAK1,Liver,25,49
+CASP10,Liver,18,27
+CASP3,Liver,9,25
+GSDMD,Liver,18,48
+PMAIP1,Liver,20,26
+CASP9,Lung,16,47
+RIPK3,Lung,3,42
+BMF,Lung,2,19
+BNIP3L,Lung,1,8
+BBC3,Lung,7,36
+PMAIP1,Lung,13,26
+CASP8,Lung,6,47
+IL18,Lung,9,17
+BCL2L11,Lung,7,28
+BAK1,Lung,24,49
+CASP4,Lung,7,28
+BIRC2,Lung,36,12
+MEFV,Lung,5,20
+BIK,Lung,13,27
+RIPK1,Lung,21,48
+NEK7,Lung,16,19
+BID,Lung,25,38
+HRK,Lung,5,13
+CASP7,Lung,32,49
+GSDME,Lung,23,47
+CASP2,Lung,27,13
+CASP3,Lung,10,25
+CASP10,Lung,9,27
+MLKL,Lung,15,45
+BOK,Lung,15,32
+BCL2L2,Lung,19,31
+BIRC3,Lung,2,17
+MCL1,Lung,15,7
+APAF1,Lung,12,39
+GSDMD,Lung,23,48
+CASP5,Lung,12,17
+CASP9,Minor Salivary Gland,15,47
+RIPK3,Minor Salivary Gland,20,42
+CASP8,Minor Salivary Gland,14,47
+BOK,Minor Salivary Gland,5,32
+CASP4,Minor Salivary Gland,6,28
+RIPK1,Minor Salivary Gland,4,48
+GSDME,Minor Salivary Gland,5,47
+CASP7,Minor Salivary Gland,17,49
+CASP5,Minor Salivary Gland,10,17
+BIRC2,Minor Salivary Gland,12,12
+BIRC3,Minor Salivary Gland,1,17
+MLKL,Minor Salivary Gland,1,45
+APAF1,Minor Salivary Gland,2,39
+GSDMD,Minor Salivary Gland,9,48
+BAK1,Minor Salivary Gland,9,49
+CASP9,Muscle Skeletal,6,47
+RIPK3,Muscle Skeletal,18,42
+BID,Muscle Skeletal,19,38
+BBC3,Muscle Skeletal,3,36
+CASP8,Muscle Skeletal,11,47
+IL18,Muscle Skeletal,24,17
+RIPK1,Muscle Skeletal,6,48
+CASP2,Muscle Skeletal,5,13
+BNIP3,Muscle Skeletal,14,15
+GSDMD,Muscle Skeletal,27,48
+CASP4,Muscle Skeletal,15,28
+BAK1,Muscle Skeletal,32,49
+CASP3,Muscle Skeletal,20,25
+CASP7,Muscle Skeletal,46,49
+MLKL,Muscle Skeletal,17,45
+PMAIP1,Muscle Skeletal,2,26
+GSDME,Muscle Skeletal,13,47
+BCL2L2,Muscle Skeletal,21,31
+BOK,Muscle Skeletal,16,32
+BIRC3,Muscle Skeletal,6,17
+BCL2L11,Muscle Skeletal,13,28
+APAF1,Muscle Skeletal,9,39
+BCL2L11,Nerve Tibial,15,28
+CASP9,Nerve Tibial,14,47
+RIPK3,Nerve Tibial,3,42
+BNIP3L,Nerve Tibial,6,8
+BMF,Nerve Tibial,15,19
+BID,Nerve Tibial,20,38
+BBC3,Nerve Tibial,1,36
+BAK1,Nerve Tibial,15,49
+IL18,Nerve Tibial,7,17
+NEK7,Nerve Tibial,14,19
+CASP10,Nerve Tibial,33,27
+GSDME,Nerve Tibial,7,47
+CASP6,Nerve Tibial,15,31
+CASP4,Nerve Tibial,30,28
+BCL2L2,Nerve Tibial,7,31
+HRK,Nerve Tibial,5,13
+RIPK1,Nerve Tibial,31,48
+CASP7,Nerve Tibial,46,49
+MEFV,Nerve Tibial,13,20
+CASP2,Nerve Tibial,3,13
+BAX,Nerve Tibial,5,11
+MLKL,Nerve Tibial,18,45
+BIRC3,Nerve Tibial,4,17
+GSDMD,Nerve Tibial,29,48
+BCL2,Nerve Tibial,2,21
+BOK,Nerve Tibial,4,32
+APAF1,Nerve Tibial,18,39
+CASP8,Nerve Tibial,16,47
+CASP5,Nerve Tibial,7,17
+CASP3,Nerve Tibial,23,25
+BCL2L11,Ovary,10,28
+BMF,Ovary,11,19
+CASP9,Ovary,10,47
+BID,Ovary,4,38
+BBC3,Ovary,2,36
+CASP8,Ovary,9,47
+MEFV,Ovary,15,20
+RIPK1,Ovary,4,48
+BOK,Ovary,3,32
+CASP5,Ovary,1,17
+CASP7,Ovary,22,49
+CASP4,Ovary,10,28
+BNIP3L,Ovary,8,8
+CASP2,Ovary,29,13
+CASP1,Ovary,2,13
+MLKL,Ovary,3,45
+GSDME,Ovary,8,47
+BAK1,Ovary,2,49
+GSDMD,Ovary,12,48
+APAF1,Ovary,4,39
+BCL2L11,Pancreas,14,28
+CASP9,Pancreas,6,47
+RIPK3,Pancreas,11,42
+BID,Pancreas,13,38
+CASP3,Pancreas,28,25
+CASP8,Pancreas,5,47
+IL18,Pancreas,6,17
+CASP4,Pancreas,11,28
+BAD,Pancreas,5,12
+CASP1,Pancreas,14,13
+RIPK1,Pancreas,9,48
+BCL2L2,Pancreas,5,31
+CASP6,Pancreas,1,31
+BNIP3,Pancreas,3,15
+BAK1,Pancreas,17,49
+GSDME,Pancreas,5,47
+PMAIP1,Pancreas,2,26
+CASP10,Pancreas,13,27
+MLKL,Pancreas,1,45
+GSDMD,Pancreas,23,48
+BIK,Pancreas,8,27
+CASP7,Pancreas,34,49
+BOK,Pancreas,21,32
+APAF1,Pancreas,8,39
+BCL2L11,Pituitary,11,28
+CASP9,Pituitary,6,47
+BID,Pituitary,6,38
+BIK,Pituitary,5,27
+CASP6,Pituitary,12,31
+RIPK3,Pituitary,17,42
+CASP7,Pituitary,19,49
+BCL2L1,Pituitary,4,7
+GSDME,Pituitary,7,47
+BBC3,Pituitary,3,36
+RIPK1,Pituitary,10,48
+CASP8,Pituitary,7,47
+BAK1,Pituitary,16,49
+BCL2A1,Pituitary,25,2
+BCL2L2,Pituitary,31,31
+MLKL,Pituitary,14,45
+CASP10,Pituitary,18,27
+BIRC3,Pituitary,3,17
+APAF1,Pituitary,5,39
+BOK,Pituitary,9,32
+CASP9,Prostate,13,47
+RIPK3,Prostate,2,42
+BCL2L11,Prostate,6,28
+BID,Prostate,13,38
+BBC3,Prostate,2,36
+CASP8,Prostate,14,47
+CASP10,Prostate,4,27
+RIPK1,Prostate,20,48
+CASP6,Prostate,7,31
+BAK1,Prostate,21,49
+MLKL,Prostate,14,45
+CASP7,Prostate,34,49
+BOK,Prostate,12,32
+BAX,Prostate,3,11
+GSDMD,Prostate,18,48
+APAF1,Prostate,14,39
+IL1B,Prostate,23,9
+GSDME,Prostate,15,47
+BCL2L11,Skin Not Sun Exposed Suprapubic,2,28
+RIPK3,Skin Not Sun Exposed Suprapubic,11,42
+BID,Skin Not Sun Exposed Suprapubic,13,38
+CASP8,Skin Not Sun Exposed Suprapubic,18,47
+IL18,Skin Not Sun Exposed Suprapubic,9,17
+BNIP3,Skin Not Sun Exposed Suprapubic,8,15
+BCL2L1,Skin Not Sun Exposed Suprapubic,6,7
+CASP10,Skin Not Sun Exposed Suprapubic,25,27
+BMF,Skin Not Sun Exposed Suprapubic,6,19
+BAD,Skin Not Sun Exposed Suprapubic,4,12
+RIPK1,Skin Not Sun Exposed Suprapubic,27,48
+CASP4,Skin Not Sun Exposed Suprapubic,8,28
+BCL2L2,Skin Not Sun Exposed Suprapubic,12,31
+PMAIP1,Skin Not Sun Exposed Suprapubic,9,26
+HRK,Skin Not Sun Exposed Suprapubic,5,13
+IL1B,Skin Not Sun Exposed Suprapubic,8,9
+CASP3,Skin Not Sun Exposed Suprapubic,9,25
+BOK,Skin Not Sun Exposed Suprapubic,2,32
+BAK1,Skin Not Sun Exposed Suprapubic,32,49
+CASP1,Skin Not Sun Exposed Suprapubic,16,13
+CASP9,Skin Not Sun Exposed Suprapubic,9,47
+BIRC2,Skin Not Sun Exposed Suprapubic,11,12
+BIRC3,Skin Not Sun Exposed Suprapubic,2,17
+GSDMD,Skin Not Sun Exposed Suprapubic,15,48
+CASP2,Skin Not Sun Exposed Suprapubic,4,13
+MLKL,Skin Not Sun Exposed Suprapubic,10,45
+BIK,Skin Not Sun Exposed Suprapubic,22,27
+CASP7,Skin Not Sun Exposed Suprapubic,27,49
+GSDME,Skin Not Sun Exposed Suprapubic,18,47
+NEK7,Skin Not Sun Exposed Suprapubic,4,19
+APAF1,Skin Not Sun Exposed Suprapubic,12,39
+CASP5,Skin Not Sun Exposed Suprapubic,7,17
+BCL2L11,Skin Sun Exposed Lower leg,6,28
+RIPK3,Skin Sun Exposed Lower leg,14,42
+PYCARD,Skin Sun Exposed Lower leg,2,6
+BCL2L1,Skin Sun Exposed Lower leg,11,7
+BBC3,Skin Sun Exposed Lower leg,5,36
+BID,Skin Sun Exposed Lower leg,15,38
+CASP8,Skin Sun Exposed Lower leg,17,47
+IL18,Skin Sun Exposed Lower leg,16,17
+CASP9,Skin Sun Exposed Lower leg,9,47
+BNIP3,Skin Sun Exposed Lower leg,8,15
+BMF,Skin Sun Exposed Lower leg,15,19
+RIPK1,Skin Sun Exposed Lower leg,17,48
+CASP10,Skin Sun Exposed Lower leg,26,27
+GSDME,Skin Sun Exposed Lower leg,16,47
+CASP2,Skin Sun Exposed Lower leg,12,13
+BAD,Skin Sun Exposed Lower leg,4,12
+PMAIP1,Skin Sun Exposed Lower leg,7,26
+BAX,Skin Sun Exposed Lower leg,14,11
+IL1B,Skin Sun Exposed Lower leg,10,9
+CASP6,Skin Sun Exposed Lower leg,25,31
+BAK1,Skin Sun Exposed Lower leg,46,49
+BIRC2,Skin Sun Exposed Lower leg,11,12
+MLKL,Skin Sun Exposed Lower leg,15,45
+BCL2L2,Skin Sun Exposed Lower leg,17,31
+BIRC3,Skin Sun Exposed Lower leg,5,17
+HRK,Skin Sun Exposed Lower leg,25,13
+GSDMD,Skin Sun Exposed Lower leg,14,48
+CASP3,Skin Sun Exposed Lower leg,26,25
+CASP1,Skin Sun Exposed Lower leg,20,13
+BIK,Skin Sun Exposed Lower leg,19,27
+BOK,Skin Sun Exposed Lower leg,5,32
+CASP7,Skin Sun Exposed Lower leg,29,49
+APAF1,Skin Sun Exposed Lower leg,14,39
+CASP9,Small Intestine Terminal Ileum,3,47
+RIPK3,Small Intestine Terminal Ileum,3,42
+CASP8,Small Intestine Terminal Ileum,8,47
+BBC3,Small Intestine Terminal Ileum,17,36
+BOK,Small Intestine Terminal Ileum,7,32
+CASP5,Small Intestine Terminal Ileum,19,17
+CASP6,Small Intestine Terminal Ileum,2,31
+RIPK1,Small Intestine Terminal Ileum,7,48
+HRK,Small Intestine Terminal Ileum,7,13
+PMAIP1,Small Intestine Terminal Ileum,19,26
+IL1B,Small Intestine Terminal Ileum,2,9
+GSDMD,Small Intestine Terminal Ileum,12,48
+CASP7,Small Intestine Terminal Ileum,23,49
+BID,Small Intestine Terminal Ileum,19,38
+MEFV,Small Intestine Terminal Ileum,31,20
+MLKL,Small Intestine Terminal Ileum,2,45
+CASP4,Small Intestine Terminal Ileum,9,28
+BAK1,Small Intestine Terminal Ileum,2,49
+APAF1,Small Intestine Terminal Ileum,9,39
+CASP9,Spleen,3,47
+RIPK3,Spleen,18,42
+BBC3,Spleen,2,36
+CASP8,Spleen,13,47
+BIK,Spleen,18,27
+CASP2,Spleen,20,13
+MEFV,Spleen,6,20
+RIPK1,Spleen,13,48
+BCL2L2,Spleen,7,31
+BAK1,Spleen,15,49
+CASP7,Spleen,31,49
+CASP10,Spleen,11,27
+BAD,Spleen,12,12
+ZBP1,Spleen,8,7
+APAF1,Spleen,14,39
+CASP4,Spleen,15,28
+BNIP3,Spleen,9,15
+GSDME,Spleen,6,47
+HRK,Spleen,5,13
+BOK,Spleen,15,32
+GSDMD,Spleen,10,48
+BCL2L11,Stomach,28,28
+CASP9,Stomach,7,47
+RIPK3,Stomach,19,42
+BBC3,Stomach,11,36
+PYCARD,Stomach,1,6
+BID,Stomach,4,38
+CASP8,Stomach,13,47
+IL18,Stomach,4,17
+MLKL,Stomach,14,45
+CASP6,Stomach,8,31
+RIPK1,Stomach,20,48
+CASP4,Stomach,9,28
+MEFV,Stomach,6,20
+BOK,Stomach,4,32
+BCL2L2,Stomach,6,31
+BAK1,Stomach,14,49
+CASP7,Stomach,21,49
+APAF1,Stomach,17,39
+CASP10,Stomach,9,27
+GSDME,Stomach,5,47
+BIRC3,Stomach,1,17
+GSDMD,Stomach,9,48
+CASP3,Stomach,9,25
+CASP5,Stomach,7,17
+BCL2L1,Testis,3,7
+BNIP3L,Testis,1,8
+RIPK3,Testis,16,42
+CASP9,Testis,26,47
+BID,Testis,17,38
+BCL2,Testis,1,21
+CASP8,Testis,13,47
+IL18,Testis,4,17
+CASP7,Testis,20,49
+GSDME,Testis,21,47
+BMF,Testis,4,19
+RIPK1,Testis,17,48
+BNIP3,Testis,3,15
+BOK,Testis,9,32
+PMAIP1,Testis,22,26
+CASP6,Testis,18,31
+CASP2,Testis,1,13
+MCL1,Testis,34,7
+MEFV,Testis,34,20
+CASP3,Testis,27,25
+BAK1,Testis,13,49
+MLKL,Testis,13,45
+IL1B,Testis,15,9
+GSDMD,Testis,23,48
+APAF1,Testis,11,39
+CASP9,Thyroid,10,47
+BCL2L11,Thyroid,11,28
+RIPK3,Thyroid,20,42
+CFLAR,Thyroid,4,6
+BBC3,Thyroid,4,36
+BID,Thyroid,21,38
+BOK,Thyroid,25,32
+NEK7,Thyroid,9,19
+CASP10,Thyroid,16,27
+IL18,Thyroid,21,17
+CASP6,Thyroid,14,31
+CASP4,Thyroid,7,28
+MEFV,Thyroid,6,20
+RIPK1,Thyroid,25,48
+PMAIP1,Thyroid,9,26
+CASP2,Thyroid,26,13
+CASP7,Thyroid,62,49
+BIRC2,Thyroid,3,12
+BAK1,Thyroid,39,49
+BCL2L2,Thyroid,11,31
+GSDMD,Thyroid,20,48
+MLKL,Thyroid,15,45
+GSDME,Thyroid,49,47
+CASP8,Thyroid,22,47
+CASP3,Thyroid,25,25
+APAF1,Thyroid,15,39
+HRK,Thyroid,4,13
+CASP5,Thyroid,8,17
+BIK,Thyroid,8,27
+BCL2,Thyroid,11,21
+CASP9,Uterus,7,47
+RIPK3,Uterus,2,42
+IL18,Uterus,4,17
+CASP8,Uterus,19,47
+GSDME,Uterus,5,47
+BIK,Uterus,4,27
+CASP7,Uterus,16,49
+MEFV,Uterus,2,20
+RIPK1,Uterus,1,48
+CASP10,Uterus,5,27
+MLKL,Uterus,3,45
+BAK1,Uterus,3,49
+GSDMD,Uterus,12,48
+BAD,Uterus,35,12
+APAF1,Uterus,2,39
+NEK7,Vagina,19,19
+CASP9,Vagina,4,47
+RIPK3,Vagina,2,42
+CASP8,Vagina,8,47
+CASP10,Vagina,6,27
+GSDME,Vagina,12,47
+PMAIP1,Vagina,4,26
+BNIP3,Vagina,8,15
+BCL2,Vagina,3,21
+APAF1,Vagina,12,39
+CASP7,Vagina,19,49
+MLKL,Vagina,1,45
+ZBP1,Vagina,13,7
+MEFV,Vagina,25,20
+GSDMD,Vagina,6,48
+BAK1,Vagina,3,49
+CASP9,Whole Blood,7,47
+CASP8,Whole Blood,27,47
+CASP3,Whole Blood,6,25
+BMF,Whole Blood,13,19
+RIPK3,Whole Blood,8,42
+BOK,Whole Blood,13,32
+BAX,Whole Blood,5,11
+GSDME,Whole Blood,36,47
+BAK1,Whole Blood,26,49
+MEFV,Whole Blood,10,20
+RIPK1,Whole Blood,4,48
+CASP1,Whole Blood,14,13
+ZBP1,Whole Blood,12,7
+PMAIP1,Whole Blood,8,26
+GSDMD,Whole Blood,8,48
+CASP7,Whole Blood,38,49
+HRK,Whole Blood,28,13
+CASP5,Whole Blood,7,17
+MLKL,Whole Blood,15,45
+BIRC3,Whole Blood,3,17
+MCL1,Whole Blood,26,7
+BBC3,Whole Blood,9,36
+CASP2,Whole Blood,40,13

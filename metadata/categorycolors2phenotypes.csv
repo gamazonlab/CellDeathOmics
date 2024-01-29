@@ -1,0 +1,514 @@
+Category,Phenotype Code,Phenotype Description,Derivation,groupnum,color,Position
+Infectious disease,A08,Viral and other specified intestinal infections,ICD10/FinnGen,1,blue,1
+Infectious disease,A09,Diarrhoea and gastro-enteritis of presumed infectious origin,ICD10/FinnGen,1,blue,2
+Infectious disease,A87,Viral meningitis,ICD10/FinnGen,1,blue,3
+Infectious disease,AB1_INFECTIONS,Certain infectious and parasitic diseases *,ICD10/FinnGen,1,blue,4
+Infectious disease,INFLUENZA,All influenza (not pneumonia) *,ICD10/FinnGen,1,blue,5
+Infectious disease,A63,"Other predominantly sexually transmitted diseases, not elsewhere classified",ICD10/FinnGen,1,blue,6
+Infectious disease,AB1_OTHER_BACTERIAL,Other bacterial diseases *,ICD10/FinnGen,1,blue,7
+Infectious disease,AB1_OTHER_VIRAL,Other viral diseases *,ICD10/FinnGen,1,blue,8
+Infectious disease,AB1_INTESTINAL_INFECTIONS,Intestinal infectious diseases *,ICD10/FinnGen,1,blue,9
+Infectious disease,CAMPYLOENTERITIS,Campylobacter enteritis *,ICD10/FinnGen,1,blue,10
+Infectious disease,A04,Other bacterial intestinal infections,ICD10/FinnGen,1,blue,11
+Infectious disease,AB1_VIRAL_SKIN_MUCOUS_MEMBRANE,Viral infections characterized by skin and mucous membrane lesions *,ICD10/FinnGen,1,blue,12
+Infectious disease,B02,Zoster [herpes zoster],ICD10/FinnGen,1,blue,13
+Infectious disease,B07,Viral warts,ICD10/FinnGen,1,blue,14
+Infectious disease,A41,Other septicaemia,ICD10/FinnGen,1,blue,15
+Infectious disease,B34,Viral infection of unspecified site,ICD10/FinnGen,1,blue,16
+Infectious disease,B37,Candidiasis,ICD10/FinnGen,1,blue,17
+Infectious disease,AB1_SEXUAL_TRANSMISSION,Infections with a predominantly sexual mode of transmission *,ICD10/FinnGen,1,blue,18
+Infectious disease,AB1_MYCOSES,Mycoses *,ICD10/FinnGen,1,blue,19
+Infectious disease,AB1_VIRAL_HEPATITIS,Viral hepatitis *,ICD10/FinnGen,1,blue,20
+Infectious disease,AB1_VIRAL_CNS,Viral infections of the central nervous system *,ICD10/FinnGen,1,blue,21
+Infectious disease,B18,Chronic viral hepatitis,ICD10/FinnGen,1,blue,22
+Infectious disease,C_DIFFICILE_ENTEROCOLITIS,Enterocolitis due to Clostridium difficile *,ICD10/FinnGen,1,blue,23
+Neoplasms,C90,Multiple myeloma and malignant plasma cell neoplasms,ICD10/FinnGen,2,darkcyan,25
+Neoplasms,C_OESOPHAGUS,Malignant neoplasm of oesophagus *,ICD10/FinnGen,2,darkcyan,26
+Neoplasms,C09,Malignant neoplasm of tonsil,ICD10/FinnGen,2,darkcyan,27
+Neoplasms,C15,Malignant neoplasm of oesophagus,ICD10/FinnGen,2,darkcyan,28
+Neoplasms,C19,Malignant neoplasm of rectosigmoid junction,ICD10/FinnGen,2,darkcyan,29
+Neoplasms,C01,Malignant neoplasm of base of tongue,ICD10/FinnGen,2,darkcyan,30
+Neoplasms,C_NONFOLLICULAR_LYMPHOMA,Non-follicular lymphoma *,ICD10/FinnGen,2,darkcyan,31
+Neoplasms,C85,Other and unspecified types of non-Hodgkin's lymphoma,ICD10/FinnGen,2,darkcyan,32
+Neoplasms,C_TNK_LYMPHOMA,Mature T/NK-cell lymphomas *,ICD10/FinnGen,2,darkcyan,33
+Neoplasms,D12,"Benign neoplasm of colon, rectum, anus and anal canal",ICD10/FinnGen,2,darkcyan,34
+Neoplasms,C92,Myeloid leukaemia,ICD10/FinnGen,2,darkcyan,35
+Neoplasms,C02,Malignant neoplasm of other and unspecified parts of tongue,ICD10/FinnGen,2,darkcyan,36
+Neoplasms,D11,Benign neoplasm of major salivary glands,ICD10/FinnGen,2,darkcyan,37
+Neoplasms,C18,Malignant neoplasm of colon,ICD10/FinnGen,2,darkcyan,38
+Neoplasms,C16,Malignant neoplasm of stomach,ICD10/FinnGen,2,darkcyan,39
+Neoplasms,C_MULTIPLE_MYELOMA_PLASMA_CELL,Multiple myeloma and malignant plasma cell neoplasms *,ICD10/FinnGen,2,darkcyan,40
+Neoplasms,C_MYELOID-LEUKAEMIA,Myeloid leukaemia *,ICD10/FinnGen,2,darkcyan,41
+Neoplasms,C83,Diffuse non-Hodgkin's lymphoma,ICD10/FinnGen,2,darkcyan,42
+Neoplasms,C91,Lymphoid leukaemia,ICD10/FinnGen,2,darkcyan,43
+Neoplasms,D09,Carcinoma in situ of other and unspecified sites,ICD10/FinnGen,2,darkcyan,44
+Neoplasms,D10,Benign neoplasm of mouth and pharynx,ICD10/FinnGen,2,darkcyan,45
+Neoplasms,C3_URINARY_TRACT,Malignant neoplasm of urinary organs *,ICD10/FinnGen,2,darkcyan,46
+Neoplasms,C32,Malignant neoplasm of larynx,ICD10/FinnGen,2,darkcyan,47
+Neoplasms,D14,Benign neoplasm of middle ear and respiratory system,ICD10/FinnGen,2,darkcyan,48
+Neoplasms,D16,Benign neoplasm of bone and articular cartilage,ICD10/FinnGen,2,darkcyan,49
+Neoplasms,C17,Malignant neoplasm of small intestine,ICD10/FinnGen,2,darkcyan,50
+Neoplasms,D18,"Haemangioma and lymphangioma, any site",ICD10/FinnGen,2,darkcyan,51
+Neoplasms,D03,Melanoma in situ,ICD10/FinnGen,2,darkcyan,52
+Neoplasms,D04,Carcinoma in situ of skin,ICD10/FinnGen,2,darkcyan,53
+Neoplasms,D05,Carcinoma in situ of breast,ICD10/FinnGen,2,darkcyan,54
+Neoplasms,D06,Carcinoma in situ of cervix uteri,ICD10/FinnGen,2,darkcyan,55
+Neoplasms,D07,Carcinoma in situ of other and unspecified genital organs,ICD10/FinnGen,2,darkcyan,56
+Neoplasms,C22,Malignant neoplasm of liver and intrahepatic bile ducts,ICD10/FinnGen,2,darkcyan,57
+Neoplasms,C25,Malignant neoplasm of pancreas,ICD10/FinnGen,2,darkcyan,58
+Neoplasms,C64,"Malignant neoplasm of kidney, except renal pelvis",ICD10/FinnGen,2,darkcyan,59
+Neoplasms,C67,Malignant neoplasm of bladder,ICD10/FinnGen,2,darkcyan,60
+Neoplasms,C34,Malignant neoplasm of bronchus and lung,ICD10/FinnGen,2,darkcyan,61
+Neoplasms,C43,Malignant melanoma of skin,ICD10/FinnGen,2,darkcyan,62
+Neoplasms,D17,Benign lipomatous neoplasm,ICD10/FinnGen,2,darkcyan,63
+Neoplasms,D34,Benign neoplasm of thyroid gland,ICD10/FinnGen,2,darkcyan,64
+Neoplasms,C79,Secondary malignant neoplasm of other sites,ICD10/FinnGen,2,darkcyan,65
+Neoplasms,C80,Malignant neoplasm without specification of site,ICD10/FinnGen,2,darkcyan,66
+Neoplasms,C81,Hodgkin's disease,ICD10/FinnGen,2,darkcyan,67
+Neoplasms,C82,Follicular [nodular] non-Hodgkin's lymphoma,ICD10/FinnGen,2,darkcyan,68
+Neoplasms,C21,Malignant neoplasm of anus and anal canal,ICD10/FinnGen,2,darkcyan,69
+Neoplasms,C61,Malignant neoplasm of prostate,ICD10/FinnGen,2,darkcyan,70
+Neoplasms,C62,Malignant neoplasm of testis,ICD10/FinnGen,2,darkcyan,71
+Neoplasms,C44,Other malignant neoplasms of skin,ICD10/FinnGen,2,darkcyan,72
+Neoplasms,C45,Mesothelioma,ICD10/FinnGen,2,darkcyan,73
+Neoplasms,C69,Malignant neoplasm of eye and adnexa,ICD10/FinnGen,2,darkcyan,74
+Neoplasms,D30,Benign neoplasm of urinary organs,ICD10/FinnGen,2,darkcyan,75
+Neoplasms,D24,Benign neoplasm of breast,ICD10/FinnGen,2,darkcyan,76
+Neoplasms,C20,Malignant neoplasm of rectum,ICD10/FinnGen,2,darkcyan,77
+Neoplasms,C48,Malignant neoplasm of retroperitoneum and peritoneum,ICD10/FinnGen,2,darkcyan,78
+Neoplasms,D22,Melanocytic naevi,ICD10/FinnGen,2,darkcyan,79
+Neoplasms,C56,Malignant neoplasm of ovary,ICD10/FinnGen,2,darkcyan,80
+Neoplasms,D32,Benign neoplasm of meninges,ICD10/FinnGen,2,darkcyan,81
+Neoplasms,D25,Leiomyoma of uterus,ICD10/FinnGen,2,darkcyan,82
+Neoplasms,D27,Benign neoplasm of ovary,ICD10/FinnGen,2,darkcyan,83
+Neoplasms,C_LIVER_INTRAHEPATIC_BILE_DUCTS,Malignant neoplasm of liver and intrahepatic bile ducts *,ICD10/FinnGen,2,darkcyan,84
+Neoplasms,C_MELANOMA_SKIN,Malignant melanoma of skin *,ICD10/FinnGen,2,darkcyan,85
+Neoplasms,D33,Benign neoplasm of brain and other parts of central nervous system,ICD10/FinnGen,2,darkcyan,86
+Neoplasms,C78,Secondary malignant neoplasm of respiratory and digestive organs,ICD10/FinnGen,2,darkcyan,87
+Neoplasms,C54,Malignant neoplasm of corpus uteri,ICD10/FinnGen,2,darkcyan,88
+Neoplasms,C_EYE_ADNEXA,Malignant neoplasm of eye and adnexa *,ICD10/FinnGen,2,darkcyan,89
+Neoplasms,C_MESOTHELIOMA,Mesothelioma *,ICD10/FinnGen,2,darkcyan,90
+Neoplasms,C73,Malignant neoplasm of thyroid gland,ICD10/FinnGen,2,darkcyan,91
+Neoplasms,C77,Secondary and unspecified malignant neoplasm of lymph nodes,ICD10/FinnGen,2,darkcyan,92
+Neoplasms,C71,Malignant neoplasm of brain,ICD10/FinnGen,2,darkcyan,93
+Neoplasms,C53,Malignant neoplasm of cervix uteri,ICD10/FinnGen,2,darkcyan,94
+Neoplasms,C50,Malignant neoplasm of breast,ICD10/FinnGen,2,darkcyan,95
+Endocrine/metabolic,E16,Other disorders of pancreatic internal secretion,ICD10/FinnGen,3,brown,97
+Endocrine/metabolic,E4_DM1,Type 1 diabetes *,ICD10/FinnGen,3,brown,98
+Endocrine/metabolic,E22,Hyperfunction of pituitary gland,ICD10/FinnGen,3,brown,99
+Endocrine/metabolic,E66,Obesity,ICD10/FinnGen,3,brown,100
+Endocrine/metabolic,E11,Non-insulin-dependent diabetes mellitus,ICD10/FinnGen,3,brown,101
+Endocrine/metabolic,E83,Disorders of mineral metabolism,ICD10/FinnGen,3,brown,102
+Endocrine/metabolic,E21,Hyperparathyroidism and other disorders of parathyroid gland,ICD10/FinnGen,3,brown,103
+Endocrine/metabolic,E03,Other hypothyroidism,ICD10/FinnGen,3,brown,104
+Endocrine/metabolic,E23,Hypofunction and other disorders of pituitary gland,ICD10/FinnGen,3,brown,105
+Endocrine/metabolic,E05,Thyrotoxicosis [hyperthyroidism],ICD10/FinnGen,3,brown,106
+Endocrine/metabolic,E4_DM2,Type 2 diabetes *,ICD10/FinnGen,3,brown,107
+Endocrine/metabolic,DM_KETOACIDOSIS,Diabetic ketoacidosis *,ICD10/FinnGen,3,brown,108
+Blood/immune,STILL_ADULT,Adult-onset Still disease *,ICD10/FinnGen,4,darkorange1,110
+Blood/immune,D70,Agranulocytosis,ICD10/FinnGen,4,darkorange1,111
+Blood/immune,D3_THROMBOCYTOPENIANAS,"Thrombocytopenia, unspecified *",ICD10/FinnGen,4,darkorange1,112
+Blood/immune,CHILDHOOD_ALLERGY,Childhood allergy (age < 16) *,ICD10/FinnGen,4,darkorange1,113
+Blood/immune,D3_ITP,Idiopathic thrombocytopenic purpura *,ICD10/FinnGen,4,darkorange1,114
+Blood/immune,D86,Sarcoidosis,ICD10/FinnGen,4,darkorange1,115
+Blood/immune,D3_SCNDPOLYCYTHAEMIA,Secondary polycythaemia *,ICD10/FinnGen,4,darkorange1,116
+Blood/immune,D69,Purpura and other haemorrhagic conditions,ICD10/FinnGen,4,darkorange1,117
+Blood/immune,D64,Other anaemias,ICD10/FinnGen,4,darkorange1,118
+Blood/immune,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Purpura and other haemorrhagic conditions *,ICD10/FinnGen,4,darkorange1,119
+Blood/immune,D50,Iron deficiency anaemia,ICD10/FinnGen,4,darkorange1,120
+Blood/immune,D63,Anaemia in chronic diseases classified elsewhere,ICD10/FinnGen,4,darkorange1,121
+Blood/immune,D3_HYPERGAMMAGLONAS,"Hypergammalglobulinemia, unspecified *",ICD10/FinnGen,4,darkorange1,122
+Blood/immune,D45,Polycythaemia vera,ICD10/FinnGen,4,darkorange1,123
+Blood/immune,D61,Other aplastic anaemias,ICD10/FinnGen,4,darkorange1,124
+Blood/immune,D46,Myelodysplastic syndromes,ICD10/FinnGen,4,darkorange1,125
+Mental/behavioral,F52,"Sexual dysfunction, not caused by organic disorder or disease",ICD10/FinnGen,5,magenta,127
+Mental/behavioral,AMN2,Transient global amnesia *,ICD10/FinnGen,5,magenta,128
+Mental/behavioral,F5_PERSONALITY,Specific personality disorders *,ICD10/FinnGen,5,magenta,129
+Mental/behavioral,AD,Alzheimer’s disease *,ICD10/FinnGen,5,magenta,130
+Mental/behavioral,F32,Depressive episode,ICD10/FinnGen,5,magenta,131
+Mental/behavioral,F20,Schizophrenia,ICD10/FinnGen,5,magenta,132
+Mental/behavioral,KRA_PSY_SUBSTANCE,Substance abuse *,ICD10/FinnGen,5,magenta,133
+Mental/behavioral,F05,"Delirium, not induced by alcohol and other psychoactive substances",ICD10/FinnGen,5,magenta,134
+Mental/behavioral,F31,Bipolar affective disorder,ICD10/FinnGen,5,magenta,135
+Mental/behavioral,F41,Other anxiety disorders,ICD10/FinnGen,5,magenta,136
+Mental/behavioral,F43,"Reaction to severe stress, and adjustment disorders",ICD10/FinnGen,5,magenta,137
+Mental/behavioral,F5_PANIC,Panic disorder *,ICD10/FinnGen,5,magenta,138
+Mental/behavioral,F5_DEMENTIA,Dementia *,ICD10/FinnGen,5,magenta,139
+Mental/behavioral,F5_DEPRESSIO,Depression *,ICD10/FinnGen,5,magenta,140
+Mental/behavioral,F5_MOOD,Mood [affective] disorders *,ICD10/FinnGen,5,magenta,141
+Mental/behavioral,F45,Somatoform disorders,ICD10/FinnGen,5,magenta,142
+Mental/behavioral,F10,Mental and behavioural disorders due to use of alcohol,ICD10/FinnGen,5,magenta,143
+Mental/behavioral,KRA_PSY_ANXIETY,Anxiety disorders *,ICD10/FinnGen,5,magenta,144
+Mental/behavioral,KRA_PSY_ALCOH,"Alcohol abuse, main dg *",ICD10/FinnGen,5,magenta,145
+Mental/behavioral,F33,Recurrent depressive disorder,ICD10/FinnGen,5,magenta,146
+Mental/behavioral,F5_ALLANXIOUS,All anxiety disorders *,ICD10/FinnGen,5,magenta,147
+Mental/behavioral,F5_ALCOHOLAC,Acute alcohol intoxication *,ICD10/FinnGen,5,magenta,148
+Nervous,G20,Parkinson's disease,ICD10/FinnGen,6,darkblue,150
+Nervous,G24,Dystonia,ICD10/FinnGen,6,darkblue,151
+Nervous,G43,Migraine,ICD10/FinnGen,6,darkblue,152
+Nervous,G40,Epilepsy,ICD10/FinnGen,6,darkblue,153
+Nervous,MENINGITIS,Meningitis *,ICD10/FinnGen,6,darkblue,154
+Nervous,G35,Multiple sclerosis,ICD10/FinnGen,6,darkblue,155
+Nervous,G12,Spinal muscular atrophy and related syndromes,ICD10/FinnGen,6,darkblue,156
+Nervous,G81,Hemiplegia,ICD10/FinnGen,6,darkblue,157
+Nervous,G6_ALS,Motor neuron disease *,ICD10/FinnGen,6,darkblue,158
+Nervous,G45,Transient cerebral ischaemic attacks and related syndromes,ICD10/FinnGen,6,darkblue,159
+Nervous,G37,Other demyelinating diseases of central nervous system,ICD10/FinnGen,6,darkblue,160
+Nervous,G6_BELLPA,Bell's palsy *,ICD10/FinnGen,6,darkblue,161
+Nervous,G6_CPETAL,Cerebral palsy and other paralytic syndromes *,ICD10/FinnGen,6,darkblue,162
+Nervous,G57,Mononeuropathies of lower limb,ICD10/FinnGen,6,darkblue,163
+Nervous,M13_ALGONEURO,Alogoneurodystrophy *,ICD10/FinnGen,6,darkblue,164
+Nervous,G47,Sleep disorders,ICD10/FinnGen,6,darkblue,165
+Nervous,G50,Disorders of trigeminal nerve,ICD10/FinnGen,6,darkblue,166
+Nervous,G6_DEMYEL,Demyelenating diseases of the central nervous system *,ICD10/FinnGen,6,darkblue,167
+Nervous,G6_GUILBAR,Guillain-Barre syndrome *,ICD10/FinnGen,6,darkblue,168
+Nervous,G51,Facial nerve disorders,ICD10/FinnGen,6,darkblue,169
+Nervous,G54,Nerve root and plexus disorders,ICD10/FinnGen,6,darkblue,170
+Nervous,G56,Mononeuropathies of upper limb,ICD10/FinnGen,6,darkblue,171
+Nervous,G6_TRINEU,Trigeminal neuralgia *,ICD10/FinnGen,6,darkblue,172
+Nervous,G6_XTRAPYR,Extrapyramidal and movement disorders *,ICD10/FinnGen,6,darkblue,173
+Nervous,G6_HYDROCEPH,Hydrocephalus *,ICD10/FinnGen,6,darkblue,174
+Nervous,G6_MYONEU,Diseases of the myoneural junction and muscle *,ICD10/FinnGen,6,darkblue,175
+Nervous,G61,Inflammatory polyneuropathy,ICD10/FinnGen,6,darkblue,176
+Nervous,G62,Other polyneuropathies,ICD10/FinnGen,6,darkblue,177
+Eye,H00,Hordeolum and chalazion,ICD10/FinnGen,7,darkseagreen4,179
+Eye,H04,Disorders of lachrymal system,ICD10/FinnGen,7,darkseagreen4,180
+Eye,H33,Retinal detachments and breaks,ICD10/FinnGen,7,darkseagreen4,181
+Eye,H34,Retinal vascular occlusions,ICD10/FinnGen,7,darkseagreen4,182
+Eye,H05,Disorders of orbit,ICD10/FinnGen,7,darkseagreen4,183
+Eye,H25,Senile cataract,ICD10/FinnGen,7,darkseagreen4,184
+Eye,H60,Otitis externa,ICD10/FinnGen,7,darkseagreen4,185
+Eye,H65,Nonsuppurative otitis media,ICD10/FinnGen,7,darkseagreen4,186
+Eye,H66,Suppurative and unspecified otitis media,ICD10/FinnGen,7,darkseagreen4,187
+Eye,H7_BCKRNDRETINOPAT,Background retinopathy and retinal vascular changes *,ICD10/FinnGen,7,darkseagreen4,188
+Eye,H7_CONVERSTRAB,Convergent concomitant strabismus *,ICD10/FinnGen,7,darkseagreen4,189
+Eye,H7_DIVERGSTRAB,Divergent concomitant strabismus *,ICD10/FinnGen,7,darkseagreen4,190
+Eye,H7_ECTROPION,Ectropion of eyelid *,ICD10/FinnGen,7,darkseagreen4,191
+Eye,H7_ENTROPION,Entropion and trichiasis of eyelid *,ICD10/FinnGen,7,darkseagreen4,192
+Eye,H7_EPIPHORA,Epiphora *,ICD10/FinnGen,7,darkseagreen4,193
+Eye,H7_GLAUCCLOSEPRIM,Primary angle-closure glaucoma *,ICD10/FinnGen,7,darkseagreen4,194
+Eye,H7_GLAUCPRIMOPEN,Primary open-angle glaucoma *,ICD10/FinnGen,7,darkseagreen4,195
+Eye,H52,Disorders of refraction and accommodation,ICD10/FinnGen,7,darkseagreen4,196
+Eye,H53,Visual disturbances,ICD10/FinnGen,7,darkseagreen4,197
+Eye,H7_MACULADEGEN,Degeneration of macula and posterior pole *,ICD10/FinnGen,7,darkseagreen4,198
+Eye,H7_PTERYGIUM,Pterygium *,ICD10/FinnGen,7,darkseagreen4,199
+Eye,H7_RETINALBREAK,Retinal breaks without detachment *,ICD10/FinnGen,7,darkseagreen4,200
+Eye,H7_RETINALDETACHBREAK,Retinal detachment with retinal break *,ICD10/FinnGen,7,darkseagreen4,201
+Eye,H7_STENOLACRI,Stenosis and insufficiency of lacrimal passages *,ICD10/FinnGen,7,darkseagreen4,202
+Eye,H7_VITRHAEMORR,Vitreous haemorrhage *,ICD10/FinnGen,7,darkseagreen4,203
+Eye,H7_XANTHELASMA,Xanthelasma of eyelid *,ICD10/FinnGen,7,darkseagreen4,204
+Eye,H50,Other strabismus,ICD10/FinnGen,7,darkseagreen4,205
+Eye,H40,Glaucoma,ICD10/FinnGen,7,darkseagreen4,206
+Eye,H43,Disorders of vitreous body,ICD10/FinnGen,7,darkseagreen4,207
+Eye,H49,Paralytic strabismus,ICD10/FinnGen,7,darkseagreen4,208
+Eye,H7_LACRIMALSYSTEM,Disorders of lacrimal system *,ICD10/FinnGen,7,darkseagreen4,209
+Circulatory,I44,Atrioventricular and left bundle-branch block,ICD10/FinnGen,8,red,211
+Circulatory,I42,Cardiomyopathy,ICD10/FinnGen,8,red,212
+Circulatory,I35,Nonrheumatic aortic valve disorders,ICD10/FinnGen,8,red,213
+Circulatory,I9_STR_EXH,"Ischaemic Stroke, excluding all haemorrhages *",ICD10/FinnGen,8,red,214
+Circulatory,I9_STR_SAH,"Stroke, including SAH *",ICD10/FinnGen,8,red,215
+Circulatory,I34,Nonrheumatic mitral valve disorders,ICD10/FinnGen,8,red,216
+Circulatory,I9_STR,"Stroke, excluding SAH *",ICD10/FinnGen,8,red,217
+Circulatory,I31,Other diseases of pericardium,ICD10/FinnGen,8,red,218
+Circulatory,I70,Atherosclerosis,ICD10/FinnGen,8,red,219
+Circulatory,I71,Aortic aneurysm and dissection,ICD10/FinnGen,8,red,220
+Circulatory,I9_RHEUFEV,Rheumatic fever incl heart disease *,ICD10/FinnGen,8,red,221
+Circulatory,I9_RHEUVALV,Rheumatic valve diseases *,ICD10/FinnGen,8,red,222
+Circulatory,I30,Acute pericarditis,ICD10/FinnGen,8,red,223
+Circulatory,I33,Acute and subacute endocarditis,ICD10/FinnGen,8,red,224
+Circulatory,I9_PHLETHROMBDVTLOW,DVT of lower extremities *,ICD10/FinnGen,8,red,225
+Circulatory,I64,"Stroke, not specified as haemorrhage or infarction",ICD10/FinnGen,8,red,226
+Circulatory,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",ICD10/FinnGen,8,red,227
+Circulatory,I9_AORTDIS,Dissection of aorta *,ICD10/FinnGen,8,red,228
+Circulatory,I9_ARTEMBTHRLOW,Arterial embolism and thrombosis of lower extremity artery *,ICD10/FinnGen,8,red,229
+Circulatory,I74,Arterial embolism and thrombosis,ICD10/FinnGen,8,red,230
+Circulatory,I9_UAP,Unstable angina pectoris *,ICD10/FinnGen,8,red,231
+Circulatory,I9_VASCINT,Vascular diseases of the intestine *,ICD10/FinnGen,8,red,232
+Circulatory,I9_VTE,Venous thromboembolism *,ICD10/FinnGen,8,red,233
+Circulatory,I95,Hypotension,ICD10/FinnGen,8,red,234
+Circulatory,C_STROKE,STROKE *,ICD10/FinnGen,8,red,235
+Circulatory,I26,Pulmonary embolism,ICD10/FinnGen,8,red,236
+Circulatory,I9_PAD,Peripheral artery disease *,ICD10/FinnGen,8,red,237
+Circulatory,I63,Cerebral infarction,ICD10/FinnGen,8,red,238
+Circulatory,I9_ANEURYSM,"Cerebral aneurysm, nonruptured *",ICD10/FinnGen,8,red,239
+Circulatory,I9_AORTANEUR,Aortic aneurysm *,ICD10/FinnGen,8,red,240
+Circulatory,DM_PERIPH_ANGIOPATHY,Peripheral angiopathy *,ICD10/FinnGen,8,red,241
+Circulatory,DM_PERIPHATHERO,Peripheral atherosclerosis *,ICD10/FinnGen,8,red,242
+Circulatory,K11_ACHAL,Achalasia of cardia *,ICD10/FinnGen,8,red,243
+Circulatory,I77,Other disorders of arteries and arterioles,ICD10/FinnGen,8,red,244
+Circulatory,I60,Subarachnoid haemorrhage,ICD10/FinnGen,8,red,245
+Circulatory,I9_NONRHEVALV,Non-rheumatic valve diseases *,ICD10/FinnGen,8,red,246
+Circulatory,I86,Varicose veins of other sites,ICD10/FinnGen,8,red,247
+Circulatory,I50,Heart failure,ICD10/FinnGen,8,red,248
+Circulatory,I9_AVBLOCK,AV-block *,ICD10/FinnGen,8,red,249
+Circulatory,I80,Phlebitis and thrombophlebitis,ICD10/FinnGen,8,red,250
+Circulatory,I82,Other venous embolism and thrombosis,ICD10/FinnGen,8,red,251
+Circulatory,I85,Oesophageal varices,ICD10/FinnGen,8,red,252
+Circulatory,I22,Subsequent myocardial infarction,ICD10/FinnGen,8,red,253
+Circulatory,I25,Chronic ischaemic heart disease,ICD10/FinnGen,8,red,254
+Circulatory,I61,Intracerebral haemorrhage,ICD10/FinnGen,8,red,255
+Circulatory,I21,Acute myocardial infarction,ICD10/FinnGen,8,red,256
+Circulatory,I84,Haemorrhoids,ICD10/FinnGen,8,red,257
+Circulatory,I48,Atrial fibrillation and flutter,ICD10/FinnGen,8,red,258
+Circulatory,I9_CHD,Major coronary heart disease event *,ICD10/FinnGen,8,red,259
+Circulatory,I9_INTRACRA,Nontraumatic intracranial haemmorrhage *,ICD10/FinnGen,8,red,260
+Circulatory,I46,Cardiac arrest,ICD10/FinnGen,8,red,261
+Circulatory,I12,Hypertensive renal disease,ICD10/FinnGen,8,red,262
+Circulatory,I83,Varicose veins of lower extremities,ICD10/FinnGen,8,red,263
+Circulatory,I10,Essential (primary) hypertension,ICD10/FinnGen,8,red,264
+Circulatory,I9_HYPTENSHR,Hypertensive heart and/or renal disease *,ICD10/FinnGen,8,red,265
+Circulatory,I9_DISVEINLYMPH,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified *",ICD10/FinnGen,8,red,266
+Circulatory,I20,Angina pectoris,ICD10/FinnGen,8,red,267
+Circulatory,I9_IHD,"Ischaemic heart disease, wide definition *",ICD10/FinnGen,8,red,268
+Circulatory,I9_HYPTENS,Hypertension *,ICD10/FinnGen,8,red,269
+Circulatory,I9_CONDUCTIO,Conduction disorders *,ICD10/FinnGen,8,red,270
+Circulatory,I9_HYPERTENSION,Hypertensive diseases *,ICD10/FinnGen,8,red,271
+Circulatory,I47,Paroxysmal tachycardia,ICD10/FinnGen,8,red,272
+Circulatory,I9_CORATHER,Coronary atherosclerosis *,ICD10/FinnGen,8,red,273
+Respiratory,J02,Acute pharyngitis,ICD10/FinnGen,9,coral4,275
+Respiratory,J01,Acute sinusitis,ICD10/FinnGen,9,coral4,276
+Respiratory,J10_EXTERLUNG,Lung diseases due to external agents *,ICD10/FinnGen,9,coral4,277
+Respiratory,J96,"Respiratory failure, not elsewhere classified",ICD10/FinnGen,9,coral4,278
+Respiratory,J06,Acute upper respiratory infections of multiple and unspecified sites,ICD10/FinnGen,9,coral4,279
+Respiratory,COPD_OPPORTUNIST_INFECTIONS,COPD related to chronic (opportunist) infections *,ICD10/FinnGen,9,coral4,280
+Respiratory,J36,Peritonsillar abscess,ICD10/FinnGen,9,coral4,281
+Respiratory,J93,Pneumothorax,ICD10/FinnGen,9,coral4,282
+Respiratory,J31,"Chronic rhinitis, nasopharyngitis and pharyngitis",ICD10/FinnGen,9,coral4,283
+Respiratory,IPF,Idiopathic pulmonary fibrosis (attempt to specificity) *,ICD10/FinnGen,9,coral4,284
+Respiratory,J35,Chronic diseases of tonsils and adenoids,ICD10/FinnGen,9,coral4,285
+Respiratory,ASTHMA_EOSINOPHIL_SUGG,Suggestive for eosinophilic asthma *,ICD10/FinnGen,9,coral4,286
+Respiratory,J03,Acute tonsillitis,ICD10/FinnGen,9,coral4,287
+Respiratory,J38,"Diseases of vocal cords and larynx, not elsewhere classified",ICD10/FinnGen,9,coral4,288
+Respiratory,J40,"Bronchitis, not specified as acute or chronic",ICD10/FinnGen,9,coral4,289
+Respiratory,J13,Pneumonia due to Streptococcus pneumoniae,ICD10/FinnGen,9,coral4,290
+Respiratory,J15,"Bacterial pneumonia, not elsewhere classified",ICD10/FinnGen,9,coral4,291
+Respiratory,COPD_EARLYANDLATER,"COPD, early/later onset *",ICD10/FinnGen,9,coral4,292
+Respiratory,J20,Acute bronchitis,ICD10/FinnGen,9,coral4,293
+Respiratory,J86,Pyothorax,ICD10/FinnGen,9,coral4,294
+Respiratory,ILD_DIFF_DG,ILD differential diagnosis *,ICD10/FinnGen,9,coral4,295
+Respiratory,ASTHMA_PNEUMONIA,Asthma-related pneumonia *,ICD10/FinnGen,9,coral4,296
+Respiratory,J18,"Pneumonia, organism unspecified",ICD10/FinnGen,9,coral4,297
+Respiratory,J32,Chronic sinusitis,ICD10/FinnGen,9,coral4,298
+Respiratory,J33,Nasal polyp,ICD10/FinnGen,9,coral4,299
+Respiratory,J45,Asthma,ICD10/FinnGen,9,coral4,300
+Respiratory,J22,Unspecified acute lower respiratory infection,ICD10/FinnGen,9,coral4,301
+Respiratory,J69,Pneumonitis due to solids and liquids,ICD10/FinnGen,9,coral4,302
+Respiratory,J43,Emphysema,ICD10/FinnGen,9,coral4,303
+Respiratory,J90,"Pleural effusion, not elsewhere classified",ICD10/FinnGen,9,coral4,304
+Respiratory,J46,Status asthmaticus,ICD10/FinnGen,9,coral4,305
+Respiratory,J47,Bronchiectasis,ICD10/FinnGen,9,coral4,306
+Digestive,CHIRHEP_NAS,"Chirrosis of liver, NAS *",ICD10/FinnGen,10,chartreuse4,308
+Digestive,K10,Other diseases of jaws,ICD10/FinnGen,10,chartreuse4,309
+Digestive,K04,Diseases of pulp and periapical tissues,ICD10/FinnGen,10,chartreuse4,310
+Digestive,K02,Dental caries,ICD10/FinnGen,10,chartreuse4,311
+Digestive,ULCERRECT,Ulcerative rectosigmoiditis *,ICD10/FinnGen,10,chartreuse4,312
+Digestive,K09,"Cysts of oral region, not elsewhere classified",ICD10/FinnGen,10,chartreuse4,313
+Digestive,K51,Ulcerative colitis,ICD10/FinnGen,10,chartreuse4,314
+Digestive,K11_CHOLANGI,Cholangitis (sclerosing) *,ICD10/FinnGen,10,chartreuse4,315
+Digestive,K05,Gingivitis and periodontal diseases,ICD10/FinnGen,10,chartreuse4,316
+Digestive,K07,Dentofacial anomalies [including malocclusion],ICD10/FinnGen,10,chartreuse4,317
+Digestive,K01,Embedded and impacted teeth,ICD10/FinnGen,10,chartreuse4,318
+Digestive,K11_GALLBILPANC,"Disorders of gallbladder, biliary tract and pancreas *",ICD10/FinnGen,10,chartreuse4,319
+Digestive,K11_CHRONGASTR,Chronic gastritis *,ICD10/FinnGen,10,chartreuse4,320
+Digestive,K11_CHRONPANC,Chronic pancreatitis *,ICD10/FinnGen,10,chartreuse4,321
+Digestive,K11_COELIAC,Coeliac disease *,ICD10/FinnGen,10,chartreuse4,322
+Digestive,K11_BARRET,Barret oesophagus *,ICD10/FinnGen,10,chartreuse4,323
+Digestive,K11_GASTRODUOULC,Gastroduodenal ulcer *,ICD10/FinnGen,10,chartreuse4,324
+Digestive,K42,Umbilical hernia,ICD10/FinnGen,10,chartreuse4,325
+Digestive,K43,Ventral hernia,ICD10/FinnGen,10,chartreuse4,326
+Digestive,K44,Diaphragmatic hernia,ICD10/FinnGen,10,chartreuse4,327
+Digestive,K41,Femoral hernia,ICD10/FinnGen,10,chartreuse4,328
+Digestive,ULCERPROCT,Ulcerative proctitis *,ICD10/FinnGen,10,chartreuse4,329
+Digestive,K11_GIBLEEDING,GI-bleeding *,ICD10/FinnGen,10,chartreuse4,330
+Digestive,K11_ILEUS,Paralytic ileus and intestinal obstruction *,ICD10/FinnGen,10,chartreuse4,331
+Digestive,K50,Crohn's disease [regional enteritis],ICD10/FinnGen,10,chartreuse4,332
+Digestive,K11_ADHE,Intestinal adhesions without obstruction *,ICD10/FinnGen,10,chartreuse4,333
+Digestive,K11_APPENDIX,Diseases of appendix *,ICD10/FinnGen,10,chartreuse4,334
+Digestive,K00,Disorders of tooth development and eruption,ICD10/FinnGen,10,chartreuse4,335
+Digestive,K40,Inguinal hernia,ICD10/FinnGen,10,chartreuse4,336
+Digestive,K61,Abscess of anal and rectal regions,ICD10/FinnGen,10,chartreuse4,337
+Digestive,K65,Peritonitis,ICD10/FinnGen,10,chartreuse4,338
+Digestive,K70,Alcoholic liver disease,ICD10/FinnGen,10,chartreuse4,339
+Digestive,K74,Fibrosis and cirrhosis of liver,ICD10/FinnGen,10,chartreuse4,340
+Digestive,K75,Other inflammatory liver diseases,ICD10/FinnGen,10,chartreuse4,341
+Digestive,K80,Cholelithiasis,ICD10/FinnGen,10,chartreuse4,342
+Digestive,K81,Cholecystitis,ICD10/FinnGen,10,chartreuse4,343
+Digestive,K11,Diseases of salivary glands,ICD10/FinnGen,10,chartreuse4,344
+Digestive,K11_ACUTGASTR,Acute gastritis *,ICD10/FinnGen,10,chartreuse4,345
+Digestive,K56,Paralytic ileus and intestinal obstruction without hernia,ICD10/FinnGen,10,chartreuse4,346
+Digestive,K57,Diverticular disease of intestine,ICD10/FinnGen,10,chartreuse4,347
+Digestive,K11_APPENDOTH,Other appendicitis *,ICD10/FinnGen,10,chartreuse4,348
+Digestive,K60,Fissure and fistula of anal and rectal regions,ICD10/FinnGen,10,chartreuse4,349
+Digestive,K11_PERITON,Diseases of peritoneum *,ICD10/FinnGen,10,chartreuse4,350
+Digestive,K11_VOLVU,Volvulus *,ICD10/FinnGen,10,chartreuse4,351
+Digestive,K12,Stomatitis and related lesions,ICD10/FinnGen,10,chartreuse4,352
+Digestive,K14,Diseases of tongue,ICD10/FinnGen,10,chartreuse4,353
+Digestive,K20,Oesophagitis,ICD10/FinnGen,10,chartreuse4,354
+Digestive,K21,Gastro-oesophageal reflux disease,ICD10/FinnGen,10,chartreuse4,355
+Digestive,K46,Unspecified abdominal hernia,ICD10/FinnGen,10,chartreuse4,356
+Digestive,K85,Acute pancreatitis,ICD10/FinnGen,10,chartreuse4,357
+Digestive,K91,"Postprocedural disorders of digestive system, not elsewhere classified",ICD10/FinnGen,10,chartreuse4,358
+Digestive,K11_IMPACT,Impaction of intestines *,ICD10/FinnGen,10,chartreuse4,359
+Digestive,K11_LIVER,Diseases of liver *,ICD10/FinnGen,10,chartreuse4,360
+Digestive,K58,Irritable bowel syndrome,ICD10/FinnGen,10,chartreuse4,361
+Digestive,K37,Unspecified appendicitis,ICD10/FinnGen,10,chartreuse4,362
+Digestive,K11_OESULC,Ulcer of oesophagus *,ICD10/FinnGen,10,chartreuse4,363
+Digestive,K52,Other non-infective gastro-enteritis and colitis,ICD10/FinnGen,10,chartreuse4,364
+Digestive,K55,Vascular disorders of intestine,ICD10/FinnGen,10,chartreuse4,365
+Digestive,K30,Dyspepsia,ICD10/FinnGen,10,chartreuse4,366
+Digestive,NAFLD,Nonalcoholic fatty liver disease *,ICD10/FinnGen,10,chartreuse4,367
+Digestive,K35,Acute appendicitis,ICD10/FinnGen,10,chartreuse4,368
+Digestive,K26,Duodenal ulcer,ICD10/FinnGen,10,chartreuse4,369
+Digestive,K29,Gastritis and duodenitis,ICD10/FinnGen,10,chartreuse4,370
+Digestive,K25,Gastric ulcer,ICD10/FinnGen,10,chartreuse4,371
+Digestive,K11_OESOBST,Oesophageal obstruction *,ICD10/FinnGen,10,chartreuse4,372
+Genitourinary,N97,Female infertility,ICD10/FinnGen,11,black,374
+Genitourinary,N87,Dysplasia of cervix uteri,ICD10/FinnGen,11,black,375
+Genitourinary,GLOMER_NEPHRITIS,Glomerulonephritis *,ICD10/FinnGen,11,black,376
+Genitourinary,N92,"Excessive, frequent and irregular menstruation",ICD10/FinnGen,11,black,377
+Genitourinary,N70,Salpingitis and oophoritis,ICD10/FinnGen,11,black,378
+Genitourinary,N72,Inflammatory disease of cervix uteri,ICD10/FinnGen,11,black,379
+Genitourinary,N30,Cystitis,ICD10/FinnGen,11,black,380
+Genitourinary,N73,Other female pelvic inflammatory diseases,ICD10/FinnGen,11,black,381
+Genitourinary,N75,Diseases of Bartholin's gland,ICD10/FinnGen,11,black,382
+Genitourinary,N86,Erosion and ectropion of cervix uteri,ICD10/FinnGen,11,black,383
+Genitourinary,N43,Hydrocele and spermatocele,ICD10/FinnGen,11,black,384
+Genitourinary,N45,Orchitis and epididymitis,ICD10/FinnGen,11,black,385
+Genitourinary,N47,"Redundant prepuce, phimosis and paraphimosis",ICD10/FinnGen,11,black,386
+Genitourinary,N71,"Inflammatory disease of uterus, except cervix",ICD10/FinnGen,11,black,387
+Genitourinary,N84,Polyp of female genital tract,ICD10/FinnGen,11,black,388
+Genitourinary,N18,Chronic renal failure,ICD10/FinnGen,11,black,389
+Genitourinary,N19,Unspecified renal failure,ICD10/FinnGen,11,black,390
+Genitourinary,N20,Calculus of kidney and ureter,ICD10/FinnGen,11,black,391
+Genitourinary,N21,Calculus of lower urinary tract,ICD10/FinnGen,11,black,392
+Genitourinary,N02,Recurrent and persistent haematuria,ICD10/FinnGen,11,black,393
+Genitourinary,N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",ICD10/FinnGen,11,black,394
+Genitourinary,N35,Urethral stricture,ICD10/FinnGen,11,black,395
+Genitourinary,N40,Hyperplasia of prostate,ICD10/FinnGen,11,black,396
+Genitourinary,N17,Acute renal failure,ICD10/FinnGen,11,black,397
+Genitourinary,N10,Acute tubulo-interstitial nephritis,ICD10/FinnGen,11,black,398
+Genitourinary,N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",ICD10/FinnGen,11,black,399
+Genitourinary,N14_GLOMERULAR,Glomerular diseases *,ICD10/FinnGen,11,black,400
+Genitourinary,ENDOMETRIOSIS_UTERUS,Endometriosis of uterus *,ICD10/FinnGen,11,black,401
+Genitourinary,N60,Benign mammary dysplasia,ICD10/FinnGen,11,black,402
+Genitourinary,N61,Inflammatory disorders of breast,ICD10/FinnGen,11,black,403
+Genitourinary,ENDOMETRIOSIS_PELVICPERITONEUM,Endometriosis of pelvic peritoneum *,ICD10/FinnGen,11,black,404
+Genitourinary,N81,Female genital prolapse,ICD10/FinnGen,11,black,405
+Genitourinary,N41,Inflammatory diseases of prostate,ICD10/FinnGen,11,black,406
+Genitourinary,ENDOMETRIOSIS_OVARY,Endometriosis of ovary *,ICD10/FinnGen,11,black,407
+Genitourinary,N80,Endometriosis,ICD10/FinnGen,11,black,408
+Genitourinary,N49,"Inflammatory disorders of male genital organs, not elsewhere classified",ICD10/FinnGen,11,black,409
+Genitourinary,N83,"Noninflammatory disorders of ovary, Fallopian tube and broad ligament",ICD10/FinnGen,11,black,410
+Genitourinary,N82,Fistulae involving female genital tract,ICD10/FinnGen,11,black,411
+Ear,H92,Otalgia and effusion of ear,ICD10/FinnGen,12,royalblue4,413
+Ear,H8_MENIERE,Ménière disease *,ICD10/FinnGen,12,royalblue4,414
+Ear,H8_OTORRHOEA,Otorrhoea *,ICD10/FinnGen,12,royalblue4,415
+Ear,H8_PERCHRONDR,Perichondritis of external ear *,ICD10/FinnGen,12,royalblue4,416
+Ear,H80,Otosclerosis,ICD10/FinnGen,12,royalblue4,417
+Ear,H81,Disorders of vestibular function,ICD10/FinnGen,12,royalblue4,418
+Ear,H90,Conductive and sensorineural hearing loss,ICD10/FinnGen,12,royalblue4,419
+Ear,H91,Other hearing loss,ICD10/FinnGen,12,royalblue4,420
+Ear,H71,Cholesteatoma of middle ear,ICD10/FinnGen,12,royalblue4,421
+Ear,H74,Other disorders of middle ear and mastoid,ICD10/FinnGen,12,royalblue4,422
+Ear,H8_BPV,Benign paroxysmal vertigo *,ICD10/FinnGen,12,royalblue4,423
+Ear,H8_CHRON_SUPOTITIS,Chronic suppurative otitis media *,ICD10/FinnGen,12,royalblue4,424
+Ear,H8_HL_CON_NAS,"Conductive hearing loss, unspecified *",ICD10/FinnGen,12,royalblue4,425
+Ear,H8_HL_SEN_NAS,Sensorineural hearing loss *,ICD10/FinnGen,12,royalblue4,426
+Ear,H8_LABYRINTHITIS,Labyrinthitis *,ICD10/FinnGen,12,royalblue4,427
+Dermatologic,L43,Lichen planus,ICD10/FinnGen,13,firebrick,429
+Dermatologic,L50,Urticaria,ICD10/FinnGen,13,firebrick,430
+Dermatologic,L57,Skin changes due to chronic exposure to nonionising radiation,ICD10/FinnGen,13,firebrick,431
+Dermatologic,L60,Nail disorders,ICD10/FinnGen,13,firebrick,432
+Dermatologic,L71,Rosacea,ICD10/FinnGen,13,firebrick,433
+Dermatologic,L72,Follicular cysts of skin and subcutaneous tissue,ICD10/FinnGen,13,firebrick,434
+Dermatologic,L82,Seborrhoeic keratosis,ICD10/FinnGen,13,firebrick,435
+Dermatologic,L90,Atrophic disorders of skin,ICD10/FinnGen,13,firebrick,436
+Dermatologic,L91,Hypertrophic disorders of skin,ICD10/FinnGen,13,firebrick,437
+Dermatologic,L92,Granulomatous disorders of skin and subcutaneous tissue,ICD10/FinnGen,13,firebrick,438
+Dermatologic,L97,"Ulcer of lower limb, not elsewhere classified",ICD10/FinnGen,13,firebrick,439
+Dermatologic,L29,Pruritus,ICD10/FinnGen,13,firebrick,440
+Dermatologic,L40,Psoriasis,ICD10/FinnGen,13,firebrick,441
+Dermatologic,L02,"Cutaneous abscess, furuncle and carbuncle",ICD10/FinnGen,13,firebrick,442
+Dermatologic,L03,Cellulitis,ICD10/FinnGen,13,firebrick,443
+Dermatologic,L05,Pilonidal cyst,ICD10/FinnGen,13,firebrick,444
+Dermatologic,L12_ACTINKERA,Actinic keratosis *,ICD10/FinnGen,13,firebrick,445
+Dermatologic,L12_HIDRADENITISSUP,Hidradenitis suppurativa *,ICD10/FinnGen,13,firebrick,446
+Dermatologic,L12_HYPETROPHICSCAR,Hypertrophic scar *,ICD10/FinnGen,13,firebrick,447
+Dermatologic,L12_LICHENSCLERATROPH,Lichen sclerosus et atrophicus *,ICD10/FinnGen,13,firebrick,448
+Dermatologic,L12_PSORI_ARTHRO,Arthropathic psoriasis *,ICD10/FinnGen,13,firebrick,449
+Dermatologic,L12_PYOGENGRANUL,Pyogenic granuloma *,ICD10/FinnGen,13,firebrick,450
+Dermatologic,L12_SCARCONDITIONS,Scar conditions and fibrosis of skin *,ICD10/FinnGen,13,firebrick,451
+Dermatologic,L12_URTICARIA,Urticaria *,ICD10/FinnGen,13,firebrick,452
+Dermatologic,L27,Dermatitis due to substances taken internally,ICD10/FinnGen,13,firebrick,453
+Dermatologic,L28,Lichen simplex chronicus and prurigo,ICD10/FinnGen,13,firebrick,454
+Musculoskeletal,M86,Osteomyelitis,ICD10/FinnGen,14,darkolivegreen,456
+Musculoskeletal,M76,"Enthesopathies of lower limb, excluding foot",ICD10/FinnGen,14,darkolivegreen,457
+Musculoskeletal,M80,Osteoporosis with pathological fracture,ICD10/FinnGen,14,darkolivegreen,458
+Musculoskeletal,SPONDYLOARTHRITIS,Spondyloarthritis *,ICD10/FinnGen,14,darkolivegreen,459
+Musculoskeletal,M87,Osteonecrosis,ICD10/FinnGen,14,darkolivegreen,460
+Musculoskeletal,M17,Gonarthrosis [arthrosis of knee],ICD10/FinnGen,14,darkolivegreen,461
+Musculoskeletal,M81,Osteoporosis without pathological fracture,ICD10/FinnGen,14,darkolivegreen,462
+Musculoskeletal,FIBRO_COMORB,Fibromyalgia related co-morbidities *,ICD10/FinnGen,14,darkolivegreen,463
+Musculoskeletal,M66,Spontaneous rupture of synovium and tendon,ICD10/FinnGen,14,darkolivegreen,464
+Musculoskeletal,M13_SCIATICA,Siatica+with lumbago *,ICD10/FinnGen,14,darkolivegreen,465
+Musculoskeletal,M13_TRIGGERFINGER,Trigger finger *,ICD10/FinnGen,14,darkolivegreen,466
+Musculoskeletal,M13_TROCHANTERICBURSITIS,Trochanteric bursitis *,ICD10/FinnGen,14,darkolivegreen,467
+Musculoskeletal,M15,Polyarthrosis,ICD10/FinnGen,14,darkolivegreen,468
+Musculoskeletal,M16,Coxarthrosis [arthrosis of hip],ICD10/FinnGen,14,darkolivegreen,469
+Musculoskeletal,M13_GANGLION,Ganglion *,ICD10/FinnGen,14,darkolivegreen,470
+Musculoskeletal,M18,Arthrosis of first carpometacarpal joint,ICD10/FinnGen,14,darkolivegreen,471
+Musculoskeletal,M60,Myositis,ICD10/FinnGen,14,darkolivegreen,472
+Musculoskeletal,M65,Synovitis and tenosynovitis,ICD10/FinnGen,14,darkolivegreen,473
+Musculoskeletal,M13,Other arthritis,ICD10/FinnGen,14,darkolivegreen,474
+Musculoskeletal,M13_RADICULOPATHY,Radiculopathy *,ICD10/FinnGen,14,darkolivegreen,475
+Musculoskeletal,M13_BAKERCYST,Synovial cyst of popliteal space [Baker] *,ICD10/FinnGen,14,darkolivegreen,476
+Musculoskeletal,M13_DEQUERVAIN,Radial styloid tenosynovitis [de Quervain] *,ICD10/FinnGen,14,darkolivegreen,477
+Musculoskeletal,M13_DUPUTRYEN,Palmar fascial fibromatosis [Dupuytren] *,ICD10/FinnGen,14,darkolivegreen,478
+Musculoskeletal,M13_PLANTARFASC,Plantar fascial fibromatosis *,ICD10/FinnGen,14,darkolivegreen,479
+Musculoskeletal,M13_GIANTCELL,Giant cell arteritis *,ICD10/FinnGen,14,darkolivegreen,480
+Musculoskeletal,M13_OLECRANONBURSITIS,Olecranon bursitis *,ICD10/FinnGen,14,darkolivegreen,481
+Musculoskeletal,M13_OSTEOPOROSIS,Osteoporosis *,ICD10/FinnGen,14,darkolivegreen,482
+Musculoskeletal,M19,Other arthrosis,ICD10/FinnGen,14,darkolivegreen,483
+Musculoskeletal,M00,Pyogenic arthritis,ICD10/FinnGen,14,darkolivegreen,484
+Musculoskeletal,M05,Seropositive rheumatoid arthritis,ICD10/FinnGen,14,darkolivegreen,485
+Musculoskeletal,M10,Gout,ICD10/FinnGen,14,darkolivegreen,486
+Musculoskeletal,M13_PYOGARTH,Pyogenic arthritis *,ICD10/FinnGen,14,darkolivegreen,487
+Musculoskeletal,M31,Other necrotising vasculopathies,ICD10/FinnGen,14,darkolivegreen,488
+Musculoskeletal,M13_POLYARTHROPATHIES,Polyarthropathies *,ICD10/FinnGen,14,darkolivegreen,489
+Musculoskeletal,M13_PREPATELLARBURSITIS,Prepatellar bursitis *,ICD10/FinnGen,14,darkolivegreen,490
+Musculoskeletal,M45,Ankylosing spondylitis,ICD10/FinnGen,14,darkolivegreen,491
+Musculoskeletal,M41,Scoliosis,ICD10/FinnGen,14,darkolivegreen,492
+Congenital,CONGEN_HEART_ARTER,Congenital malformations of heart and great arteries *,ICD10/FinnGen,15,mediumspringgreen,494
+Other,DM_BCKGRND_RETINOPAT,Background diabetic retinopathy *,ICD10/FinnGen,18,gray50,496
+Other,N63,Unspecified lump in breast,ICD10/FinnGen,18,gray50,497
+Platelets,30080_irnt,Platelet count,Lab/Continuous,3,darkseagreen4,26
+Platelets,30090_irnt,Platelet crit,Lab/Continuous,3,darkseagreen4,27
+Platelets,30100_irnt,Mean platelet (thrombocyte) volume,Lab/Continuous,3,darkseagreen4,28
+Platelets,30110_irnt,Platelet distribution width,Lab/Continuous,3,darkseagreen4,29
+Red blood cells,30020_irnt,Haemoglobin concentration,Lab/Continuous,1,firebrick,1
+Red blood cells,30030_irnt,Haematocrit percentage,Lab/Continuous,1,firebrick,2
+Red blood cells,30040_irnt,Mean corpuscular volume,Lab/Continuous,1,firebrick,3
+Red blood cells,30050_irnt,Mean corpuscular haemoglobin,Lab/Continuous,1,firebrick,4
+Red blood cells,30060_irnt,Mean corpuscular haemoglobin concentration,Lab/Continuous,1,firebrick,5
+Red blood cells,30070_irnt,Red blood cell (erythrocyte) distribution width,Lab/Continuous,1,firebrick,6
+Red blood cells,30240_irnt,Reticulocyte percentage,Lab/Continuous,1,firebrick,7
+Red blood cells,30250_irnt,Reticulocyte count,Lab/Continuous,1,firebrick,8
+Red blood cells,30260_irnt,Mean reticulocyte volume,Lab/Continuous,1,firebrick,9
+Red blood cells,30270_irnt,Mean sphered cell volume,Lab/Continuous,1,firebrick,10
+Red blood cells,30280_irnt,Immature reticulocyte fraction,Lab/Continuous,1,firebrick,11
+Red blood cells,30290_irnt,High light scatter reticulocyte percentage,Lab/Continuous,1,firebrick,12
+Red blood cells,30300_irnt,High light scatter reticulocyte count,Lab/Continuous,1,firebrick,13
+Red blood cells,30010_irnt,Red blood cell (erythrocyte) count,Lab/Continuous,1,firebrick,14
+Urine,30500_irnt,Microalbumin in urine,Lab/Continuous,4,black,31
+Urine,30510_irnt,Creatinine (enzymatic) in urine,Lab/Continuous,4,black,32
+Urine,30520_irnt,Potassium in urine,Lab/Continuous,4,black,33
+Urine,30530_irnt,Sodium in urine,Lab/Continuous,4,black,34
+White blood cells,30120_irnt,Lymphocyte count,Lab/Continuous,2,royalblue4,16
+White blood cells,30130_irnt,Monocyte count,Lab/Continuous,2,royalblue4,17
+White blood cells,30140_irnt,Neutrophil count,Lab/Continuous,2,royalblue4,18
+White blood cells,30180_irnt,Lymphocyte percentage,Lab/Continuous,2,royalblue4,19
+White blood cells,30190_irnt,Monocyte percentage,Lab/Continuous,2,royalblue4,20
+White blood cells,30200_irnt,Neutrophil percentage,Lab/Continuous,2,royalblue4,21
+White blood cells,30210_irnt,Eosinophil percentage,Lab/Continuous,2,royalblue4,22
+White blood cells,30220_irnt,Basophil percentage,Lab/Continuous,2,royalblue4,23
+White blood cells,30000_irnt,White blood cell (leukocyte) count,Lab/Continuous,2,royalblue4,24
