@@ -1,0 +1,23 @@
+﻿Phenotype Code,Phenotype Description,Category,Derivation,Phecode
+30000_irnt,White blood cell (leukocyte) count,White blood cells,Lab/Continuous,WBCfixed
+30140_irnt,Neutrophil count,White blood cells,Lab/Continuous,NEUTRE
+30130_irnt,Monocyte count,White blood cells,Lab/Continuous,MONORE
+30120_irnt,Lymphocyte count,White blood cells,Lab/Continuous,LYMPRE
+30210_irnt,Eosinophil percentage,White blood cells,Lab/Continuous,EOSIRE
+30220_irnt,Basophil percentage,White blood cells,Lab/Continuous,BASORE
+30250_irnt,Reticulocyte count,Red blood cells,Lab/Continuous,RetiCt
+30070_irnt,Red blood cell (erythrocyte) distribution width,Red blood cells,Lab/Continuous,RDW
+30010_irnt,Red blood cell (erythrocyte) count,Red blood cells,Lab/Continuous,
+30260_irnt,Mean reticulocyte volume,Red blood cells,Lab/Continuous,
+30040_irnt,Mean corpuscular volume,Red blood cells,Lab/Continuous,MCV
+30060_irnt,Mean corpuscular haemoglobin concentration,Red blood cells,Lab/Continuous,MCHC
+30050_irnt,Mean corpuscular haemoglobin,Red blood cells,Lab/Continuous,MCH
+30280_irnt,Immature reticulocyte fraction,Red blood cells,Lab/Continuous,IRF
+30300_irnt,High light scatter reticulocyte count,Red blood cells,Lab/Continuous,
+30020_irnt,Haemoglobin concentration,Red blood cells,Lab/Continuous,
+30110_irnt,Platelet distribution width,Platelets,Lab/Continuous,
+30090_irnt,Platelet crit,Platelets,Lab/Continuous,
+30080_irnt,Platelet count,Platelets,Lab/Continuous,
+30100_irnt,Mean platelet (thrombocyte) volume,Platelets,Lab/Continuous,MPV
+30520_irnt,Potassium in urine,Urine,Lab/Continuous,
+30530_irnt,Sodium in urine,Urine,Lab/Continuous,
