@@ -1,0 +1,514 @@
+Phenotype.Code,pvalue,Phenotype Description,Category,GeneGrouping,FDR
+C_OESOPHAGUS,9.109439466618833e-61,Malignant neoplasm of oesophagus *,Neoplasms,All PCD Genes,4.673142446375461e-58
+30090_irnt,1.0595931708356487e-43,Platelet crit,Blood assays,All PCD Genes,2.717856483193439e-41
+M05,9.245252797494893e-43,Seropositive rheumatoid arthritis,Musculoskeletal,All PCD Genes,1.5809382283716267e-40
+L12_PYOGENGRANUL,6.19670799044936e-35,Pyogenic granuloma *,Dermatologic,All PCD Genes,7.947277997751304e-33
+J90,2.172682230414208e-30,"Pleural effusion, not elsewhere classified",Respiratory,All PCD Genes,2.229171968404977e-28
+J40,2.013997385196534e-25,"Bronchitis, not specified as acute or chronic",Respiratory,All PCD Genes,1.7219677643430367e-23
+N35,4.6505852461893255e-24,Urethral stricture,Genitourinary,All PCD Genes,3.4082146161358915e-22
+L43,1.858627455352267e-23,Lichen planus,Dermatologic,All PCD Genes,1.1918448557446413e-21
+D14,3.425841304689657e-23,Benign neoplasm of middle ear and respiratory system,Neoplasms,All PCD Genes,1.9527295436731045e-21
+M13_POLYARTHROPATHIES,6.623571319653598e-22,Polyarthropathies *,Musculoskeletal,All PCD Genes,3.3978920869822954e-20
+D45,2.6701871659485168e-21,Polycythaemia vera,Blood/immune,All PCD Genes,1.2452781964832628e-19
+G6_TRINEU,5.527419544995195e-21,Trigeminal neuralgia *,Nervous,All PCD Genes,2.362971855485446e-19
+"NAFLD",1.4962314513486567e-20,Nonalcoholic fatty liver disease *,Digestive,All PCD Genes,5.904359496475852e-19
+D17,1.880969099993462e-18,Benign lipomatous neoplasm,Neoplasms,All PCD Genes,6.8924082021189e-17
+AB1_OTHER_VIRAL,1.6067800688780624e-16,Other viral diseases *,Infectious disease,All PCD Genes,5.2799579344946615e-15
+G50,1.6467705058852744e-16,Disorders of trigeminal nerve,Nervous,All PCD Genes,5.2799579344946615e-15
+C44,2.4589322076202795e-16,Other malignant neoplasms of skin,Neoplasms,All PCD Genes,7.420189544171784e-15
+C_NONFOLLICULAR_LYMPHOMA,5.5025138999583675e-16,Non-follicular lymphoma *,Neoplasms,All PCD Genes,1.5682164614881347e-14
+D63,1.3583842576671766e-15,Anaemia in chronic diseases classified elsewhere,Blood/immune,All PCD Genes,3.667637495701377e-14
+K11_GIBLEEDING,4.182006860347994e-15,GI-bleeding *,Digestive,All PCD Genes,1.0726847596792604e-13
+B34,7.351718900335546e-15,Viral infection of unspecified site,Infectious disease,All PCD Genes,1.7959199027962547e-13
+H7_MACULADEGEN,2.161891208318815e-14,Degeneration of macula and posterior pole *,Eye,All PCD Genes,5.041137226670691e-13
+30080_irnt,3.627094440752587e-14,Platelet count,Blood assays,All PCD Genes,8.089997600461206e-13
+H7_RETINALBREAK,4.6469955827348884e-14,Retinal breaks without detachment *,Eye,All PCD Genes,9.61684330041811e-13
+K11_COELIAC,4.686570809170619e-14,Coeliac disease *,Digestive,All PCD Genes,9.61684330041811e-13
+J86,5.594768148829866e-14,Pyothorax,Respiratory,All PCD Genes,1.1038907924422003e-12
+L71,2.857358510892042e-13,Rosacea,Dermatologic,All PCD Genes,5.4289811706948796e-12
+A87,9.620862110623383e-13,Viral meningitis,Infectious disease,All PCD Genes,1.7626793795534985e-11
+A09,1.3499197727234627e-12,Diarrhoea and gastro-enteritis of presumed infectious origin,Infectious disease,All PCD Genes,2.3879615289901256e-11
+G6_BELLPA,3.384150654248086e-12,Bell's palsy *,Nervous,All PCD Genes,5.786897618764228e-11
+G51,2.046906037964651e-11,Facial nerve disorders,Nervous,All PCD Genes,3.377541517405491e-10
+F43,2.1068485098825674e-11,"Reaction to severe stress, and adjustment disorders",Mental/behavioral,All PCD Genes,3.377541517405491e-10
+H7_DIVERGSTRAB,3.131053608736444e-11,Divergent concomitant strabismus *,Eye,All PCD Genes,4.86736515539938e-10
+C64,6.681091517168627e-11,"Malignant neoplasm of kidney, except renal pelvis",Neoplasms,All PCD Genes,1.0080588083257368e-9
+J10_EXTERLUNG,1.3586641443000876e-10,Lung diseases due to external agents *,Respiratory,All PCD Genes,1.991413445788414e-9
+D70,2.5144928724253784e-10,Agranulocytosis,Blood/immune,All PCD Genes,3.583152343206164e-9
+M13_BAKERCYST,6.002401918876876e-10,Synovial cyst of popliteal space [Baker] *,Musculoskeletal,All PCD Genes,8.322249146983344e-9
+H7_VITRHAEMORR,7.120990501620858e-10,Vitreous haemorrhage *,Eye,All PCD Genes,9.613337177188158e-9
+I65,8.585302048630843e-10,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Circulatory,All PCD Genes,1.129297423319903e-8
+E4_DM1,1.0596927405117844e-9,Type 1 diabetes *,Endocrine/metabolic,All PCD Genes,1.3590559397063634e-8
+I30,1.595620401074294e-9,Acute pericarditis,Circulatory,All PCD Genes,1.996471379880763e-8
+M16,3.776890070261945e-9,Coxarthrosis [arthrosis of hip],Musculoskeletal,All PCD Genes,4.613201442962804e-8
+D3_HYPERGAMMAGLONAS,4.284752383254757e-9,"Hypergammalglobulinemia, unspecified *",Blood/immune,All PCD Genes,5.090551118192455e-8
+I60,4.36616470176351e-9,Subarachnoid haemorrhage,Circulatory,All PCD Genes,5.090551118192455e-8
+H8_BPV,7.227535369436569e-9,Benign paroxysmal vertigo *,Ear,All PCD Genes,8.239390321157689e-8
+D06,8.28224511074405e-9,Carcinoma in situ of cervix uteri,Neoplasms,All PCD Genes,9.236503786547169e-8
+C21,2.1669315286084436e-8,Malignant neoplasm of anus and anal canal,Neoplasms,All PCD Genes,2.365182711013046e-7
+N72,2.8319437920019524e-8,Inflammatory disease of cervix uteri,Genitourinary,All PCD Genes,3.0266399277020866e-7
+M13_PYOGARTH,3.0471115238524824e-8,Pyogenic arthritis *,Musculoskeletal,All PCD Genes,3.1901392076251497e-7
+L60,4.318024081173338e-8,Nail disorders,Dermatologic,All PCD Genes,4.430292707283845e-7
+K11_VOLVU,5.890949655844645e-8,Volvulus *,Digestive,All PCD Genes,5.925602300879025e-7
+AB1_OTHER_BACTERIAL,8.564728734300125e-8,Other bacterial diseases *,Infectious disease,All PCD Genes,8.449434309030699e-7
+C3_URINARY_TRACT,1.3755068877068012e-7,Malignant neoplasm of urinary organs *,Neoplasms,All PCD Genes,1.331386855459602e-6
+30010_irnt,2.005458869027453e-7,Red blood cell (erythrocyte) count,Blood assays,All PCD Genes,1.9051859255760803e-6
+L02,2.1293802379661847e-7,"Cutaneous abscess, furuncle and carbuncle",Dermatologic,All PCD Genes,1.9861310219575505e-6
+CAMPYLOENTERITIS,2.3098479318382859e-7,Campylobacter enteritis *,Infectious disease,All PCD Genes,2.1159856947018584e-6
+K11,2.4214961384521766e-7,Diseases of salivary glands,Digestive,All PCD Genes,2.179346524606959e-6
+M00,2.608917948953206e-7,Pyogenic arthritis,Musculoskeletal,All PCD Genes,2.307542944505163e-6
+I9_INTRACRA,1.186913425757722e-6,Nontraumatic intracranial haemmorrhage *,Circulatory,All PCD Genes,1.0320111651079854e-5
+M18,1.5588387064362715e-6,Arthrosis of first carpometacarpal joint,Musculoskeletal,All PCD Genes,1.3328070940030123e-5
+30000_irnt,1.7122618165025416e-6,White blood cell (leukocyte) count,Blood assays,All PCD Genes,1.4399841178127931e-5
+N49,2.1434887800015855e-6,"Inflammatory disorders of male genital organs, not elsewhere classified",Genitourinary,All PCD Genes,1.7735641034529246e-5
+N17,2.3894539278000984e-6,Acute renal failure,Genitourinary,All PCD Genes,1.9456981983515086e-5
+D86,3.3176387019224696e-6,Sarcoidosis,Blood/immune,All PCD Genes,2.6321569860995446e-5
+C_MELANOMA_SKIN,3.3350916977869473e-6,Malignant melanoma of skin *,Neoplasms,All PCD Genes,2.6321569860995446e-5
+K14,3.941494010171285e-6,Diseases of tongue,Digestive,All PCD Genes,3.063615798814953e-5
+E22,4.97111933502673e-6,Hyperfunction of pituitary gland,Endocrine/metabolic,All PCD Genes,3.806245102789123e-5
+M65,5.386033329784903e-6,Synovitis and tenosynovitis,Musculoskeletal,All PCD Genes,4.063286909087728e-5
+30030_irnt,7.269703117878846e-6,Haematocrit percentage,Blood assays,All PCD Genes,5.40486623111862e-5
+N97,7.612976304670837e-6,Female infertility,Genitourinary,All PCD Genes,5.5792240632801984e-5
+ULCERRECT,8.91606451094005e-6,Ulcerative rectosigmoiditis *,Digestive,All PCD Genes,6.442170555087669e-5
+A08,1.0393541787414708e-5,Viral and other specified intestinal infections,Infectious disease,All PCD Genes,7.40539852353298e-5
+AB1_VIRAL_CNS,1.1223435478514828e-5,Viral infections of the central nervous system *,Infectious disease,All PCD Genes,7.887153973257681e-5
+M80,1.1492832307084694e-5,Osteoporosis with pathological fracture,Musculoskeletal,All PCD Genes,7.96732834261412e-5
+H7_CONVERSTRAB,1.2519000225591538e-5,Convergent concomitant strabismus *,Eye,All PCD Genes,8.562996154304612e-5
+K11_CHOLANGI,1.2697744054316155e-5,Cholangitis (sclerosing) *,Digestive,All PCD Genes,8.570977236663404e-5
+J45,1.4456881673057023e-5,Asthma,Respiratory,All PCD Genes,9.631662725036691e-5
+STILL_ADULT,1.8026644904294433e-5,Adult-onset Still disease *,Blood/immune,All PCD Genes,1.1855985687055184e-4
+D30,1.8749099108365618e-5,Benign neoplasm of urinary organs,Neoplasms,All PCD Genes,1.2175047902014635e-4
+M81,1.912118788905672e-5,Osteoporosis without pathological fracture,Musculoskeletal,All PCD Genes,1.226146173385762e-4
+C77,2.256559217047076e-5,Secondary and unspecified malignant neoplasm of lymph nodes,Neoplasms,All PCD Genes,1.4291541707964813e-4
+C_LIVER_INTRAHEPATIC_BILE_DUCTS,2.4483045153932045e-5,Malignant neoplasm of liver and intrahepatic bile ducts *,Neoplasms,All PCD Genes,1.5316831907277e-4
+J33,4.1392690995728396e-5,Nasal polyp,Respiratory,All PCD Genes,2.558367527808273e-4
+A41,6.0678792771088214e-5,Other septicaemia,Infectious disease,All PCD Genes,3.70574055852003e-4
+I31,6.142483286630325e-5,Other diseases of pericardium,Circulatory,All PCD Genes,3.707169324754538e-4
+KRA_PSY_SUBSTANCE,7.836164493988056e-5,Substance abuse *,Mental/behavioral,All PCD Genes,4.674363238855666e-4
+N30,8.309668484618873e-5,Cystitis,Genitourinary,All PCD Genes,4.899839002999404e-4
+M13_OSTEOPOROSIS,9.931246596604276e-5,Osteoporosis *,Musculoskeletal,All PCD Genes,5.789465345520447e-4
+H7_EPIPHORA,1.2767640506606808e-4,Epiphora *,Eye,All PCD Genes,7.323714635109937e-4
+C15,1.2921224172393644e-4,Malignant neoplasm of oesophagus,Neoplasms,All PCD Genes,7.323714635109937e-4
+H7_ECTROPION,1.2991384635380198e-4,Ectropion of eyelid *,Eye,All PCD Genes,7.323714635109937e-4
+ASTHMA_EOSINOPHIL_SUGG,1.609351077371554e-4,Suggestive for eosinophilic asthma *,Respiratory,All PCD Genes,8.97388155099573e-4
+H8_LABYRINTHITIS,1.8171761881019563e-4,Labyrinthitis *,Ear,All PCD Genes,0.0010023778327917243
+D05,1.9780850661947234e-4,Carcinoma in situ of breast,Neoplasms,All PCD Genes,0.0010795294031466947
+C61,2.662504988493718e-4,Malignant neoplasm of prostate,Neoplasms,All PCD Genes,0.0014377526937866078
+K11_OESOBST,3.259953950091244e-4,Oesophageal obstruction *,Digestive,All PCD Genes,0.0017420378920800085
+B37,3.4717660606593765e-4,Candidiasis,Infectious disease,All PCD Genes,0.0018360989578538765
+C71,3.7494205693646706e-4,Malignant neoplasm of brain,Neoplasms,All PCD Genes,0.0019627068898817102
+H50,4.825712406933552e-4,Other strabismus,Eye,All PCD Genes,0.002500596429047386
+J31,5.178121705669807e-4,"Chronic rhinitis, nasopharyngitis and pharyngitis",Respiratory,All PCD Genes,0.0026563764350086105
+M13_DEQUERVAIN,5.705846665616096e-4,Radial styloid tenosynovitis [de Quervain] *,Musculoskeletal,All PCD Genes,0.002898118157882235
+K09,6.260857092167904e-4,"Cysts of oral region, not elsewhere classified",Digestive,All PCD Genes,0.0031488428316491517
+30020_irnt,7.157532511409208e-4,Haemoglobin concentration,Blood assays,All PCD Genes,0.003564868134323227
+J01,7.697243492069002e-4,Acute sinusitis,Respiratory,All PCD Genes,0.003796813376376344
+J47,8.349438610766081e-4,Bronchiectasis,Respiratory,All PCD Genes,0.0040792971498314285
+H33,9.39645924297463e-4,Retinal detachments and breaks,Eye,All PCD Genes,0.004547531690232062
+C22,0.001022509794995482,Malignant neoplasm of liver and intrahepatic bile ducts,Neoplasms,All PCD Genes,0.004902313316193292
+C09,0.0011336644781387388,Malignant neoplasm of tonsil,Neoplasms,All PCD Genes,0.005384906271159009
+H60,0.0011585346481978215,Otitis externa,Eye,All PCD Genes,0.005452552977298004
+I9_AVBLOCK,0.001234142923168356,AV-block *,Circulatory,All PCD Genes,0.005755593814412424
+30220_irnt,0.0014586758823793094,Basophill percentage,Blood assays,All PCD Genes,0.006741447996942214
+I9_NONRHEVALV,0.0015244298246822414,Non-rheumatic valve diseases *,Circulatory,All PCD Genes,0.006982433036267767
+G20,0.0018834263981291307,Parkinson's disease,Nervous,All PCD Genes,0.008541570020405361
+K11_PERITON,0.0018981266712011914,Diseases of peritoneum *,Digestive,All PCD Genes,0.008541570020405361
+I80,0.0019394432336249804,Phlebitis and thrombophlebitis,Circulatory,All PCD Genes,0.008651603294344477
+H90,0.0020057542366298726,Conductive and sensorineural hearing loss,Ear,All PCD Genes,0.008807392244269588
+I61,0.002008703494307099,Intracerebral haemorrhage,Circulatory,All PCD Genes,0.008807392244269588
+G61,0.002145371556722666,Inflammatory polyneuropathy,Nervous,All PCD Genes,0.009326911937277353
+M13_OLECRANONBURSITIS,0.002862677220141851,Olecranon bursitis *,Musculoskeletal,All PCD Genes,0.012315858936703481
+J69,0.0028868092161380057,Pneumonitis due to solids and liquids,Respiratory,All PCD Genes,0.012315858936703481
+K50,0.002904910197546045,Crohn's disease [regional enteritis],Digestive,All PCD Genes,0.012315858936703481
+30070_irnt,0.003130420433503981,Red blood cell (erythrocyte) distribution width,Blood assays,All PCD Genes,0.013163161331045429
+COPD_OPPORTUNIST_INFECTIONS,0.004030566232189909,COPD related to chronic (opportunist) infections *,Respiratory,All PCD Genes,0.016810410383035962
+A04,0.0063202784727192885,Other bacterial intestinal infections,Infectious disease,All PCD Genes,0.026147603681491893
+K46,0.007438088254760442,Unspecified abdominal hernia,Digestive,All PCD Genes,0.030525914197536853
+G54,0.008201309620943124,Nerve root and plexus disorders,Nervous,All PCD Genes,0.03339104631383986
+AB1_INTESTINAL_INFECTIONS,0.009332310350475078,Intestinal infectious diseases *,Infectious disease,All PCD Genes,0.0376966551952261
+CHILDHOOD_ALLERGY,0.011436112158570697,Childhood allergy (age < 16) *,Blood/immune,All PCD Genes,0.04583379326052162
+D34,0.011657675540257291,Benign neoplasm of thyroid gland,Neoplasms,All PCD Genes,0.04635959342753481
+F45,0.011860131967293045,Somatoform disorders,Mental/behavioral,All PCD Genes,0.046801905378625636
+I9_CONDUCTIO,0.012238264620475408,Conduction disorders *,Circulatory,All PCD Genes,0.047925417941251026
+D11,0.012594727990164641,Benign neoplasm of major salivary glands,Neoplasms,All PCD Genes,0.04894769287086713
+30120_irnt,0.018621742935195317,Lymphocyte count,Blood assays,All PCD Genes,0.07182672275003908
+K11_GASTRODUOULC,0.021250703813859892,Gastroduodenal ulcer *,Digestive,All PCD Genes,0.0813553063918666
+L12_ACTINKERA,0.02428375996582099,Actinic keratosis *,Dermatologic,All PCD Genes,0.09227828787011977
+C50,0.0250339839449681,Malignant neoplasm of breast,Neoplasms,All PCD Genes,0.09442966002771055
+C91,0.027197275114706695,Lymphoid leukaemia,Neoplasms,All PCD Genes,0.10184089148791632
+L97,0.03072597838556713,"Ulcer of lower limb, not elsewhere classified",Dermatologic,All PCD Genes,0.11422048486808652
+C69,0.0337088978592086,Malignant neoplasm of eye and adnexa,Neoplasms,All PCD Genes,0.12440765900556844
+K74,0.0398829674340397,Fibrosis and cirrhosis of liver,Digestive,All PCD Genes,0.14614258781187403
+M60,0.04432513766868855,Myositis,Musculoskeletal,All PCD Genes,0.161268054071186
+H91,0.045046756562008294,Other hearing loss,Ear,All PCD Genes,0.1627393388472553
+ENDOMETRIOSIS_PELVICPERITONEUM,0.04600564416497636,Endometriosis of pelvic peritoneum *,Genitourinary,All PCD Genes,0.16504122696946064
+30130_irnt,0.05474228692420554,Monocyte count,Blood assays,All PCD Genes,0.19501939716748223
+I21,0.059077779270527,Acute myocardial infarction,Circulatory,All PCD Genes,0.20901310872951967
+H65,0.06266360677825004,Nonsuppurative otitis media,Eye,All PCD Genes,0.22018102929617994
+K11_ACUTGASTR,0.07063815296428114,Acute gastritis *,Digestive,All PCD Genes,0.24651273789575662
+L72,0.07337194832894987,Follicular cysts of skin and subcutaneous tissue,Dermatologic,All PCD Genes,0.2543230371131844
+I9_VTE,0.07834884168308288,Venous thromboembolism *,Circulatory,All PCD Genes,0.2697513810967887
+COPD_EARLYANDLATER,0.08881387600168865,"COPD, early/later onset *",Respiratory,All PCD Genes,0.3037434559257752
+J93,0.09102265786044308,Pneumothorax,Respiratory,All PCD Genes,0.3092359171020351
+C90,0.0941624761655188,Multiple myeloma and malignant plasma cell neoplasms,Neoplasms,All PCD Genes,0.31779835705862597
+N86,0.10687039698586345,Erosion and ectropion of cervix uteri,Genitourinary,All PCD Genes,0.35833015459965983
+F31,0.10813474158373723,Bipolar affective disorder,Mental/behavioral,All PCD Genes,0.36021508073024155
+K70,0.11110206909692084,Alcoholic liver disease,Digestive,All PCD Genes,0.3677120093336799
+C62,0.11825972146204851,Malignant neoplasm of testis,Neoplasms,All PCD Genes,0.3886148603535858
+N83,0.11893281301269584,"Noninflammatory disorders of ovary, Fallopian tube and broad ligament",Genitourinary,All PCD Genes,0.3886148603535858
+L29,0.12195116765618633,Pruritus,Dermatologic,All PCD Genes,0.39595537346597204
+H00,0.1308286623479489,Hordeolum and chalazion,Eye,All PCD Genes,0.4221075709716842
+C20,0.13977741570011432,Malignant neoplasm of rectum,Neoplasms,All PCD Genes,0.4481613390884915
+D32,0.1459924470204025,Benign neoplasm of meninges,Neoplasms,All PCD Genes,0.46492596719023044
+B07,0.1468187264811254,Viral warts,Infectious disease,All PCD Genes,0.46492596719023044
+H49,0.15140722621528965,Paralytic strabismus,Eye,All PCD Genes,0.4765147671683656
+C_EYE_ADNEXA,0.1588722161032877,Malignant neoplasm of eye and adnexa *,Neoplasms,All PCD Genes,0.49696004183528403
+J35,0.16210099599699251,Chronic diseases of tonsils and adenoids,Respiratory,All PCD Genes,0.5034083439257615
+H25,0.16289626723523667,Senile cataract,Eye,All PCD Genes,0.5034083439257615
+K11_ACHAL,0.16565954107246383,Achalasia of cardia *,Circulatory,All PCD Genes,0.5088823028154129
+D50,0.16892720795525673,Iron deficiency anaemia,Blood/immune,All PCD Genes,0.515831295720516
+N21,0.1771205237704277,Calculus of lower urinary tract,Genitourinary,All PCD Genes,0.5376498739303516
+K35,0.1794038622089393,Acute appendicitis,Digestive,All PCD Genes,0.5413775371363875
+G12,0.19492596605781579,Spinal muscular atrophy and related syndromes,Nervous,All PCD Genes,0.5847778981734474
+30210_irnt,0.20222092390427587,Eosinophill percentage,Blood assays,All PCD Genes,0.6031356625749623
+AB1_INFECTIONS,0.20896041351000572,Certain infectious and parasitic diseases *,Infectious disease,All PCD Genes,0.6196340585585719
+C_MULTIPLE_MYELOMA_PLASMA_CELL,0.21327734094462011,Multiple myeloma and malignant plasma cell neoplasms *,Neoplasms,All PCD Genes,0.6288004362332765
+M13_RADICULOPATHY,0.215339786153277,Radiculopathy *,Musculoskeletal,All PCD Genes,0.6312532016950348
+J18,0.2175805617728856,"Pneumonia, organism unspecified",Respiratory,All PCD Genes,0.6341978874402858
+G35,0.22234708024299055,Multiple sclerosis,Nervous,All PCD Genes,0.6444296732466336
+K11_APPENDIX,0.2284590167101924,Diseases of appendix *,Digestive,All PCD Genes,0.6584240200692624
+I70,0.23128492114554708,Atherosclerosis,Circulatory,All PCD Genes,0.6602453713139563
+N60,0.23166504256630047,Benign mammary dysplasia,Genitourinary,All PCD Genes,0.6602453713139563
+G24,0.2341828394827473,Dystonia,Nervous,All PCD Genes,0.6637336831748584
+M76,0.24042416029949917,"Enthesopathies of lower limb, excluding foot",Musculoskeletal,All PCD Genes,0.6746851045169393
+K12,0.24067714254697836,Stomatitis and related lesions,Digestive,All PCD Genes,0.6746851045169393
+M87,0.2540924042973094,Osteonecrosis,Musculoskeletal,All PCD Genes,0.7084206706767376
+30100_irnt,0.25584595891628953,Mean platelet (thrombocyte) volume,Blood assays,All PCD Genes,0.7094539293192245
+I9_CHD,0.27704743212822597,Major coronary heart disease event *,Circulatory,All PCD Genes,0.7641146918375266
+I44,0.2894856483722392,Atrioventricular and left bundle-branch block,Circulatory,All PCD Genes,0.794150468529191
+K91,0.296592750342224,"Postprocedural disorders of digestive system, not elsewhere classified",Digestive,All PCD Genes,0.8093195793912814
+K11_CHRONPANC,0.3269403610369569,Chronic pancreatitis *,Digestive,All PCD Genes,0.887409551386026
+J96,0.3550526699339096,"Respiratory failure, not elsewhere classified",Respiratory,All PCD Genes,0.958642208821556
+N47,0.36068658623094296,"Redundant prepuce, phimosis and paraphimosis",Genitourinary,All PCD Genes,0.9687550719187107
+I46,0.36460180724555424,Cardiac arrest,Circulatory,All PCD Genes,0.9741704537342153
+H7_XANTHELASMA,0.3726779577371882,Xanthelasma of eyelid *,Eye,All PCD Genes,0.990589597508692
+E05,0.3761671230076887,Thyrotoxicosis [hyperthyroidism],Endocrine/metabolic,All PCD Genes,0.9947099696028056
+F32,0.39365912109684037,Depressive episode,Mental/behavioral,All PCD Genes,0.9999999999999104
+I9_HYPTENSHR,0.3991105696916028,Hypertensive heart and/or renal disease *,Circulatory,All PCD Genes,0.9999999999999104
+F5_PERSONALITY,0.4006918022184956,Specific personality disorders *,Mental/behavioral,All PCD Genes,0.9999999999999104
+F05,0.41843138735545465,"Delirium, not induced by alcohol and other psychoactive substances",Mental/behavioral,All PCD Genes,0.9999999999999104
+H05,0.4307433121518372,Disorders of orbit,Eye,All PCD Genes,0.9999999999999104
+H43,0.44617920196812394,Disorders of vitreous body,Eye,All PCD Genes,0.9999999999999104
+G6_GUILBAR,0.4515416053662249,Guillain-Barre syndrome *,Nervous,All PCD Genes,0.9999999999999104
+FIBRO_COMORB,0.45298139416698446,Fibromyalgia related co-morbidities *,Musculoskeletal,All PCD Genes,0.9999999999999104
+C82,0.48883003583918516,Follicular [nodular] non-Hodgkin's lymphoma,Neoplasms,All PCD Genes,0.9999999999999104
+L12_URTICARIA,0.5040583478602703,Urticaria *,Dermatologic,All PCD Genes,0.9999999999999104
+L50,0.5040583478602703,Urticaria,Dermatologic,All PCD Genes,0.9999999999999104
+N92,0.5070305552315892,"Excessive, frequent and irregular menstruation",Genitourinary,All PCD Genes,0.9999999999999104
+ASTHMA_PNEUMONIA,0.5294956372928399,Asthma-related pneumonia *,Respiratory,All PCD Genes,0.9999999999999104
+H7_RETINALDETACHBREAK,0.5424204125996352,Retinal detachment with retinal break *,Eye,All PCD Genes,0.9999999999999104
+K26,0.5469455421012628,Duodenal ulcer,Digestive,All PCD Genes,0.9999999999999104
+K01,0.5471747236601073,Embedded and impacted teeth,Digestive,All PCD Genes,0.9999999999999104
+L05,0.5525956004059316,Pilonidal cyst,Dermatologic,All PCD Genes,0.9999999999999104
+M13_TRIGGERFINGER,0.562532631503326,Trigger finger *,Musculoskeletal,All PCD Genes,0.9999999999999104
+30260_irnt,0.5812213897804523,Mean reticulocyte volume,Blood assays,All PCD Genes,0.9999999999999104
+ULCERPROCT,0.585523311522625,Ulcerative proctitis *,Digestive,All PCD Genes,0.9999999999999104
+G6_CPETAL,0.6023418650462238,Cerebral palsy and other paralytic syndromes *,Nervous,All PCD Genes,0.9999999999999104
+M31,0.6024556149964018,Other necrotising vasculopathies,Musculoskeletal,All PCD Genes,0.9999999999999104
+30110_irnt,0.6029053873150829,Platelet distribution width,Blood assays,All PCD Genes,0.9999999999999104
+D18,0.6204533404709194,"Haemangioma and lymphangioma, any site",Neoplasms,All PCD Genes,0.9999999999999104
+J06,0.6205845484809704,Acute upper respiratory infections of multiple and unspecified sites,Respiratory,All PCD Genes,0.9999999999999104
+C16,0.6341236232055059,Malignant neoplasm of stomach,Neoplasms,All PCD Genes,0.9999999999999104
+D10,0.6455057232438735,Benign neoplasm of mouth and pharynx,Neoplasms,All PCD Genes,0.9999999999999104
+DM_PERIPH_ANGIOPATHY,0.6526248219401711,Peripheral angiopathy *,Circulatory,All PCD Genes,0.9999999999999104
+M13_PREPATELLARBURSITIS,0.6576217032758783,Prepatellar bursitis *,Musculoskeletal,All PCD Genes,0.9999999999999104
+D64,0.6613539899980805,Other anaemias,Blood/immune,All PCD Genes,0.9999999999999104
+H8_OTORRHOEA,0.665274773404948,Otorrhoea *,Ear,All PCD Genes,0.9999999999999104
+30140_irnt,0.7278355621585244,Neutrophill count,Blood assays,All PCD Genes,0.9999999999999104
+C83,0.7345485363971194,Diffuse non-Hodgkin's lymphoma,Neoplasms,All PCD Genes,0.9999999999999104
+I82,0.7413139056841276,Other venous embolism and thrombosis,Circulatory,All PCD Genes,0.9999999999999104
+K20,0.7433312850936038,Oesophagitis,Digestive,All PCD Genes,0.9999999999999104
+K61,0.7443474472470057,Abscess of anal and rectal regions,Digestive,All PCD Genes,0.9999999999999104
+K58,0.7448599332741535,Irritable bowel syndrome,Digestive,All PCD Genes,0.9999999999999104
+N63,0.7452471773168454,Unspecified lump in breast,Other,All PCD Genes,0.9999999999999104
+M10,0.7503144278380117,Gout,Musculoskeletal,All PCD Genes,0.9999999999999104
+M13_TROCHANTERICBURSITIS,0.7514735732498653,Trochanteric bursitis *,Musculoskeletal,All PCD Genes,0.9999999999999104
+MENINGITIS,0.754747311448951,Meningitis *,Nervous,All PCD Genes,0.9999999999999104
+H34,0.7627427527764541,Retinal vascular occlusions,Eye,All PCD Genes,0.9999999999999104
+F5_MOOD,0.7824405200265326,Mood [affective] disorders *,Mental/behavioral,All PCD Genes,0.9999999999999104
+K81,0.8007487114329929,Cholecystitis,Digestive,All PCD Genes,0.9999999999999104
+C25,0.8176207006114948,Malignant neoplasm of pancreas,Neoplasms,All PCD Genes,0.9999999999999104
+C54,0.8214533100604348,Malignant neoplasm of corpus uteri,Neoplasms,All PCD Genes,0.9999999999999104
+L27,0.8258834396930685,Dermatitis due to substances taken internally,Dermatologic,All PCD Genes,0.9999999999999104
+H81,0.826336102199827,Disorders of vestibular function,Ear,All PCD Genes,0.9999999999999104
+N73,0.8286574708711439,Other female pelvic inflammatory diseases,Genitourinary,All PCD Genes,0.9999999999999104
+I9_AORTDIS,0.8441182697248344,Dissection of aorta *,Circulatory,All PCD Genes,0.9999999999999104
+K04,0.8452793170915718,Diseases of pulp and periapical tissues,Digestive,All PCD Genes,0.9999999999999104
+H7_ENTROPION,0.8453615042173086,Entropion and trichiasis of eyelid *,Eye,All PCD Genes,0.9999999999999104
+K11_APPENDOTH,0.8471999855033843,Other appendicitis *,Digestive,All PCD Genes,0.9999999999999104
+M13_GANGLION,0.8521434235396625,Ganglion *,Musculoskeletal,All PCD Genes,0.9999999999999104
+K52,0.859639556746191,Other non-infective gastro-enteritis and colitis,Digestive,All PCD Genes,0.9999999999999104
+N75,0.8794892287885087,Diseases of Bartholin's gland,Genitourinary,All PCD Genes,0.9999999999999104
+D3_ITP,0.8821940466987535,Idiopathic thrombocytopenic purpura *,Blood/immune,All PCD Genes,0.9999999999999104
+30180_irnt,0.8829794215686007,Lymphocyte percentage,Blood assays,All PCD Genes,0.9999999999999104
+H8_HL_SEN_NAS,0.8893499132929295,Sensorineural hearing loss *,Ear,All PCD Genes,0.9999999999999104
+E23,0.890628886354506,Hypofunction and other disorders of pituitary gland,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+30190_irnt,0.89089342614253475,Monocyte percentage,Blood assays,All PCD Genes,0.9999999999999104
+I86,0.9065886336917738,Varicose veins of other sites,Circulatory,All PCD Genes,0.9999999999999104
+I84,0.9129313032974856,Haemorrhoids,Circulatory,All PCD Genes,0.9999999999999104
+30510_irnt,0.9167558107991045,Creatinine (enzymatic) in urine,Urine assays,All PCD Genes,0.9999999999999104
+K07,0.9179135226761186,Dentofacial anomalies [including malocclusion],Digestive,All PCD Genes,0.9999999999999104
+N43,0.9213403635893013,Hydrocele and spermatocele,Genitourinary,All PCD Genes,0.9999999999999104
+I35,0.9267270327318851,Nonrheumatic aortic valve disorders,Circulatory,All PCD Genes,0.9999999999999104
+J36,0.9277439099576139,Peritonsillar abscess,Respiratory,All PCD Genes,0.9999999999999104
+30200_irnt,0.933390681017003,Neutrophill percentage,Blood assays,All PCD Genes,0.9999999999999104
+I33,0.9354813951827137,Acute and subacute endocarditis,Circulatory,All PCD Genes,0.9999999999999104
+H80,0.9364121177862944,Otosclerosis,Ear,All PCD Genes,0.9999999999999104
+L57,0.9387655806095824,Skin changes due to chronic exposure to nonionising radiation,Dermatologic,All PCD Genes,0.9999999999999104
+F20,0.9391850417503942,Schizophrenia,Mental/behavioral,All PCD Genes,0.9999999999999104
+30520_irnt,0.9398481528371447,Potassium in urine,Urine assays,All PCD Genes,0.9999999999999104
+C85,0.9401435238357561,Other and unspecified types of non-Hodgkin's lymphoma,Neoplasms,All PCD Genes,0.9999999999999104
+AB1_MYCOSES,0.9483684469565898,Mycoses *,Infectious disease,All PCD Genes,0.9999999999999104
+I22,0.9509956895743268,Subsequent myocardial infarction,Circulatory,All PCD Genes,0.9999999999999104
+30240_irnt,0.9549231253429261,Reticulocyte percentage,Blood assays,All PCD Genes,0.9999999999999104
+K25,0.9565608351776793,Gastric ulcer,Digestive,All PCD Genes,0.9999999999999104
+I50,0.9611421698375773,Heart failure,Circulatory,All PCD Genes,0.9999999999999104
+K10,0.9625685246835805,Other diseases of jaws,Digestive,All PCD Genes,0.9999999999999104
+H8_PERCHRONDR,0.962664267408571,Perichondritis of external ear *,Ear,All PCD Genes,0.9999999999999104
+D03,0.9656756739005796,Melanoma in situ,Neoplasms,All PCD Genes,0.9999999999999104
+K85,0.9661599765710507,Acute pancreatitis,Digestive,All PCD Genes,0.9999999999999104
+CHIRHEP_NAS,0.9670993664051165,"Chirrosis of liver, NAS *",Digestive,All PCD Genes,0.9999999999999104
+N41,0.9685654050744033,Inflammatory diseases of prostate,Genitourinary,All PCD Genes,0.9999999999999104
+N82,0.9693144844876974,Fistulae involving female genital tract,Genitourinary,All PCD Genes,0.9999999999999104
+K65,0.970574737105308,Peritonitis,Digestive,All PCD Genes,0.9999999999999104
+L91,0.9714914866590021,Hypertrophic disorders of skin,Dermatologic,All PCD Genes,0.9999999999999104
+J13,0.9721376759207976,Pneumonia due to Streptococcus pneumoniae,Respiratory,All PCD Genes,0.9999999999999104
+AB1_VIRAL_SKIN_MUCOUS_MEMBRANE,0.9725892902184888,Viral infections characterized by skin and mucous membrane lesions *,Infectious disease,All PCD Genes,0.9999999999999104
+I9_PHLETHROMBDVTLOW,0.9728381614662269,DVT of lower extremities *,Circulatory,All PCD Genes,0.9999999999999104
+L12_HIDRADENITISSUP,0.9742059990115256,Hidradenitis suppurativa *,Dermatologic,All PCD Genes,0.9999999999999104
+M13,0.9760070965562151,Other arthritis,Musculoskeletal,All PCD Genes,0.9999999999999104
+K11_ILEUS,0.9790269455788824,Paralytic ileus and intestinal obstruction *,Digestive,All PCD Genes,0.9999999999999104
+C19,0.979368679241826,Malignant neoplasm of rectosigmoid junction,Neoplasms,All PCD Genes,0.9999999999999104
+G57,0.9812185747080665,Mononeuropathies of lower limb,Nervous,All PCD Genes,0.9999999999999104
+D46,0.9823331639118739,Myelodysplastic syndromes,Blood/immune,All PCD Genes,0.9999999999999104
+K11_GALLBILPANC,0.9825361177315894,"Disorders of gallbladder, biliary tract and pancreas *",Digestive,All PCD Genes,0.9999999999999104
+30300_irnt,0.9827458752716443,High light scatter reticulocyte count,Blood assays,All PCD Genes,0.9999999999999104
+AMN2,0.9831845838029051,Transient global amnesia *,Mental/behavioral,All PCD Genes,0.9999999999999104
+N14_GLOMERULAR,0.9834068471191348,Glomerular diseases *,Genitourinary,All PCD Genes,0.9999999999999104
+C17,0.9856783479186628,Malignant neoplasm of small intestine,Neoplasms,All PCD Genes,0.9999999999999104
+I85,0.9859623993710545,Oesophageal varices,Circulatory,All PCD Genes,0.9999999999999104
+ENDOMETRIOSIS_OVARY,0.9877544446524992,Endometriosis of ovary *,Genitourinary,All PCD Genes,0.9999999999999104
+K11_CHRONGASTR,0.9879437276759198,Chronic gastritis *,Digestive,All PCD Genes,0.9999999999999104
+H04,0.9887431361255747,Disorders of lachrymal system,Eye,All PCD Genes,0.9999999999999104
+H7_LACRIMALSYSTEM,0.9887431361255747,Disorders of lacrimal system *,Eye,All PCD Genes,0.9999999999999104
+M15,0.9893763718266763,Polyarthrosis,Musculoskeletal,All PCD Genes,0.9999999999999104
+N31,0.9908479311398455,"Neuromuscular dysfunction of bladder, not elsewhere classified",Genitourinary,All PCD Genes,0.9999999999999104
+L12_SCARCONDITIONS,0.9909920977805723,Scar conditions and fibrosis of skin *,Dermatologic,All PCD Genes,0.9999999999999104
+H7_STENOLACRI,0.9913795425023828,Stenosis and insufficiency of lacrimal passages *,Eye,All PCD Genes,0.9999999999999104
+F5_DEPRESSIO,0.9915558334854475,Depression *,Mental/behavioral,All PCD Genes,0.9999999999999104
+D33,0.9930839458662682,Benign neoplasm of brain and other parts of central nervous system,Neoplasms,All PCD Genes,0.9999999999999104
+IPF,0.9934167400738205,Idiopathic pulmonary fibrosis (attempt to specificity) *,Respiratory,All PCD Genes,0.9999999999999104
+G45,0.9935019070120938,Transient cerebral ischaemic attacks and related syndromes,Nervous,All PCD Genes,0.9999999999999104
+K21,0.9935780839731083,Gastro-oesophageal reflux disease,Digestive,All PCD Genes,0.9999999999999104
+ILD_DIFF_DG,0.9949371596602001,ILD differential diagnosis *,Respiratory,All PCD Genes,0.9999999999999104
+M13_ALGONEURO,0.9949837898371251,Alogoneurodystrophy *,Nervous,All PCD Genes,0.9999999999999104
+H92,0.995080560996451,Otalgia and effusion of ear,Ear,All PCD Genes,0.9999999999999104
+30280_irnt,0.9950951873978748,Immature reticulocyte fraction,Blood assays,All PCD Genes,0.9999999999999104
+DM_BCKGRND_RETINOPAT,0.9951334539238903,Background diabetic retinopathy *,Other,All PCD Genes,0.9999999999999104
+H7_BCKRNDRETINOPAT,0.9951334539238903,Background retinopathy and retinal vascular changes *,Eye,All PCD Genes,0.9999999999999104
+H52,0.9951712023467623,Disorders of refraction and accommodation,Eye,All PCD Genes,0.9999999999999104
+C_MYELOID-LEUKAEMIA,0.9952464425166319,Myeloid leukaemia *,Neoplasms,All PCD Genes,0.9999999999999104
+I9_HYPTENS,0.9952521688983726,Hypertension *,Circulatory,All PCD Genes,0.9999999999999104
+K11_LIVER,0.9952776111060766,Diseases of liver *,Digestive,All PCD Genes,0.9999999999999104
+K55,0.9952819627152413,Vascular disorders of intestine,Digestive,All PCD Genes,0.9999999999999104
+C45,0.9963420509495131,Mesothelioma,Neoplasms,All PCD Genes,0.9999999999999104
+J43,0.9963698038011191,Emphysema,Respiratory,All PCD Genes,0.9999999999999104
+C56,0.996614147541111,Malignant neoplasm of ovary,Neoplasms,All PCD Genes,0.9999999999999104
+E16,0.9972105654250233,Other disorders of pancreatic internal secretion,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+K56,0.9972907397906151,Paralytic ileus and intestinal obstruction without hernia,Digestive,All PCD Genes,0.9999999999999104
+L82,0.9973368461463947,Seborrhoeic keratosis,Dermatologic,All PCD Genes,0.9999999999999104
+F5_ALCOHOLAC,0.9974393271965698,Acute alcohol intoxication *,Mental/behavioral,All PCD Genes,0.9999999999999104
+I12,0.9974670470868761,Hypertensive renal disease,Circulatory,All PCD Genes,0.9999999999999104
+L12_LICHENSCLERATROPH,0.9977404700936452,Lichen sclerosus et atrophicus *,Dermatologic,All PCD Genes,0.9999999999999104
+30040_irnt,0.9977589865171703,Mean corpuscular volume,Blood assays,All PCD Genes,0.9999999999999104
+K05,0.99777643410045,Gingivitis and periodontal diseases,Digestive,All PCD Genes,0.9999999999999104
+H40,0.9979116368859196,Glaucoma,Eye,All PCD Genes,0.9999999999999104
+J20,0.9979951621050741,Acute bronchitis,Respiratory,All PCD Genes,0.9999999999999104
+J32,0.9980232645236089,Chronic sinusitis,Respiratory,All PCD Genes,0.9999999999999104
+30250_irnt,0.9980628247577178,Reticulocyte count,Blood assays,All PCD Genes,0.9999999999999104
+30290_irnt,0.9982114777607515,High light scatter reticulocyte percentage,Blood assays,All PCD Genes,0.9999999999999104
+G6_HYDROCEPH,0.998434696582137,Hydrocephalus *,Nervous,All PCD Genes,0.9999999999999104
+N61,0.9984840212246022,Inflammatory disorders of breast,Genitourinary,All PCD Genes,0.9999999999999104
+F33,0.9984983738092104,Recurrent depressive disorder,Mental/behavioral,All PCD Genes,0.9999999999999104
+H8_CHRON_SUPOTITIS,0.9986562505841612,Chronic suppurative otitis media *,Ear,All PCD Genes,0.9999999999999104
+C78,0.9986894792523284,Secondary malignant neoplasm of respiratory and digestive organs,Neoplasms,All PCD Genes,0.9999999999999104
+E83,0.9989729227851577,Disorders of mineral metabolism,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+F5_PANIC,0.9989852451451333,Panic disorder *,Mental/behavioral,All PCD Genes,0.9999999999999104
+K51,0.9990514152198691,Ulcerative colitis,Digestive,All PCD Genes,0.9999999999999104
+E21,0.9990553634991146,Hyperparathyroidism and other disorders of parathyroid gland,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+H7_GLAUCPRIMOPEN,0.999161876668435,Primary open-angle glaucoma *,Eye,All PCD Genes,0.9999999999999104
+KRA_PSY_ALCOH,0.999191424982347,"Alcohol abuse, main dg *",Mental/behavioral,All PCD Genes,0.9999999999999104
+K02,0.9992158049336519,Dental caries,Digestive,All PCD Genes,0.9999999999999104
+M45,0.9992643897452311,Ankylosing spondylitis,Musculoskeletal,All PCD Genes,0.9999999999999104
+N12,0.9992678242759739,"Tubulo-interstitial nephritis, not specified as acute or chronic",Genitourinary,All PCD Genes,0.9999999999999104
+H7_GLAUCCLOSEPRIM,0.9992740412631997,Primary angle-closure glaucoma *,Eye,All PCD Genes,0.9999999999999104
+K40,0.9992818050972476,Inguinal hernia,Digestive,All PCD Genes,0.9999999999999104
+I26,0.9993771025486957,Pulmonary embolism,Circulatory,All PCD Genes,0.9999999999999104
+C32,0.9993804942115952,Malignant neoplasm of larynx,Neoplasms,All PCD Genes,0.9999999999999104
+M17,0.999392991822541,Gonarthrosis [arthrosis of knee],Musculoskeletal,All PCD Genes,0.9999999999999104
+B02,0.9994105365277717,Zoster [herpes zoster],Infectious disease,All PCD Genes,0.9999999999999104
+M13_DUPUTRYEN,0.9994381809495562,Palmar fascial fibromatosis [Dupuytren] *,Musculoskeletal,All PCD Genes,0.9999999999999104
+D04,0.9994575021859025,Carcinoma in situ of skin,Neoplasms,All PCD Genes,0.9999999999999104
+G56,0.9994881910435909,Mononeuropathies of upper limb,Nervous,All PCD Genes,0.9999999999999104
+N20,0.9995595404663693,Calculus of kidney and ureter,Genitourinary,All PCD Genes,0.9999999999999104
+F5_ALLANXIOUS,0.9995707622195112,All anxiety disorders *,Mental/behavioral,All PCD Genes,0.9999999999999104
+AD,0.9995897759223661,Alzheimer’s disease *,Mental/behavioral,All PCD Genes,0.9999999999999104
+D24,0.9996183611462579,Benign neoplasm of breast,Neoplasms,All PCD Genes,0.9999999999999104
+N19,0.9996186436399104,Unspecified renal failure,Genitourinary,All PCD Genes,0.9999999999999104
+L12_PSORI_ARTHRO,0.9996600996946834,Arthropathic psoriasis *,Dermatologic,All PCD Genes,0.9999999999999104
+C18,0.9996678044713696,Malignant neoplasm of colon,Neoplasms,All PCD Genes,0.9999999999999104
+J38,0.9996779772513217,"Diseases of vocal cords and larynx, not elsewhere classified",Respiratory,All PCD Genes,0.9999999999999104
+G62,0.9996792602955862,Other polyneuropathies,Nervous,All PCD Genes,0.9999999999999104
+J22,0.9997031151808958,Unspecified acute lower respiratory infection,Respiratory,All PCD Genes,0.9999999999999104
+G6_MYONEU,0.9997173470983589,Diseases of the myoneural junction and muscle *,Nervous,All PCD Genes,0.9999999999999104
+E03,0.9997301526107134,Other hypothyroidism,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+DM_KETOACIDOSIS,0.999740673455283,Diabetic ketoacidosis *,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+I34,0.9997944476359802,Nonrheumatic mitral valve disorders,Circulatory,All PCD Genes,0.9999999999999104
+N40,0.9998191704600197,Hyperplasia of prostate,Genitourinary,All PCD Genes,0.9999999999999104
+D27,0.9998202085392415,Benign neoplasm of ovary,Neoplasms,All PCD Genes,0.9999999999999104
+C81,0.9998247833689795,Hodgkin's disease,Neoplasms,All PCD Genes,0.9999999999999104
+M41,0.9998281462707304,Scoliosis,Musculoskeletal,All PCD Genes,0.9999999999999104
+G40,0.9998314831809877,Epilepsy,Nervous,All PCD Genes,0.9999999999999104
+L92,0.999837384908769,Granulomatous disorders of skin and subcutaneous tissue,Dermatologic,All PCD Genes,0.9999999999999104
+J02,0.9998379337028914,Acute pharyngitis,Respiratory,All PCD Genes,0.9999999999999104
+K57,0.9998430649193863,Diverticular disease of intestine,Digestive,All PCD Genes,0.9999999999999104
+I9_RHEUVALV,0.9998477821501668,Rheumatic valve diseases *,Circulatory,All PCD Genes,0.9999999999999104
+D3_SCNDPOLYCYTHAEMIA,0.9998646099657504,Secondary polycythaemia *,Blood/immune,All PCD Genes,0.9999999999999104
+D16,0.9998697075617533,Benign neoplasm of bone and articular cartilage,Neoplasms,All PCD Genes,0.9999999999999104
+M66,0.9998717310217462,Spontaneous rupture of synovium and tendon,Musculoskeletal,All PCD Genes,0.9999999999999104
+K11_ADHE,0.9998834873776645,Intestinal adhesions without obstruction *,Digestive,All PCD Genes,0.9999999999999104
+I83,0.9998908327746497,Varicose veins of lower extremities,Circulatory,All PCD Genes,0.9999999999999104
+G6_DEMYEL,0.999892903434482,Demyelenating diseases of the central nervous system *,Nervous,All PCD Genes,0.9999999999999104
+C_DIFFICILE_ENTEROCOLITIS,0.9998994980230186,Enterocolitis due to Clostridium difficile *,Infectious disease,All PCD Genes,0.9999999999999104
+N80,0.9998995384828875,Endometriosis,Genitourinary,All PCD Genes,0.9999999999999104
+C53,0.9999082922338236,Malignant neoplasm of cervix uteri,Neoplasms,All PCD Genes,0.9999999999999104
+KRA_PSY_ANXIETY,0.9999112141111736,Anxiety disorders *,Mental/behavioral,All PCD Genes,0.9999999999999104
+N84,0.9999168586619596,Polyp of female genital tract,Genitourinary,All PCD Genes,0.9999999999999104
+D09,0.9999245728854207,Carcinoma in situ of other and unspecified sites,Neoplasms,All PCD Genes,0.9999999999999104
+C_STROKE,0.9999261016584273,STROKE *,Circulatory,All PCD Genes,0.9999999999999104
+C79,0.9999285631034056,Secondary malignant neoplasm of other sites,Neoplasms,All PCD Genes,0.9999999999999104
+C92,0.9999307104941191,Myeloid leukaemia,Neoplasms,All PCD Genes,0.9999999999999104
+C48,0.9999310143226552,Malignant neoplasm of retroperitoneum and peritoneum,Neoplasms,All PCD Genes,0.9999999999999104
+M13_PLANTARFASC,0.9999328935225411,Plantar fascial fibromatosis *,Musculoskeletal,All PCD Genes,0.9999999999999104
+I9_VASCINT,0.999936156006339,Vascular diseases of the intestine *,Circulatory,All PCD Genes,0.9999999999999104
+SPONDYLOARTHRITIS,0.9999364526422592,Spondyloarthritis *,Musculoskeletal,All PCD Genes,0.9999999999999104
+N71,0.9999373981572204,"Inflammatory disease of uterus, except cervix",Genitourinary,All PCD Genes,0.9999999999999104
+F52,0.9999435015649498,"Sexual dysfunction, not caused by organic disorder or disease",Mental/behavioral,All PCD Genes,0.9999999999999104
+C43,0.9999460549750516,Malignant melanoma of skin,Neoplasms,All PCD Genes,0.9999999999999104
+G43,0.9999469683552988,Migraine,Nervous,All PCD Genes,0.9999999999999104
+C34,0.9999479267111843,Malignant neoplasm of bronchus and lung,Neoplasms,All PCD Genes,0.9999999999999104
+K80,0.9999480776860232,Cholelithiasis,Digestive,All PCD Genes,0.9999999999999104
+D12,0.9999571697183403,"Benign neoplasm of colon, rectum, anus and anal canal",Neoplasms,All PCD Genes,0.9999999999999104
+INFLUENZA,0.9999601033198421,All influenza (not pneumonia) *,Infectious disease,All PCD Genes,0.9999999999999104
+F41,0.9999624295084029,Other anxiety disorders,Mental/behavioral,All PCD Genes,0.9999999999999104
+K11_OESULC,0.999962676887567,Ulcer of oesophagus *,Digestive,All PCD Genes,0.9999999999999104
+J46,0.9999669881548525,Status asthmaticus,Respiratory,All PCD Genes,0.9999999999999104
+D69,0.9999742755863308,Purpura and other haemorrhagic conditions,Blood/immune,All PCD Genes,0.9999999999999104
+C_MESOTHELIOMA,0.9999745779030105,Mesothelioma *,Neoplasms,All PCD Genes,0.9999999999999104
+H8_HL_CON_NAS,0.9999747074425428,"Conductive hearing loss, unspecified *",Ear,All PCD Genes,0.9999999999999104
+C01,0.9999749181244091,Malignant neoplasm of base of tongue,Neoplasms,All PCD Genes,0.9999999999999104
+H8_MENIERE,0.9999762553112606,Ménière disease *,Ear,All PCD Genes,0.9999999999999104
+I63,0.9999767978545538,Cerebral infarction,Circulatory,All PCD Genes,0.9999999999999104
+K41,0.9999787188130418,Femoral hernia,Digestive,All PCD Genes,0.9999999999999104
+F10,0.9999794616753932,Mental and behavioural disorders due to use of alcohol,Mental/behavioral,All PCD Genes,0.9999999999999104
+G47,0.9999800456451535,Sleep disorders,Nervous,All PCD Genes,0.9999999999999104
+I77,0.999982514985831,Other disorders of arteries and arterioles,Circulatory,All PCD Genes,0.9999999999999104
+I9_ARTEMBTHRLOW,0.9999833359965382,Arterial embolism and thrombosis of lower extremity artery *,Circulatory,All PCD Genes,0.9999999999999104
+K60,0.9999881232886876,Fissure and fistula of anal and rectal regions,Digestive,All PCD Genes,0.9999999999999104
+K75,0.9999883671896908,Other inflammatory liver diseases,Digestive,All PCD Genes,0.9999999999999104
+I9_UAP,0.9999885321545048,Unstable angina pectoris *,Circulatory,All PCD Genes,0.9999999999999104
+M13_GIANTCELL,0.99998912275876,Giant cell arteritis *,Musculoskeletal,All PCD Genes,0.9999999999999104
+D07,0.9999901588051054,Carcinoma in situ of other and unspecified genital organs,Neoplasms,All PCD Genes,0.9999999999999104
+K37,0.9999903333268116,Unspecified appendicitis,Digestive,All PCD Genes,0.9999999999999104
+I95,0.9999910441773434,Hypotension,Circulatory,All PCD Genes,0.9999999999999104
+N02,0.9999918386668922,Recurrent and persistent haematuria,Genitourinary,All PCD Genes,0.9999999999999104
+C67,0.9999934949573672,Malignant neoplasm of bladder,Neoplasms,All PCD Genes,0.9999999999999104
+I42,0.9999937982303382,Cardiomyopathy,Circulatory,All PCD Genes,0.9999999999999104
+K00,0.9999944793695249,Disorders of tooth development and eruption,Digestive,All PCD Genes,0.9999999999999104
+G81,0.9999946799873192,Hemiplegia,Nervous,All PCD Genes,0.9999999999999104
+D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,0.999994767840831,Purpura and other haemorrhagic conditions *,Blood/immune,All PCD Genes,0.9999999999999104
+I74,0.9999958905666055,Arterial embolism and thrombosis,Circulatory,All PCD Genes,0.9999999999999104
+K43,0.9999961124416767,Ventral hernia,Digestive,All PCD Genes,0.9999999999999104
+N45,0.9999964320616443,Orchitis and epididymitis,Genitourinary,All PCD Genes,0.9999999999999104
+I9_RHEUFEV,0.9999966037137737,Rheumatic fever incl heart disease *,Circulatory,All PCD Genes,0.9999999999999104
+30270_irnt,0.999996618777073,Mean sphered cell volume,Blood assays,All PCD Genes,0.9999999999999104
+I9_HYPERTENSION,0.9999967779498227,Hypertensive diseases *,Circulatory,All PCD Genes,0.9999999999999104
+H53,0.9999968690368668,Visual disturbances,Eye,All PCD Genes,0.9999999999999104
+L12_HYPETROPHICSCAR,0.9999970508957595,Hypertrophic scar *,Dermatologic,All PCD Genes,0.9999999999999104
+D25,0.9999974696812745,Leiomyoma of uterus,Neoplasms,All PCD Genes,0.9999999999999104
+I47,0.9999978901330294,Paroxysmal tachycardia,Circulatory,All PCD Genes,0.9999999999999104
+K30,0.99999814421314,Dyspepsia,Digestive,All PCD Genes,0.9999999999999104
+ENDOMETRIOSIS_UTERUS,0.9999983422969791,Endometriosis of uterus *,Genitourinary,All PCD Genes,0.9999999999999104
+C02,0.9999985160972278,Malignant neoplasm of other and unspecified parts of tongue,Neoplasms,All PCD Genes,0.9999999999999104
+I9_STR,0.9999990039642036,"Stroke, excluding SAH *",Circulatory,All PCD Genes,0.9999999999999104
+C_TNK_LYMPHOMA,0.9999990345372989,Mature T/NK-cell lymphomas *,Neoplasms,All PCD Genes,0.9999999999999104
+D61,0.9999991377504722,Other aplastic anaemias,Blood/immune,All PCD Genes,0.9999999999999104
+M13_SCIATICA,0.9999993925656561,Siatica+with lumbago *,Musculoskeletal,All PCD Genes,0.9999999999999104
+30060_irnt,0.9999994025822843,Mean corpuscular haemoglobin concentration,Blood assays,All PCD Genes,0.9999999999999104
+C80,0.9999994181401572,Malignant neoplasm without specification of site,Neoplasms,All PCD Genes,0.9999999999999104
+L40,0.9999994520356255,Psoriasis,Dermatologic,All PCD Genes,0.9999999999999104
+D3_THROMBOCYTOPENIANAS,0.9999994902895961,"Thrombocytopenia, unspecified *",Blood/immune,All PCD Genes,0.9999999999999104
+H7_PTERYGIUM,0.9999995268065514,Pterygium *,Eye,All PCD Genes,0.9999999999999104
+L28,0.9999995380951304,Lichen simplex chronicus and prurigo,Dermatologic,All PCD Genes,0.9999999999999104
+G6_XTRAPYR,0.9999996232342556,Extrapyramidal and movement disorders *,Nervous,All PCD Genes,0.9999999999999104
+I64,0.9999996694288384,"Stroke, not specified as haemorrhage or infarction",Circulatory,All PCD Genes,0.9999999999999104
+F5_DEMENTIA,0.9999997017927893,Dementia *,Mental/behavioral,All PCD Genes,0.9999999999999104
+CONGEN_HEART_ARTER,0.999999704606616,Congenital malformations of heart and great arteries *,Congenital,All PCD Genes,0.9999999999999104
+H66,0.9999997121602588,Suppurative and unspecified otitis media,Eye,All PCD Genes,0.9999999999999104
+L90,0.9999997530743812,Atrophic disorders of skin,Dermatologic,All PCD Genes,0.9999999999999104
+I9_STR_EXH,0.9999998080788541,"Ischaemic Stroke, excluding all haemorrhages *",Circulatory,All PCD Genes,0.9999999999999104
+G37,0.999999838435341,Other demyelinating diseases of central nervous system,Nervous,All PCD Genes,0.9999999999999104
+G6_ALS,0.9999998444365656,Motor neuron disease *,Nervous,All PCD Genes,0.9999999999999104
+K44,0.9999998541841317,Diaphragmatic hernia,Digestive,All PCD Genes,0.9999999999999104
+I10,0.9999998592164158,Essential (primary) hypertension,Circulatory,All PCD Genes,0.9999999999999104
+H74,0.9999998688473928,Other disorders of middle ear and mastoid,Ear,All PCD Genes,0.9999999999999104
+N81,0.999999886102206,Female genital prolapse,Genitourinary,All PCD Genes,0.9999999999999104
+K29,0.9999998972415052,Gastritis and duodenitis,Digestive,All PCD Genes,0.9999999999999104
+J03,0.9999999032928153,Acute tonsillitis,Respiratory,All PCD Genes,0.9999999999999104
+B18,0.9999999041350929,Chronic viral hepatitis,Infectious disease,All PCD Genes,0.9999999999999104
+M86,0.9999999114919232,Osteomyelitis,Musculoskeletal,All PCD Genes,0.9999999999999104
+GLOMER_NEPHRITIS,0.9999999230503054,Glomerulonephritis *,Genitourinary,All PCD Genes,0.9999999999999104
+A63,0.9999999377081307,"Other predominantly sexually transmitted diseases, not elsewhere classified",Infectious disease,All PCD Genes,0.9999999999999104
+J15,0.9999999480142743,"Bacterial pneumonia, not elsewhere classified",Respiratory,All PCD Genes,0.9999999999999104
+I9_DISVEINLYMPH,0.9999999486058058,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified *",Circulatory,All PCD Genes,0.9999999999999104
+DM_PERIPHATHERO,0.9999999500436543,Peripheral atherosclerosis *,Circulatory,All PCD Genes,0.9999999999999104
+N87,0.9999999515577467,Dysplasia of cervix uteri,Genitourinary,All PCD Genes,0.9999999999999104
+H71,0.9999999563885391,Cholesteatoma of middle ear,Ear,All PCD Genes,0.9999999999999104
+L03,0.999999957570765,Cellulitis,Dermatologic,All PCD Genes,0.9999999999999104
+K42,0.9999999675665736,Umbilical hernia,Digestive,All PCD Genes,0.9999999999999104
+I9_STR_SAH,0.9999999690930474,"Stroke, including SAH *",Circulatory,All PCD Genes,0.9999999999999104
+AB1_VIRAL_HEPATITIS,0.9999999792747223,Viral hepatitis *,Infectious disease,All PCD Genes,0.9999999999999104
+C73,0.9999999808497974,Malignant neoplasm of thyroid gland,Neoplasms,All PCD Genes,0.9999999999999104
+30500_irnt,0.9999999827858581,Microalbumin in urine,Urine assays,All PCD Genes,0.9999999999999104
+M19,0.9999999894434,Other arthrosis,Musculoskeletal,All PCD Genes,0.9999999999999104
+E66,0.9999999894753486,Obesity,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+I9_ANEURYSM,0.9999999901769825,"Cerebral aneurysm, nonruptured *",Circulatory,All PCD Genes,0.9999999999999104
+D22,0.9999999902906724,Melanocytic naevi,Neoplasms,All PCD Genes,0.9999999999999104
+K11_BARRET,0.9999999930919818,Barret oesophagus *,Digestive,All PCD Genes,0.9999999999999104
+AB1_SEXUAL_TRANSMISSION,0.999999994016356,Infections with a predominantly sexual mode of transmission *,Infectious disease,All PCD Genes,0.9999999999999104
+I20,0.9999999943222277,Angina pectoris,Circulatory,All PCD Genes,0.9999999999999104
+K11_IMPACT,0.9999999945884723,Impaction of intestines *,Digestive,All PCD Genes,0.9999999999999104
+N70,0.9999999964406703,Salpingitis and oophoritis,Genitourinary,All PCD Genes,0.9999999999999104
+I9_AORTANEUR,0.9999999967469556,Aortic aneurysm *,Circulatory,All PCD Genes,0.9999999999999104
+N10,0.9999999992758506,Acute tubulo-interstitial nephritis,Genitourinary,All PCD Genes,0.9999999999999104
+E4_DM2,0.9999999993498284,Type 2 diabetes *,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+E11,0.9999999994437302,Non-insulin-dependent diabetes mellitus,Endocrine/metabolic,All PCD Genes,0.9999999999999104
+I9_IHD,0.9999999998183504,"Ischaemic heart disease, wide definition *",Circulatory,All PCD Genes,0.9999999999999104
+I9_PAD,0.9999999999358872,Peripheral artery disease *,Circulatory,All PCD Genes,0.9999999999999104
+N18,0.9999999999619927,Chronic renal failure,Genitourinary,All PCD Genes,0.9999999999999104
+I9_CORATHER,0.9999999999868348,Coronary atherosclerosis *,Circulatory,All PCD Genes,0.9999999999999104
+30050_irnt,0.9999999999953795,Mean corpuscular haemoglobin,Blood assays,All PCD Genes,0.9999999999999104
+I71,0.9999999999989914,Aortic aneurysm and dissection,Circulatory,All PCD Genes,0.9999999999999104
+I48,0.9999999999993292,Atrial fibrillation and flutter,Circulatory,All PCD Genes,0.9999999999999104
+I25,0.9999999999994481,Chronic ischaemic heart disease,Circulatory,All PCD Genes,0.9999999999999104
+30530_irnt,0.9999999999999104,Sodium in urine,Urine assays,All PCD Genes,0.9999999999999104

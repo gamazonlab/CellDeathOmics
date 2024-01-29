@@ -1,0 +1,1226 @@
+Tissue1,Tissue2,value,Comparison
+esophagus mucosa,esophagus mucosa,1,esophagus mucosa-esophagus mucosa
+esophagus mucosa,pancreas,0.6092384828176953,esophagus mucosa-pancreas
+esophagus mucosa,vagina,0.977277873512696,esophagus mucosa-vagina
+esophagus mucosa,esophagus muscularis,0.808042660357948,esophagus mucosa-esophagus muscularis
+esophagus mucosa,whole blood,0.7682050875002914,esophagus mucosa-whole blood
+esophagus mucosa,prostate,0.7851302647300997,esophagus mucosa-prostate
+esophagus mucosa,stomach,0.8650253002306229,esophagus mucosa-stomach
+esophagus mucosa,skin not sun exposed suprapubic,0.9750088895890082,esophagus mucosa-skin not sun exposed suprapubic
+esophagus mucosa,pituitary,0.8009904118180972,esophagus mucosa-pituitary
+esophagus mucosa,heart atrial appendage,0.7442024259042229,esophagus mucosa-heart atrial appendage
+esophagus mucosa,heart left ventricle,0.693843964943615,esophagus mucosa-heart left ventricle
+esophagus mucosa,lung,0.87537260938586825,esophagus mucosa-lung
+esophagus mucosa,skin sun exposed lower leg,0.9713921181329909,esophagus mucosa-skin sun exposed lower leg
+esophagus mucosa,muscle skeletal,0.706197167132806,esophagus mucosa-muscle skeletal
+esophagus mucosa,testis,0.6576913379127003,esophagus mucosa-testis
+esophagus mucosa,small intestine terminal ileum,0.8362067910032185,esophagus mucosa-small intestine terminal ileum
+esophagus mucosa,nerve tibial,0.8725142670195447,esophagus mucosa-nerve tibial
+esophagus mucosa,ovary,0.6482756761850376,esophagus mucosa-ovary
+esophagus mucosa,minor salivary gland,0.8800929921312596,esophagus mucosa-minor salivary gland
+esophagus mucosa,thyroid,0.799810813892748,esophagus mucosa-thyroid
+esophagus mucosa,liver,0.72709541975744,esophagus mucosa-liver
+esophagus mucosa,kidney cortex,0.7812472066934806,esophagus mucosa-kidney cortex
+esophagus mucosa,spleen,0.7542795406801135,esophagus mucosa-spleen
+esophagus mucosa,uterus,0.7848611253856828,esophagus mucosa-uterus
+pancreas,pancreas,1,pancreas-pancreas
+pancreas,vagina,0.6623693038790569,pancreas-vagina
+pancreas,whole blood,0.5056246597171923,pancreas-whole blood
+pancreas,prostate,0.6855100372891388,pancreas-prostate
+pancreas,stomach,0.6980245745940171,pancreas-stomach
+pancreas,skin not sun exposed suprapubic,0.585888937568017,pancreas-skin not sun exposed suprapubic
+pancreas,pituitary,0.7340902489501883,pancreas-pituitary
+pancreas,skin sun exposed lower leg,0.5682428707929502,pancreas-skin sun exposed lower leg
+pancreas,testis,0.5286580548583493,pancreas-testis
+pancreas,small intestine terminal ileum,0.5740003594509046,pancreas-small intestine terminal ileum
+pancreas,thyroid,0.6702789769777867,pancreas-thyroid
+pancreas,spleen,0.48885232152859065,pancreas-spleen
+pancreas,uterus,0.6467294218046055,pancreas-uterus
+vagina,vagina,1,vagina-vagina
+vagina,whole blood,0.7600984031128805,vagina-whole blood
+esophagus muscularis,pancreas,0.6672760975023491,esophagus muscularis-pancreas
+esophagus muscularis,vagina,0.8589790222870026,esophagus muscularis-vagina
+esophagus muscularis,esophagus muscularis,1,esophagus muscularis-esophagus muscularis
+esophagus muscularis,whole blood,0.6689212986567654,esophagus muscularis-whole blood
+esophagus muscularis,prostate,0.9328006217101409,esophagus muscularis-prostate
+esophagus muscularis,stomach,0.9463733601878018,esophagus muscularis-stomach
+esophagus muscularis,skin not sun exposed suprapubic,0.759735654848316,esophagus muscularis-skin not sun exposed suprapubic
+esophagus muscularis,pituitary,0.9412773947618638,esophagus muscularis-pituitary
+esophagus muscularis,heart atrial appendage,0.911388238676281,esophagus muscularis-heart atrial appendage
+esophagus muscularis,heart left ventricle,0.8624520743547945,esophagus muscularis-heart left ventricle
+esophagus muscularis,lung,0.8810595760365418,esophagus muscularis-lung
+esophagus muscularis,skin sun exposed lower leg,0.7575465698757878,esophagus muscularis-skin sun exposed lower leg
+esophagus muscularis,muscle skeletal,0.7969766144999031,esophagus muscularis-muscle skeletal
+esophagus muscularis,testis,0.8073454027924833,esophagus muscularis-testis
+esophagus muscularis,small intestine terminal ileum,0.7856347954474808,esophagus muscularis-small intestine terminal ileum
+esophagus muscularis,nerve tibial,0.9447333625660549,esophagus muscularis-nerve tibial
+esophagus muscularis,ovary,0.7810071894256484,esophagus muscularis-ovary
+esophagus muscularis,minor salivary gland,0.9171714908445378,esophagus muscularis-minor salivary gland
+esophagus muscularis,thyroid,0.9371761632124841,esophagus muscularis-thyroid
+esophagus muscularis,liver,0.797211432089249,esophagus muscularis-liver
+esophagus muscularis,kidney cortex,0.8299632345378074,esophagus muscularis-kidney cortex
+esophagus muscularis,spleen,0.6627401995712364,esophagus muscularis-spleen
+esophagus muscularis,uterus,0.9542696703758997,esophagus muscularis-uterus
+whole blood,whole blood,1,whole blood-whole blood
+brain hypothalamus,esophagus mucosa,0.5392617850483251,brain hypothalamus-esophagus mucosa
+brain hypothalamus,pancreas,0.5902043823485632,brain hypothalamus-pancreas
+brain hypothalamus,vagina,0.5981781962826301,brain hypothalamus-vagina
+brain hypothalamus,esophagus muscularis,0.7951595065312473,brain hypothalamus-esophagus muscularis
+brain hypothalamus,whole blood,0.31844363421313776,brain hypothalamus-whole blood
+brain hypothalamus,brain hypothalamus,1,brain hypothalamus-brain hypothalamus
+brain hypothalamus,brain nucleus accumbens basal ganglia,0.9710401178989663,brain hypothalamus-brain nucleus accumbens basal ganglia
+brain hypothalamus,brain putamen basal ganglia,0.9931585907020868,brain hypothalamus-brain putamen basal ganglia
+brain hypothalamus,prostate,0.8095889926998607,brain hypothalamus-prostate
+brain hypothalamus,brain spinal cord cervical c-1,0.8762344186415096,brain hypothalamus-brain spinal cord cervical c-1
+brain hypothalamus,stomach,0.6855899633599261,brain hypothalamus-stomach
+brain hypothalamus,skin not sun exposed suprapubic,0.4862379259216383,brain hypothalamus-skin not sun exposed suprapubic
+brain hypothalamus,pituitary,0.7779401099830643,brain hypothalamus-pituitary
+brain hypothalamus,heart atrial appendage,0.720298371460507,brain hypothalamus-heart atrial appendage
+brain hypothalamus,breast mammary tissue,0.692920427515359,brain hypothalamus-breast mammary tissue
+brain hypothalamus,esophagus gastroesophageal junction,0.7719242346124114,brain hypothalamus-esophagus gastroesophageal junction
+brain hypothalamus,heart left ventricle,0.7082664229093508,brain hypothalamus-heart left ventricle
+brain hypothalamus,cells cultured fibroblasts,0.6053493783571987,brain hypothalamus-cells cultured fibroblasts
+brain hypothalamus,lung,0.5192445026793193,brain hypothalamus-lung
+brain hypothalamus,skin sun exposed lower leg,0.5208650048732519,brain hypothalamus-skin sun exposed lower leg
+brain hypothalamus,muscle skeletal,0.587273000650513,brain hypothalamus-muscle skeletal
+brain hypothalamus,brain substantia nigra,0.9933541044489592,brain hypothalamus-brain substantia nigra
+brain hypothalamus,testis,0.8114304477075589,brain hypothalamus-testis
+brain hypothalamus,small intestine terminal ileum,0.3977212085876595,brain hypothalamus-small intestine terminal ileum
+brain hypothalamus,nerve tibial,0.7177627998157239,brain hypothalamus-nerve tibial
+brain hypothalamus,colon transverse,0.5831719053257894,brain hypothalamus-colon transverse
+brain hypothalamus,ovary,0.6490213898571503,brain hypothalamus-ovary
+brain hypothalamus,minor salivary gland,0.6218252387289719,brain hypothalamus-minor salivary gland
+brain hypothalamus,thyroid,0.6617658357452008,brain hypothalamus-thyroid
+brain hypothalamus,liver,0.6403937429309136,brain hypothalamus-liver
+brain hypothalamus,cells ebv-transformed lymphocytes,0.21840932167263152,brain hypothalamus-cells ebv-transformed lymphocytes
+brain hypothalamus,kidney cortex,0.7353282309640778,brain hypothalamus-kidney cortex
+brain hypothalamus,colon sigmoid,0.8243812571517106,brain hypothalamus-colon sigmoid
+brain hypothalamus,spleen,0.26097672449227227,brain hypothalamus-spleen
+brain hypothalamus,uterus,0.7284880069357444,brain hypothalamus-uterus
+brain nucleus accumbens basal ganglia,esophagus mucosa,0.5227962124002545,brain nucleus accumbens basal ganglia-esophagus mucosa
+brain nucleus accumbens basal ganglia,pancreas,0.5756325650091333,brain nucleus accumbens basal ganglia-pancreas
+brain nucleus accumbens basal ganglia,vagina,0.5879831817418639,brain nucleus accumbens basal ganglia-vagina
+brain nucleus accumbens basal ganglia,esophagus muscularis,0.7814989358834731,brain nucleus accumbens basal ganglia-esophagus muscularis
+brain nucleus accumbens basal ganglia,whole blood,0.33414445805823295,brain nucleus accumbens basal ganglia-whole blood
+brain nucleus accumbens basal ganglia,brain nucleus accumbens basal ganglia,1,brain nucleus accumbens basal ganglia-brain nucleus accumbens basal ganglia
+brain nucleus accumbens basal ganglia,brain putamen basal ganglia,0.9807081669667458,brain nucleus accumbens basal ganglia-brain putamen basal ganglia
+brain nucleus accumbens basal ganglia,prostate,0.8037387608874622,brain nucleus accumbens basal ganglia-prostate
+brain nucleus accumbens basal ganglia,brain spinal cord cervical c-1,0.764848738446716,brain nucleus accumbens basal ganglia-brain spinal cord cervical c-1
+brain nucleus accumbens basal ganglia,stomach,0.6966267390268288,brain nucleus accumbens basal ganglia-stomach
+brain nucleus accumbens basal ganglia,skin not sun exposed suprapubic,0.47292849380615626,brain nucleus accumbens basal ganglia-skin not sun exposed suprapubic
+brain nucleus accumbens basal ganglia,pituitary,0.8028844181350242,brain nucleus accumbens basal ganglia-pituitary
+brain nucleus accumbens basal ganglia,heart atrial appendage,0.7464769293229047,brain nucleus accumbens basal ganglia-heart atrial appendage
+brain nucleus accumbens basal ganglia,breast mammary tissue,0.6903656040476411,brain nucleus accumbens basal ganglia-breast mammary tissue
+brain nucleus accumbens basal ganglia,esophagus gastroesophageal junction,0.7578791319319905,brain nucleus accumbens basal ganglia-esophagus gastroesophageal junction
+brain nucleus accumbens basal ganglia,heart left ventricle,0.7177919925734471,brain nucleus accumbens basal ganglia-heart left ventricle
+brain nucleus accumbens basal ganglia,cells cultured fibroblasts,0.6234618467302354,brain nucleus accumbens basal ganglia-cells cultured fibroblasts
+brain nucleus accumbens basal ganglia,lung,0.5223882734606277,brain nucleus accumbens basal ganglia-lung
+brain nucleus accumbens basal ganglia,skin sun exposed lower leg,0.5109317738294381,brain nucleus accumbens basal ganglia-skin sun exposed lower leg
+brain nucleus accumbens basal ganglia,muscle skeletal,0.5976006453158607,brain nucleus accumbens basal ganglia-muscle skeletal
+brain nucleus accumbens basal ganglia,brain substantia nigra,0.9522951987427268,brain nucleus accumbens basal ganglia-brain substantia nigra
+brain nucleus accumbens basal ganglia,testis,0.8580836736438148,brain nucleus accumbens basal ganglia-testis
+brain nucleus accumbens basal ganglia,small intestine terminal ileum,0.4119599385829392,brain nucleus accumbens basal ganglia-small intestine terminal ileum
+brain nucleus accumbens basal ganglia,nerve tibial,0.7237616535872675,brain nucleus accumbens basal ganglia-nerve tibial
+brain nucleus accumbens basal ganglia,colon transverse,0.5882621840042231,brain nucleus accumbens basal ganglia-colon transverse
+brain nucleus accumbens basal ganglia,ovary,0.6606443361855463,brain nucleus accumbens basal ganglia-ovary
+brain nucleus accumbens basal ganglia,minor salivary gland,0.6364305783584272,brain nucleus accumbens basal ganglia-minor salivary gland
+brain nucleus accumbens basal ganglia,thyroid,0.6875684591800502,brain nucleus accumbens basal ganglia-thyroid
+brain nucleus accumbens basal ganglia,liver,0.5975316202364619,brain nucleus accumbens basal ganglia-liver
+brain nucleus accumbens basal ganglia,cells ebv-transformed lymphocytes,0.24969862617833716,brain nucleus accumbens basal ganglia-cells ebv-transformed lymphocytes
+brain nucleus accumbens basal ganglia,kidney cortex,0.7645225983349397,brain nucleus accumbens basal ganglia-kidney cortex
+brain nucleus accumbens basal ganglia,colon sigmoid,0.7822708160902802,brain nucleus accumbens basal ganglia-colon sigmoid
+brain nucleus accumbens basal ganglia,spleen,0.2731904171239319,brain nucleus accumbens basal ganglia-spleen
+brain nucleus accumbens basal ganglia,uterus,0.7081791944677842,brain nucleus accumbens basal ganglia-uterus
+brain putamen basal ganglia,esophagus mucosa,0.5184056034734588,brain putamen basal ganglia-esophagus mucosa
+brain putamen basal ganglia,pancreas,0.5587993891927586,brain putamen basal ganglia-pancreas
+brain putamen basal ganglia,vagina,0.5791649969964585,brain putamen basal ganglia-vagina
+brain putamen basal ganglia,esophagus muscularis,0.7852791041153051,brain putamen basal ganglia-esophagus muscularis
+brain putamen basal ganglia,whole blood,0.30256578473482987,brain putamen basal ganglia-whole blood
+brain putamen basal ganglia,brain putamen basal ganglia,1,brain putamen basal ganglia-brain putamen basal ganglia
+brain putamen basal ganglia,prostate,0.807044912594038,brain putamen basal ganglia-prostate
+brain putamen basal ganglia,brain spinal cord cervical c-1,0.8659864504442544,brain putamen basal ganglia-brain spinal cord cervical c-1
+brain putamen basal ganglia,stomach,0.6815103251393886,brain putamen basal ganglia-stomach
+brain putamen basal ganglia,skin not sun exposed suprapubic,0.46392862775069504,brain putamen basal ganglia-skin not sun exposed suprapubic
+brain putamen basal ganglia,pituitary,0.7657439064374432,brain putamen basal ganglia-pituitary
+brain putamen basal ganglia,heart atrial appendage,0.7198442682218025,brain putamen basal ganglia-heart atrial appendage
+brain putamen basal ganglia,breast mammary tissue,0.681396436619061,brain putamen basal ganglia-breast mammary tissue
+brain putamen basal ganglia,esophagus gastroesophageal junction,0.7639445680223811,brain putamen basal ganglia-esophagus gastroesophageal junction
+brain putamen basal ganglia,heart left ventricle,0.6927620522419271,brain putamen basal ganglia-heart left ventricle
+brain putamen basal ganglia,cells cultured fibroblasts,0.5910696573741336,brain putamen basal ganglia-cells cultured fibroblasts
+brain putamen basal ganglia,lung,0.5041656124284394,brain putamen basal ganglia-lung
+brain putamen basal ganglia,skin sun exposed lower leg,0.49764319853826994,brain putamen basal ganglia-skin sun exposed lower leg
+brain putamen basal ganglia,muscle skeletal,0.5646052765279032,brain putamen basal ganglia-muscle skeletal
+brain putamen basal ganglia,brain substantia nigra,0.9894103506615975,brain putamen basal ganglia-brain substantia nigra
+brain putamen basal ganglia,testis,0.8111270626487114,brain putamen basal ganglia-testis
+brain putamen basal ganglia,small intestine terminal ileum,0.38874645555024995,brain putamen basal ganglia-small intestine terminal ileum
+brain putamen basal ganglia,nerve tibial,0.7016027708555388,brain putamen basal ganglia-nerve tibial
+brain putamen basal ganglia,colon transverse,0.5800923010070727,brain putamen basal ganglia-colon transverse
+brain putamen basal ganglia,ovary,0.6438242390158072,brain putamen basal ganglia-ovary
+brain putamen basal ganglia,minor salivary gland,0.607371290844603,brain putamen basal ganglia-minor salivary gland
+brain putamen basal ganglia,thyroid,0.660283837859757,brain putamen basal ganglia-thyroid
+brain putamen basal ganglia,liver,0.6346799640646261,brain putamen basal ganglia-liver
+brain putamen basal ganglia,cells ebv-transformed lymphocytes,0.21555671148144737,brain putamen basal ganglia-cells ebv-transformed lymphocytes
+brain putamen basal ganglia,kidney cortex,0.726952886077752,brain putamen basal ganglia-kidney cortex
+brain putamen basal ganglia,colon sigmoid,0.8163527247836339,brain putamen basal ganglia-colon sigmoid
+brain putamen basal ganglia,spleen,0.25458104666435355,brain putamen basal ganglia-spleen
+brain putamen basal ganglia,uterus,0.7233589809984935,brain putamen basal ganglia-uterus
+prostate,vagina,0.8486043749809394,prostate-vagina
+prostate,whole blood,0.6623765388622264,prostate-whole blood
+prostate,prostate,1,prostate-prostate
+prostate,stomach,0.9387293907903955,prostate-stomach
+prostate,skin not sun exposed suprapubic,0.7273527092393551,prostate-skin not sun exposed suprapubic
+prostate,skin sun exposed lower leg,0.739521164326965,prostate-skin sun exposed lower leg
+prostate,testis,0.8508342949110731,prostate-testis
+prostate,small intestine terminal ileum,0.7910575574504596,prostate-small intestine terminal ileum
+prostate,thyroid,0.9363061090028545,prostate-thyroid
+prostate,spleen,0.7017375000904864,prostate-spleen
+prostate,uterus,0.9398366105582674,prostate-uterus
+brain hippocampus,esophagus mucosa,0.4728098795318719,brain hippocampus-esophagus mucosa
+brain hippocampus,pancreas,0.54343953086869,brain hippocampus-pancreas
+brain hippocampus,vagina,0.5406607286088639,brain hippocampus-vagina
+brain hippocampus,esophagus muscularis,0.7379177129663285,brain hippocampus-esophagus muscularis
+brain hippocampus,whole blood,0.25147549830951577,brain hippocampus-whole blood
+brain hippocampus,brain hypothalamus,0.9867899105595267,brain hippocampus-brain hypothalamus
+brain hippocampus,brain nucleus accumbens basal ganglia,0.9744688842815028,brain hippocampus-brain nucleus accumbens basal ganglia
+brain hippocampus,brain putamen basal ganglia,0.99391797345772,brain hippocampus-brain putamen basal ganglia
+brain hippocampus,prostate,0.7692130798050025,brain hippocampus-prostate
+brain hippocampus,brain hippocampus,1,brain hippocampus-brain hippocampus
+brain hippocampus,brain spinal cord cervical c-1,0.86651261081544,brain hippocampus-brain spinal cord cervical c-1
+brain hippocampus,stomach,0.627012444821906,brain hippocampus-stomach
+brain hippocampus,skin not sun exposed suprapubic,0.429021362667812,brain hippocampus-skin not sun exposed suprapubic
+brain hippocampus,pituitary,0.7209098646260668,brain hippocampus-pituitary
+brain hippocampus,heart atrial appendage,0.6979123724960126,brain hippocampus-heart atrial appendage
+brain hippocampus,breast mammary tissue,0.6409008446820963,brain hippocampus-breast mammary tissue
+brain hippocampus,esophagus gastroesophageal junction,0.7176153970620395,brain hippocampus-esophagus gastroesophageal junction
+brain hippocampus,heart left ventricle,0.6613404021273669,brain hippocampus-heart left ventricle
+brain hippocampus,cells cultured fibroblasts,0.5566667959750422,brain hippocampus-cells cultured fibroblasts
+brain hippocampus,lung,0.44818861992326525,brain hippocampus-lung
+brain hippocampus,skin sun exposed lower leg,0.4655561359768675,brain hippocampus-skin sun exposed lower leg
+brain hippocampus,muscle skeletal,0.5350756281710908,brain hippocampus-muscle skeletal
+brain hippocampus,brain substantia nigra,0.981722370467327,brain hippocampus-brain substantia nigra
+brain hippocampus,testis,0.7894787751525987,brain hippocampus-testis
+brain hippocampus,small intestine terminal ileum,0.3298440867102174,brain hippocampus-small intestine terminal ileum
+brain hippocampus,nerve tibial,0.6587600178790639,brain hippocampus-nerve tibial
+brain hippocampus,colon transverse,0.5239414507834759,brain hippocampus-colon transverse
+brain hippocampus,ovary,0.6384351537269483,brain hippocampus-ovary
+brain hippocampus,minor salivary gland,0.5555148373648565,brain hippocampus-minor salivary gland
+brain hippocampus,thyroid,0.6103753209970575,brain hippocampus-thyroid
+brain hippocampus,liver,0.5943085590804448,brain hippocampus-liver
+brain hippocampus,cells ebv-transformed lymphocytes,0.1885964232522141,brain hippocampus-cells ebv-transformed lymphocytes
+brain hippocampus,kidney cortex,0.6932104443342366,brain hippocampus-kidney cortex
+brain hippocampus,colon sigmoid,0.7733860285078263,brain hippocampus-colon sigmoid
+brain hippocampus,spleen,0.20070748432162266,brain hippocampus-spleen
+brain hippocampus,uterus,0.6806258338811245,brain hippocampus-uterus
+artery aorta,esophagus mucosa,0.8553431706999063,artery aorta-esophagus mucosa
+artery aorta,pancreas,0.6693387232114292,artery aorta-pancreas
+artery aorta,vagina,0.8985367916079503,artery aorta-vagina
+artery aorta,esophagus muscularis,0.9302201413742689,artery aorta-esophagus muscularis
+artery aorta,whole blood,0.8116841693540905,artery aorta-whole blood
+artery aorta,brain hypothalamus,0.6501054657604832,artery aorta-brain hypothalamus
+artery aorta,brain nucleus accumbens basal ganglia,0.6662763750282561,artery aorta-brain nucleus accumbens basal ganglia
+artery aorta,brain putamen basal ganglia,0.6342587088409898,artery aorta-brain putamen basal ganglia
+artery aorta,prostate,0.8802856181355745,artery aorta-prostate
+artery aorta,brain hippocampus,0.585359091250589,artery aorta-brain hippocampus
+artery aorta,artery aorta,1,artery aorta-artery aorta
+artery aorta,brain amygdala,0.6316531657428356,artery aorta-brain amygdala
+artery aorta,brain spinal cord cervical c-1,0.4749031785556738,artery aorta-brain spinal cord cervical c-1
+artery aorta,stomach,0.9596108592757501,artery aorta-stomach
+artery aorta,skin not sun exposed suprapubic,0.8143020758460906,artery aorta-skin not sun exposed suprapubic
+artery aorta,artery coronary,0.9957627061040147,artery aorta-artery coronary
+artery aorta,brain anterior cingulate cortex ba24,0.5822753371528276,artery aorta-brain anterior cingulate cortex ba24
+artery aorta,pituitary,0.9439046709042791,artery aorta-pituitary
+artery aorta,brain cerebellum,0.6355330043715158,artery aorta-brain cerebellum
+artery aorta,artery tibial,0.9627276243620844,artery aorta-artery tibial
+artery aorta,heart atrial appendage,0.9076853867583664,artery aorta-heart atrial appendage
+artery aorta,breast mammary tissue,0.9697049861771241,artery aorta-breast mammary tissue
+artery aorta,brain cortex,0.5731478535439946,artery aorta-brain cortex
+artery aorta,esophagus gastroesophageal junction,0.937214092956364,artery aorta-esophagus gastroesophageal junction
+artery aorta,heart left ventricle,0.8632448072262562,artery aorta-heart left ventricle
+artery aorta,cells cultured fibroblasts,0.8901155591682798,artery aorta-cells cultured fibroblasts
+artery aorta,lung,0.959392771452654,artery aorta-lung
+artery aorta,skin sun exposed lower leg,0.8067201689597976,artery aorta-skin sun exposed lower leg
+artery aorta,muscle skeletal,0.8312986151769607,artery aorta-muscle skeletal
+artery aorta,brain substantia nigra,0.6363820643237207,artery aorta-brain substantia nigra
+artery aorta,testis,0.8311269990833716,artery aorta-testis
+artery aorta,small intestine terminal ileum,0.8511231987973474,artery aorta-small intestine terminal ileum
+artery aorta,nerve tibial,0.9819404601103034,artery aorta-nerve tibial
+artery aorta,brain frontal cortex ba9,0.5179940478096972,artery aorta-brain frontal cortex ba9
+artery aorta,colon transverse,0.9012674934153699,artery aorta-colon transverse
+artery aorta,ovary,0.8017611510938293,artery aorta-ovary
+artery aorta,minor salivary gland,0.9766228926946854,artery aorta-minor salivary gland
+artery aorta,brain cerebellar hemisphere,0.6187930759938679,artery aorta-brain cerebellar hemisphere
+artery aorta,thyroid,0.9484563256124051,artery aorta-thyroid
+artery aorta,liver,0.7880393365375683,artery aorta-liver
+artery aorta,cells ebv-transformed lymphocytes,0.5113452756872119,artery aorta-cells ebv-transformed lymphocytes
+artery aorta,kidney cortex,0.8599151565279503,artery aorta-kidney cortex
+artery aorta,colon sigmoid,0.8535426280497992,artery aorta-colon sigmoid
+artery aorta,brain caudate basal ganglia,0.6878758224786056,artery aorta-brain caudate basal ganglia
+artery aorta,spleen,0.742656818643937,artery aorta-spleen
+artery aorta,uterus,0.9127240670623574,artery aorta-uterus
+brain amygdala,esophagus mucosa,0.5041240091960861,brain amygdala-esophagus mucosa
+brain amygdala,pancreas,0.5825431152124704,brain amygdala-pancreas
+brain amygdala,vagina,0.5734205235022408,brain amygdala-vagina
+brain amygdala,esophagus muscularis,0.7744653059595498,brain amygdala-esophagus muscularis
+brain amygdala,whole blood,0.2914792859317087,brain amygdala-whole blood
+brain amygdala,brain hypothalamus,0.987094339321456,brain amygdala-brain hypothalamus
+brain amygdala,brain nucleus accumbens basal ganglia,0.9865806711558548,brain amygdala-brain nucleus accumbens basal ganglia
+brain amygdala,brain putamen basal ganglia,0.9914397987950682,brain amygdala-brain putamen basal ganglia
+brain amygdala,prostate,0.7859064837225698,brain amygdala-prostate
+brain amygdala,brain hippocampus,0.9921016442744224,brain amygdala-brain hippocampus
+brain amygdala,brain amygdala,1,brain amygdala-brain amygdala
+brain amygdala,brain spinal cord cervical c-1,0.8198103762771061,brain amygdala-brain spinal cord cervical c-1
+brain amygdala,stomach,0.6633447678400654,brain amygdala-stomach
+brain amygdala,skin not sun exposed suprapubic,0.46353159622778406,brain amygdala-skin not sun exposed suprapubic
+brain amygdala,brain anterior cingulate cortex ba24,0.978231016887398,brain amygdala-brain anterior cingulate cortex ba24
+brain amygdala,pituitary,0.7663785891728381,brain amygdala-pituitary
+brain amygdala,brain cerebellum,0.9040555183821345,brain amygdala-brain cerebellum
+brain amygdala,heart atrial appendage,0.7369291001071929,brain amygdala-heart atrial appendage
+brain amygdala,breast mammary tissue,0.6679920524819424,brain amygdala-breast mammary tissue
+brain amygdala,brain cortex,0.9699366825422671,brain amygdala-brain cortex
+brain amygdala,esophagus gastroesophageal junction,0.7526781094973758,brain amygdala-esophagus gastroesophageal junction
+brain amygdala,heart left ventricle,0.705168666708164,brain amygdala-heart left ventricle
+brain amygdala,cells cultured fibroblasts,0.5914527124237734,brain amygdala-cells cultured fibroblasts
+brain amygdala,lung,0.4904978534184582,brain amygdala-lung
+brain amygdala,skin sun exposed lower leg,0.4985843966107752,brain amygdala-skin sun exposed lower leg
+brain amygdala,muscle skeletal,0.5819742056375676,brain amygdala-muscle skeletal
+brain amygdala,brain substantia nigra,0.9796721325442176,brain amygdala-brain substantia nigra
+brain amygdala,testis,0.8050884738013049,brain amygdala-testis
+brain amygdala,small intestine terminal ileum,0.3780369860345235,brain amygdala-small intestine terminal ileum
+brain amygdala,nerve tibial,0.697629836936418,brain amygdala-nerve tibial
+brain amygdala,brain frontal cortex ba9,0.9630177517225923,brain amygdala-brain frontal cortex ba9
+brain amygdala,colon transverse,0.5688943294375113,brain amygdala-colon transverse
+brain amygdala,ovary,0.6649246443245613,brain amygdala-ovary
+brain amygdala,minor salivary gland,0.6008483750945026,brain amygdala-minor salivary gland
+brain amygdala,brain cerebellar hemisphere,0.915458450498729,brain amygdala-brain cerebellar hemisphere
+brain amygdala,thyroid,0.6498096300089004,brain amygdala-thyroid
+brain amygdala,liver,0.5876441365583795,brain amygdala-liver
+brain amygdala,cells ebv-transformed lymphocytes,0.22068581986701982,brain amygdala-cells ebv-transformed lymphocytes
+brain amygdala,kidney cortex,0.713249232411418,brain amygdala-kidney cortex
+brain amygdala,colon sigmoid,0.7999067239154345,brain amygdala-colon sigmoid
+brain amygdala,brain caudate basal ganglia,0.9906261063073132,brain amygdala-brain caudate basal ganglia
+brain amygdala,spleen,0.2434047572466153,brain amygdala-spleen
+brain amygdala,uterus,0.704099922291783,brain amygdala-uterus
+brain spinal cord cervical c-1,esophagus mucosa,0.4538936302432285,brain spinal cord cervical c-1-esophagus mucosa
+brain spinal cord cervical c-1,pancreas,0.39730217334087353,brain spinal cord cervical c-1-pancreas
+brain spinal cord cervical c-1,vagina,0.5002685907412745,brain spinal cord cervical c-1-vagina
+brain spinal cord cervical c-1,esophagus muscularis,0.6497574481232099,brain spinal cord cervical c-1-esophagus muscularis
+brain spinal cord cervical c-1,whole blood,0.2017085403117861,brain spinal cord cervical c-1-whole blood
+brain spinal cord cervical c-1,prostate,0.6879014608677849,brain spinal cord cervical c-1-prostate
+brain spinal cord cervical c-1,brain spinal cord cervical c-1,1,brain spinal cord cervical c-1-brain spinal cord cervical c-1
+brain spinal cord cervical c-1,stomach,0.5310723914427619,brain spinal cord cervical c-1-stomach
+brain spinal cord cervical c-1,skin not sun exposed suprapubic,0.40448626602374516,brain spinal cord cervical c-1-skin not sun exposed suprapubic
+brain spinal cord cervical c-1,pituitary,0.5485370278149682,brain spinal cord cervical c-1-pituitary
+brain spinal cord cervical c-1,heart atrial appendage,0.5374643704076915,brain spinal cord cervical c-1-heart atrial appendage
+brain spinal cord cervical c-1,breast mammary tissue,0.5785950327559662,brain spinal cord cervical c-1-breast mammary tissue
+brain spinal cord cervical c-1,esophagus gastroesophageal junction,0.6417311124416722,brain spinal cord cervical c-1-esophagus gastroesophageal junction
+brain spinal cord cervical c-1,heart left ventricle,0.4949999512822702,brain spinal cord cervical c-1-heart left ventricle
+brain spinal cord cervical c-1,cells cultured fibroblasts,0.4554035959541931,brain spinal cord cervical c-1-cells cultured fibroblasts
+brain spinal cord cervical c-1,lung,0.39330245160264793,brain spinal cord cervical c-1-lung
+brain spinal cord cervical c-1,skin sun exposed lower leg,0.4281111449573047,brain spinal cord cervical c-1-skin sun exposed lower leg
+brain spinal cord cervical c-1,muscle skeletal,0.38616692437320393,brain spinal cord cervical c-1-muscle skeletal
+brain spinal cord cervical c-1,brain substantia nigra,0.8999996916848974,brain spinal cord cervical c-1-brain substantia nigra
+brain spinal cord cervical c-1,testis,0.623586152833087,brain spinal cord cervical c-1-testis
+brain spinal cord cervical c-1,small intestine terminal ileum,0.2756092127132055,brain spinal cord cervical c-1-small intestine terminal ileum
+brain spinal cord cervical c-1,nerve tibial,0.5576176461134086,brain spinal cord cervical c-1-nerve tibial
+brain spinal cord cervical c-1,colon transverse,0.4535140231478698,brain spinal cord cervical c-1-colon transverse
+brain spinal cord cervical c-1,ovary,0.533733110509611,brain spinal cord cervical c-1-ovary
+brain spinal cord cervical c-1,minor salivary gland,0.4471181691965724,brain spinal cord cervical c-1-minor salivary gland
+brain spinal cord cervical c-1,thyroid,0.4921890984838137,brain spinal cord cervical c-1-thyroid
+brain spinal cord cervical c-1,liver,0.6331089417896757,brain spinal cord cervical c-1-liver
+brain spinal cord cervical c-1,cells ebv-transformed lymphocytes,0.13179113325127212,brain spinal cord cervical c-1-cells ebv-transformed lymphocytes
+brain spinal cord cervical c-1,kidney cortex,0.5531206711260311,brain spinal cord cervical c-1-kidney cortex
+brain spinal cord cervical c-1,colon sigmoid,0.7340442018246788,brain spinal cord cervical c-1-colon sigmoid
+brain spinal cord cervical c-1,spleen,0.16641006984687676,brain spinal cord cervical c-1-spleen
+brain spinal cord cervical c-1,uterus,0.6585829432688798,brain spinal cord cervical c-1-uterus
+stomach,vagina,0.8952812543404153,stomach-vagina
+stomach,whole blood,0.7684010353277136,stomach-whole blood
+stomach,stomach,1,stomach-stomach
+stomach,testis,0.8115058823412102,stomach-testis
+stomach,thyroid,0.9629143023756442,stomach-thyroid
+stomach,uterus,0.932554667165909,stomach-uterus
+skin not sun exposed suprapubic,vagina,0.9606323879592527,skin not sun exposed suprapubic-vagina
+skin not sun exposed suprapubic,whole blood,0.76613916825938,skin not sun exposed suprapubic-whole blood
+skin not sun exposed suprapubic,stomach,0.8022499911194322,skin not sun exposed suprapubic-stomach
+skin not sun exposed suprapubic,skin not sun exposed suprapubic,1,skin not sun exposed suprapubic-skin not sun exposed suprapubic
+skin not sun exposed suprapubic,skin sun exposed lower leg,0.9943644821797067,skin not sun exposed suprapubic-skin sun exposed lower leg
+skin not sun exposed suprapubic,testis,0.5998112565014834,skin not sun exposed suprapubic-testis
+skin not sun exposed suprapubic,small intestine terminal ileum,0.8142932374408322,skin not sun exposed suprapubic-small intestine terminal ileum
+skin not sun exposed suprapubic,thyroid,0.7468348443111865,skin not sun exposed suprapubic-thyroid
+skin not sun exposed suprapubic,spleen,0.7390205088104492,skin not sun exposed suprapubic-spleen
+skin not sun exposed suprapubic,uterus,0.7459312314464637,skin not sun exposed suprapubic-uterus
+artery coronary,esophagus mucosa,0.8502352779705561,artery coronary-esophagus mucosa
+artery coronary,pancreas,0.6657676732234563,artery coronary-pancreas
+artery coronary,vagina,0.9017825051602897,artery coronary-vagina
+artery coronary,esophagus muscularis,0.9432503817258068,artery coronary-esophagus muscularis
+artery coronary,whole blood,0.7989654952459665,artery coronary-whole blood
+artery coronary,brain hypothalamus,0.6788501631457529,artery coronary-brain hypothalamus
+artery coronary,brain nucleus accumbens basal ganglia,0.6927250510968916,artery coronary-brain nucleus accumbens basal ganglia
+artery coronary,brain putamen basal ganglia,0.664950193274362,artery coronary-brain putamen basal ganglia
+artery coronary,prostate,0.898123561089161,artery coronary-prostate
+artery coronary,brain hippocampus,0.6195396224894406,artery coronary-brain hippocampus
+artery coronary,brain amygdala,0.6645106682990793,artery coronary-brain amygdala
+artery coronary,brain spinal cord cervical c-1,0.5062402641462891,artery coronary-brain spinal cord cervical c-1
+artery coronary,stomach,0.9596157472303025,artery coronary-stomach
+artery coronary,skin not sun exposed suprapubic,0.8123304270078543,artery coronary-skin not sun exposed suprapubic
+artery coronary,artery coronary,1,artery coronary-artery coronary
+artery coronary,brain anterior cingulate cortex ba24,0.6112149949600757,artery coronary-brain anterior cingulate cortex ba24
+artery coronary,pituitary,0.9466504791749409,artery coronary-pituitary
+artery coronary,brain cerebellum,0.6533361981103177,artery coronary-brain cerebellum
+artery coronary,artery tibial,0.977064305663957,artery coronary-artery tibial
+artery coronary,heart atrial appendage,0.9299926166873567,artery coronary-heart atrial appendage
+artery coronary,breast mammary tissue,0.977631133009812,artery coronary-breast mammary tissue
+artery coronary,brain cortex,0.5999907906995073,artery coronary-brain cortex
+artery coronary,esophagus gastroesophageal junction,0.9495455354198283,artery coronary-esophagus gastroesophageal junction
+artery coronary,heart left ventricle,0.8791893197424498,artery coronary-heart left ventricle
+artery coronary,cells cultured fibroblasts,0.8833238756613079,artery coronary-cells cultured fibroblasts
+artery coronary,lung,0.9508681603990422,artery coronary-lung
+artery coronary,skin sun exposed lower leg,0.8079123022581396,artery coronary-skin sun exposed lower leg
+artery coronary,muscle skeletal,0.8273187583936746,artery coronary-muscle skeletal
+artery coronary,brain substantia nigra,0.6683793220475291,artery coronary-brain substantia nigra
+artery coronary,testis,0.840975882331917,artery coronary-testis
+artery coronary,small intestine terminal ileum,0.8490324573942188,artery coronary-small intestine terminal ileum
+artery coronary,nerve tibial,0.9876169264598532,artery coronary-nerve tibial
+artery coronary,brain frontal cortex ba9,0.5484634166169059,artery coronary-brain frontal cortex ba9
+artery coronary,colon transverse,0.905844382184862,artery coronary-colon transverse
+artery coronary,ovary,0.8241466415498366,artery coronary-ovary
+artery coronary,minor salivary gland,0.974986631707277,artery coronary-minor salivary gland
+artery coronary,brain cerebellar hemisphere,0.6392323517796746,artery coronary-brain cerebellar hemisphere
+artery coronary,thyroid,0.9530239470836107,artery coronary-thyroid
+artery coronary,liver,0.7867832478987368,artery coronary-liver
+artery coronary,cells ebv-transformed lymphocytes,0.4886411276424397,artery coronary-cells ebv-transformed lymphocytes
+artery coronary,kidney cortex,0.8653834296407463,artery coronary-kidney cortex
+artery coronary,colon sigmoid,0.8740048524911607,artery coronary-colon sigmoid
+artery coronary,brain caudate basal ganglia,0.7144099566859146,artery coronary-brain caudate basal ganglia
+artery coronary,spleen,0.7396207266225382,artery coronary-spleen
+artery coronary,uterus,0.9275008468282075,artery coronary-uterus
+brain anterior cingulate cortex ba24,esophagus mucosa,0.43462341356925904,brain anterior cingulate cortex ba24-esophagus mucosa
+brain anterior cingulate cortex ba24,pancreas,0.5569797075147963,brain anterior cingulate cortex ba24-pancreas
+brain anterior cingulate cortex ba24,vagina,0.5002611246726334,brain anterior cingulate cortex ba24-vagina
+brain anterior cingulate cortex ba24,esophagus muscularis,0.7152624833244768,brain anterior cingulate cortex ba24-esophagus muscularis
+brain anterior cingulate cortex ba24,whole blood,0.25028251020827164,brain anterior cingulate cortex ba24-whole blood
+brain anterior cingulate cortex ba24,brain hypothalamus,0.9502370559059472,brain anterior cingulate cortex ba24-brain hypothalamus
+brain anterior cingulate cortex ba24,brain nucleus accumbens basal ganglia,0.9835743708613812,brain anterior cingulate cortex ba24-brain nucleus accumbens basal ganglia
+brain anterior cingulate cortex ba24,brain putamen basal ganglia,0.956546392784863,brain anterior cingulate cortex ba24-brain putamen basal ganglia
+brain anterior cingulate cortex ba24,prostate,0.7254812744745028,brain anterior cingulate cortex ba24-prostate
+brain anterior cingulate cortex ba24,brain hippocampus,0.9590259656246917,brain anterior cingulate cortex ba24-brain hippocampus
+brain anterior cingulate cortex ba24,brain spinal cord cervical c-1,0.7071932703074599,brain anterior cingulate cortex ba24-brain spinal cord cervical c-1
+brain anterior cingulate cortex ba24,stomach,0.6097746486542691,brain anterior cingulate cortex ba24-stomach
+brain anterior cingulate cortex ba24,skin not sun exposed suprapubic,0.39394224251362964,brain anterior cingulate cortex ba24-skin not sun exposed suprapubic
+brain anterior cingulate cortex ba24,brain anterior cingulate cortex ba24,1,brain anterior cingulate cortex ba24-brain anterior cingulate cortex ba24
+brain anterior cingulate cortex ba24,pituitary,0.7415025787714984,brain anterior cingulate cortex ba24-pituitary
+brain anterior cingulate cortex ba24,brain cerebellum,0.9099899446715018,brain anterior cingulate cortex ba24-brain cerebellum
+brain anterior cingulate cortex ba24,heart atrial appendage,0.6792714096442398,brain anterior cingulate cortex ba24-heart atrial appendage
+brain anterior cingulate cortex ba24,breast mammary tissue,0.5965857159941645,brain anterior cingulate cortex ba24-breast mammary tissue
+brain anterior cingulate cortex ba24,brain cortex,0.996295263780495,brain anterior cingulate cortex ba24-brain cortex
+brain anterior cingulate cortex ba24,esophagus gastroesophageal junction,0.685126261054148,brain anterior cingulate cortex ba24-esophagus gastroesophageal junction
+brain anterior cingulate cortex ba24,heart left ventricle,0.6593305251430109,brain anterior cingulate cortex ba24-heart left ventricle
+brain anterior cingulate cortex ba24,cells cultured fibroblasts,0.5392691605708662,brain anterior cingulate cortex ba24-cells cultured fibroblasts
+brain anterior cingulate cortex ba24,lung,0.42648004898991904,brain anterior cingulate cortex ba24-lung
+brain anterior cingulate cortex ba24,skin sun exposed lower leg,0.43665212316234286,brain anterior cingulate cortex ba24-skin sun exposed lower leg
+brain anterior cingulate cortex ba24,muscle skeletal,0.5386954945221664,brain anterior cingulate cortex ba24-muscle skeletal
+brain anterior cingulate cortex ba24,brain substantia nigra,0.9303490884181208,brain anterior cingulate cortex ba24-brain substantia nigra
+brain anterior cingulate cortex ba24,testis,0.7909363591944438,brain anterior cingulate cortex ba24-testis
+brain anterior cingulate cortex ba24,small intestine terminal ileum,0.3223296695403865,brain anterior cingulate cortex ba24-small intestine terminal ileum
+brain anterior cingulate cortex ba24,nerve tibial,0.6404648017892921,brain anterior cingulate cortex ba24-nerve tibial
+brain anterior cingulate cortex ba24,brain frontal cortex ba9,0.9915380096661663,brain anterior cingulate cortex ba24-brain frontal cortex ba9
+brain anterior cingulate cortex ba24,colon transverse,0.5036485342809127,brain anterior cingulate cortex ba24-colon transverse
+brain anterior cingulate cortex ba24,ovary,0.6007900516651384,brain anterior cingulate cortex ba24-ovary
+brain anterior cingulate cortex ba24,minor salivary gland,0.5529936173784719,brain anterior cingulate cortex ba24-minor salivary gland
+brain anterior cingulate cortex ba24,brain cerebellar hemisphere,0.9238435916501374,brain anterior cingulate cortex ba24-brain cerebellar hemisphere
+brain anterior cingulate cortex ba24,thyroid,0.6016219581503126,brain anterior cingulate cortex ba24-thyroid
+brain anterior cingulate cortex ba24,liver,0.4896504547135524,brain anterior cingulate cortex ba24-liver
+brain anterior cingulate cortex ba24,cells ebv-transformed lymphocytes,0.19596878330043985,brain anterior cingulate cortex ba24-cells ebv-transformed lymphocytes
+brain anterior cingulate cortex ba24,kidney cortex,0.6906045937984012,brain anterior cingulate cortex ba24-kidney cortex
+brain anterior cingulate cortex ba24,colon sigmoid,0.7224738582195835,brain anterior cingulate cortex ba24-colon sigmoid
+brain anterior cingulate cortex ba24,brain caudate basal ganglia,0.9698932299125688,brain anterior cingulate cortex ba24-brain caudate basal ganglia
+brain anterior cingulate cortex ba24,spleen,0.19004843567774807,brain anterior cingulate cortex ba24-spleen
+brain anterior cingulate cortex ba24,uterus,0.6148625149479925,brain anterior cingulate cortex ba24-uterus
+pituitary,vagina,0.848243861908137,pituitary-vagina
+pituitary,whole blood,0.6850344505169775,pituitary-whole blood
+pituitary,prostate,0.9257947746752359,pituitary-prostate
+pituitary,stomach,0.9458492281056501,pituitary-stomach
+pituitary,skin not sun exposed suprapubic,0.7454774164780957,pituitary-skin not sun exposed suprapubic
+pituitary,pituitary,1,pituitary-pituitary
+pituitary,skin sun exposed lower leg,0.7500750261400402,pituitary-skin sun exposed lower leg
+pituitary,testis,0.8904751212984037,pituitary-testis
+pituitary,small intestine terminal ileum,0.7843074437146654,pituitary-small intestine terminal ileum
+pituitary,thyroid,0.943092110125019,pituitary-thyroid
+pituitary,spleen,0.6595473551252483,pituitary-spleen
+pituitary,uterus,0.9031664123089864,pituitary-uterus
+brain cerebellum,esophagus mucosa,0.5061011128732688,brain cerebellum-esophagus mucosa
+brain cerebellum,pancreas,0.5877273832091033,brain cerebellum-pancreas
+brain cerebellum,vagina,0.5516443613516725,brain cerebellum-vagina
+brain cerebellum,esophagus muscularis,0.7482054574309032,brain cerebellum-esophagus muscularis
+brain cerebellum,whole blood,0.3589384222515014,brain cerebellum-whole blood
+brain cerebellum,brain hypothalamus,0.9208926477272545,brain cerebellum-brain hypothalamus
+brain cerebellum,brain nucleus accumbens basal ganglia,0.9335343388593721,brain cerebellum-brain nucleus accumbens basal ganglia
+brain cerebellum,brain putamen basal ganglia,0.914536006057773,brain cerebellum-brain putamen basal ganglia
+brain cerebellum,prostate,0.7861647546825957,brain cerebellum-prostate
+brain cerebellum,brain hippocampus,0.898173562174705,brain cerebellum-brain hippocampus
+brain cerebellum,brain spinal cord cervical c-1,0.7240824108351003,brain cerebellum-brain spinal cord cervical c-1
+brain cerebellum,stomach,0.6683087120353008,brain cerebellum-stomach
+brain cerebellum,skin not sun exposed suprapubic,0.4434566262716359,brain cerebellum-skin not sun exposed suprapubic
+brain cerebellum,pituitary,0.7793375135680201,brain cerebellum-pituitary
+brain cerebellum,brain cerebellum,1,brain cerebellum-brain cerebellum
+brain cerebellum,heart atrial appendage,0.6799772048181999,brain cerebellum-heart atrial appendage
+brain cerebellum,breast mammary tissue,0.6676434093699568,brain cerebellum-breast mammary tissue
+brain cerebellum,brain cortex,0.9236600485835864,brain cerebellum-brain cortex
+brain cerebellum,esophagus gastroesophageal junction,0.7136350932298994,brain cerebellum-esophagus gastroesophageal junction
+brain cerebellum,heart left ventricle,0.7164906928138927,brain cerebellum-heart left ventricle
+brain cerebellum,cells cultured fibroblasts,0.6098113086151794,brain cerebellum-cells cultured fibroblasts
+brain cerebellum,lung,0.5124748180733033,brain cerebellum-lung
+brain cerebellum,skin sun exposed lower leg,0.487599396560005,brain cerebellum-skin sun exposed lower leg
+brain cerebellum,muscle skeletal,0.6184002816543285,brain cerebellum-muscle skeletal
+brain cerebellum,brain substantia nigra,0.887465066924871,brain cerebellum-brain substantia nigra
+brain cerebellum,testis,0.8385927696914313,brain cerebellum-testis
+brain cerebellum,small intestine terminal ileum,0.39737720904191076,brain cerebellum-small intestine terminal ileum
+brain cerebellum,nerve tibial,0.6916491331171127,brain cerebellum-nerve tibial
+brain cerebellum,brain frontal cortex ba9,0.893617890994715,brain cerebellum-brain frontal cortex ba9
+brain cerebellum,colon transverse,0.5450469381289953,brain cerebellum-colon transverse
+brain cerebellum,ovary,0.5713405695215406,brain cerebellum-ovary
+brain cerebellum,minor salivary gland,0.6289853033697593,brain cerebellum-minor salivary gland
+brain cerebellum,thyroid,0.6558734056596889,brain cerebellum-thyroid
+brain cerebellum,liver,0.6077939467351514,brain cerebellum-liver
+brain cerebellum,cells ebv-transformed lymphocytes,0.2158095135378997,brain cerebellum-cells ebv-transformed lymphocytes
+brain cerebellum,kidney cortex,0.7709186694659348,brain cerebellum-kidney cortex
+brain cerebellum,colon sigmoid,0.7256384801077139,brain cerebellum-colon sigmoid
+brain cerebellum,spleen,0.26364076934949726,brain cerebellum-spleen
+brain cerebellum,uterus,0.652657498261797,brain cerebellum-uterus
+artery tibial,esophagus mucosa,0.7845063660433635,artery tibial-esophagus mucosa
+artery tibial,pancreas,0.6249499718982777,artery tibial-pancreas
+artery tibial,vagina,0.8512777570358839,artery tibial-vagina
+artery tibial,esophagus muscularis,0.9450122847289694,artery tibial-esophagus muscularis
+artery tibial,whole blood,0.6988494585505255,artery tibial-whole blood
+artery tibial,brain hypothalamus,0.7614473280310556,artery tibial-brain hypothalamus
+artery tibial,brain nucleus accumbens basal ganglia,0.769441077968455,artery tibial-brain nucleus accumbens basal ganglia
+artery tibial,brain putamen basal ganglia,0.7450749341429839,artery tibial-brain putamen basal ganglia
+artery tibial,prostate,0.8863958090334895,artery tibial-prostate
+artery tibial,brain hippocampus,0.7090134934997914,artery tibial-brain hippocampus
+artery tibial,brain amygdala,0.7532199350460093,artery tibial-brain amygdala
+artery tibial,brain spinal cord cervical c-1,0.5764945053316868,artery tibial-brain spinal cord cervical c-1
+artery tibial,stomach,0.9103482539427077,artery tibial-stomach
+artery tibial,skin not sun exposed suprapubic,0.7501477558189599,artery tibial-skin not sun exposed suprapubic
+artery tibial,brain anterior cingulate cortex ba24,0.7058740581785279,artery tibial-brain anterior cingulate cortex ba24
+artery tibial,pituitary,0.9404648501061951,artery tibial-pituitary
+artery tibial,brain cerebellum,0.7192693018046498,artery tibial-brain cerebellum
+artery tibial,artery tibial,1,artery tibial-artery tibial
+artery tibial,heart atrial appendage,0.934066670380421,artery tibial-heart atrial appendage
+artery tibial,breast mammary tissue,0.9470394085121241,artery tibial-breast mammary tissue
+artery tibial,brain cortex,0.6909142275857261,artery tibial-brain cortex
+artery tibial,esophagus gastroesophageal junction,0.9411830868690011,artery tibial-esophagus gastroesophageal junction
+artery tibial,heart left ventricle,0.88552319481825,artery tibial-heart left ventricle
+artery tibial,cells cultured fibroblasts,0.8377422544037006,artery tibial-cells cultured fibroblasts
+artery tibial,lung,0.8763893254793904,artery tibial-lung
+artery tibial,skin sun exposed lower leg,0.7582548032270585,artery tibial-skin sun exposed lower leg
+artery tibial,muscle skeletal,0.791916896962397,artery tibial-muscle skeletal
+artery tibial,brain substantia nigra,0.7512695960240139,artery tibial-brain substantia nigra
+artery tibial,testis,0.8765719896421531,artery tibial-testis
+artery tibial,small intestine terminal ileum,0.7584784609979681,artery tibial-small intestine terminal ileum
+artery tibial,nerve tibial,0.9707070143379173,artery tibial-nerve tibial
+artery tibial,brain frontal cortex ba9,0.6556747818571179,artery tibial-brain frontal cortex ba9
+artery tibial,colon transverse,0.8474377873719947,artery tibial-colon transverse
+artery tibial,ovary,0.8345861541967803,artery tibial-ovary
+artery tibial,minor salivary gland,0.9232822385061785,artery tibial-minor salivary gland
+artery tibial,brain cerebellar hemisphere,0.7169141634415349,artery tibial-brain cerebellar hemisphere
+artery tibial,thyroid,0.9163859131332793,artery tibial-thyroid
+artery tibial,liver,0.7160838741046885,artery tibial-liver
+artery tibial,cells ebv-transformed lymphocytes,0.4320156435953164,artery tibial-cells ebv-transformed lymphocytes
+artery tibial,kidney cortex,0.849710202978001,artery tibial-kidney cortex
+artery tibial,colon sigmoid,0.889477186510099,artery tibial-colon sigmoid
+artery tibial,brain caudate basal ganglia,0.7841690305231216,artery tibial-brain caudate basal ganglia
+artery tibial,spleen,0.6288014830278402,artery tibial-spleen
+artery tibial,uterus,0.9086331661537572,artery tibial-uterus
+heart atrial appendage,pancreas,0.7102686300038082,heart atrial appendage-pancreas
+heart atrial appendage,vagina,0.8297822631661533,heart atrial appendage-vagina
+heart atrial appendage,whole blood,0.6549618818936996,heart atrial appendage-whole blood
+heart atrial appendage,prostate,0.8677894857777589,heart atrial appendage-prostate
+heart atrial appendage,stomach,0.8767207894188013,heart atrial appendage-stomach
+heart atrial appendage,skin not sun exposed suprapubic,0.7279288665163482,heart atrial appendage-skin not sun exposed suprapubic
+heart atrial appendage,pituitary,0.89300084435949,heart atrial appendage-pituitary
+heart atrial appendage,heart atrial appendage,1,heart atrial appendage-heart atrial appendage
+heart atrial appendage,heart left ventricle,0.9423622687339509,heart atrial appendage-heart left ventricle
+heart atrial appendage,lung,0.8491138135630049,heart atrial appendage-lung
+heart atrial appendage,skin sun exposed lower leg,0.7230507312037736,heart atrial appendage-skin sun exposed lower leg
+heart atrial appendage,muscle skeletal,0.8830915522565618,heart atrial appendage-muscle skeletal
+heart atrial appendage,testis,0.8083981429309013,heart atrial appendage-testis
+heart atrial appendage,small intestine terminal ileum,0.7371972449007411,heart atrial appendage-small intestine terminal ileum
+heart atrial appendage,nerve tibial,0.921700696259788,heart atrial appendage-nerve tibial
+heart atrial appendage,ovary,0.857794676744119,heart atrial appendage-ovary
+heart atrial appendage,minor salivary gland,0.8856713166915338,heart atrial appendage-minor salivary gland
+heart atrial appendage,thyroid,0.9020748349521717,heart atrial appendage-thyroid
+heart atrial appendage,liver,0.7395034837156265,heart atrial appendage-liver
+heart atrial appendage,kidney cortex,0.8022428922054798,heart atrial appendage-kidney cortex
+heart atrial appendage,spleen,0.6222613874765882,heart atrial appendage-spleen
+heart atrial appendage,uterus,0.8991922429873299,heart atrial appendage-uterus
+breast mammary tissue,esophagus mucosa,0.8459043087867166,breast mammary tissue-esophagus mucosa
+breast mammary tissue,pancreas,0.6834169208242022,breast mammary tissue-pancreas
+breast mammary tissue,vagina,0.9064637200635733,breast mammary tissue-vagina
+breast mammary tissue,esophagus muscularis,0.9282520550754522,breast mammary tissue-esophagus muscularis
+breast mammary tissue,whole blood,0.7984445706223374,breast mammary tissue-whole blood
+breast mammary tissue,prostate,0.9268295312911722,breast mammary tissue-prostate
+breast mammary tissue,stomach,0.954471007414342,breast mammary tissue-stomach
+breast mammary tissue,skin not sun exposed suprapubic,0.8107807672114254,breast mammary tissue-skin not sun exposed suprapubic
+breast mammary tissue,pituitary,0.9198209120108081,breast mammary tissue-pituitary
+breast mammary tissue,heart atrial appendage,0.9089180527309051,breast mammary tissue-heart atrial appendage
+breast mammary tissue,breast mammary tissue,1,breast mammary tissue-breast mammary tissue
+breast mammary tissue,esophagus gastroesophageal junction,0.9398742896110716,breast mammary tissue-esophagus gastroesophageal junction
+breast mammary tissue,heart left ventricle,0.8399102394242869,breast mammary tissue-heart left ventricle
+breast mammary tissue,cells cultured fibroblasts,0.8909043749522156,breast mammary tissue-cells cultured fibroblasts
+breast mammary tissue,lung,0.9411700708658437,breast mammary tissue-lung
+breast mammary tissue,skin sun exposed lower leg,0.8069610913021633,breast mammary tissue-skin sun exposed lower leg
+breast mammary tissue,muscle skeletal,0.8102920401749936,breast mammary tissue-muscle skeletal
+breast mammary tissue,testis,0.8366389553825768,breast mammary tissue-testis
+breast mammary tissue,small intestine terminal ileum,0.8498508778997119,breast mammary tissue-small intestine terminal ileum
+breast mammary tissue,nerve tibial,0.9772730065263696,breast mammary tissue-nerve tibial
+breast mammary tissue,colon transverse,0.90041295289515,breast mammary tissue-colon transverse
+breast mammary tissue,ovary,0.8606145239572711,breast mammary tissue-ovary
+breast mammary tissue,minor salivary gland,0.9683244469213425,breast mammary tissue-minor salivary gland
+breast mammary tissue,thyroid,0.9478812363363035,breast mammary tissue-thyroid
+breast mammary tissue,liver,0.8500777438178931,breast mammary tissue-liver
+breast mammary tissue,cells ebv-transformed lymphocytes,0.4727614698926424,breast mammary tissue-cells ebv-transformed lymphocytes
+breast mammary tissue,kidney cortex,0.8757717171012757,breast mammary tissue-kidney cortex
+breast mammary tissue,colon sigmoid,0.8720841782105382,breast mammary tissue-colon sigmoid
+breast mammary tissue,spleen,0.7478365512986113,breast mammary tissue-spleen
+breast mammary tissue,uterus,0.9429866899785527,breast mammary tissue-uterus
+brain cortex,esophagus mucosa,0.4308283449247344,brain cortex-esophagus mucosa
+brain cortex,pancreas,0.5520872332843397,brain cortex-pancreas
+brain cortex,vagina,0.48885956592675056,brain cortex-vagina
+brain cortex,esophagus muscularis,0.7130449901201362,brain cortex-esophagus muscularis
+brain cortex,whole blood,0.24945886214933471,brain cortex-whole blood
+brain cortex,brain hypothalamus,0.9477114977585469,brain cortex-brain hypothalamus
+brain cortex,brain nucleus accumbens basal ganglia,0.9796714188109275,brain cortex-brain nucleus accumbens basal ganglia
+brain cortex,brain putamen basal ganglia,0.9539753502593844,brain cortex-brain putamen basal ganglia
+brain cortex,prostate,0.7274232717335923,brain cortex-prostate
+brain cortex,brain hippocampus,0.951433473104486,brain cortex-brain hippocampus
+brain cortex,brain spinal cord cervical c-1,0.7028851512973445,brain cortex-brain spinal cord cervical c-1
+brain cortex,stomach,0.6116071369238757,brain cortex-stomach
+brain cortex,skin not sun exposed suprapubic,0.38060619205458734,brain cortex-skin not sun exposed suprapubic
+brain cortex,pituitary,0.7412232829172901,brain cortex-pituitary
+brain cortex,heart atrial appendage,0.6561167723345601,brain cortex-heart atrial appendage
+brain cortex,breast mammary tissue,0.5848541970121411,brain cortex-breast mammary tissue
+brain cortex,brain cortex,1,brain cortex-brain cortex
+brain cortex,esophagus gastroesophageal junction,0.6797186222963888,brain cortex-esophagus gastroesophageal junction
+brain cortex,heart left ventricle,0.6522262432494397,brain cortex-heart left ventricle
+brain cortex,cells cultured fibroblasts,0.5252211109390285,brain cortex-cells cultured fibroblasts
+brain cortex,lung,0.42166230893222845,brain cortex-lung
+brain cortex,skin sun exposed lower leg,0.4247277257975424,brain cortex-skin sun exposed lower leg
+brain cortex,muscle skeletal,0.5258812164745584,brain cortex-muscle skeletal
+brain cortex,brain substantia nigra,0.9273476863659645,brain cortex-brain substantia nigra
+brain cortex,testis,0.7864305991103666,brain cortex-testis
+brain cortex,small intestine terminal ileum,0.3207398600828058,brain cortex-small intestine terminal ileum
+brain cortex,nerve tibial,0.6305243760183816,brain cortex-nerve tibial
+brain cortex,brain frontal cortex ba9,0.9885933600996764,brain cortex-brain frontal cortex ba9
+brain cortex,colon transverse,0.5000782797402621,brain cortex-colon transverse
+brain cortex,ovary,0.5654779358986606,brain cortex-ovary
+brain cortex,minor salivary gland,0.5490288829022749,brain cortex-minor salivary gland
+brain cortex,thyroid,0.5990029755199482,brain cortex-thyroid
+brain cortex,liver,0.49558168952055953,brain cortex-liver
+brain cortex,cells ebv-transformed lymphocytes,0.18128009948596832,brain cortex-cells ebv-transformed lymphocytes
+brain cortex,kidney cortex,0.6974723956522427,brain cortex-kidney cortex
+brain cortex,colon sigmoid,0.7194022697180251,brain cortex-colon sigmoid
+brain cortex,spleen,0.19174478639110035,brain cortex-spleen
+brain cortex,uterus,0.6047377931206187,brain cortex-uterus
+adrenal gland,esophagus mucosa,0.820935533107985,adrenal gland-esophagus mucosa
+adrenal gland,pancreas,0.6883585293825115,adrenal gland-pancreas
+adrenal gland,vagina,0.8815839570127487,adrenal gland-vagina
+adrenal gland,esophagus muscularis,0.9304761447149413,adrenal gland-esophagus muscularis
+adrenal gland,whole blood,0.7272876114278398,adrenal gland-whole blood
+adrenal gland,brain hypothalamus,0.6860498831899213,adrenal gland-brain hypothalamus
+adrenal gland,brain nucleus accumbens basal ganglia,0.7025934872594622,adrenal gland-brain nucleus accumbens basal ganglia
+adrenal gland,brain putamen basal ganglia,0.6814592930607352,adrenal gland-brain putamen basal ganglia
+adrenal gland,prostate,0.9012131361243432,adrenal gland-prostate
+adrenal gland,brain hippocampus,0.6422002930671667,adrenal gland-brain hippocampus
+adrenal gland,artery aorta,0.9558430464831372,adrenal gland-artery aorta
+adrenal gland,brain amygdala,0.685409507244523,adrenal gland-brain amygdala
+adrenal gland,brain spinal cord cervical c-1,0.5160963162729585,adrenal gland-brain spinal cord cervical c-1
+adrenal gland,stomach,0.9398418348330962,adrenal gland-stomach
+adrenal gland,skin not sun exposed suprapubic,0.7825795571230055,adrenal gland-skin not sun exposed suprapubic
+adrenal gland,artery coronary,0.9685484022470466,adrenal gland-artery coronary
+adrenal gland,brain anterior cingulate cortex ba24,0.622113878088443,adrenal gland-brain anterior cingulate cortex ba24
+adrenal gland,pituitary,0.9404729394062287,adrenal gland-pituitary
+adrenal gland,brain cerebellum,0.6368769435124648,adrenal gland-brain cerebellum
+adrenal gland,artery tibial,0.951692199227319,adrenal gland-artery tibial
+adrenal gland,heart atrial appendage,0.9519798828454227,adrenal gland-heart atrial appendage
+adrenal gland,breast mammary tissue,0.945875713037152,adrenal gland-breast mammary tissue
+adrenal gland,brain cortex,0.6071474196305302,adrenal gland-brain cortex
+adrenal gland,adrenal gland,1,adrenal gland-adrenal gland
+adrenal gland,esophagus gastroesophageal junction,0.9409055082086366,adrenal gland-esophagus gastroesophageal junction
+adrenal gland,heart left ventricle,0.8989648647034465,adrenal gland-heart left ventricle
+adrenal gland,cells cultured fibroblasts,0.8880629585834026,adrenal gland-cells cultured fibroblasts
+adrenal gland,lung,0.907158130799093,adrenal gland-lung
+adrenal gland,skin sun exposed lower leg,0.7764647555508011,adrenal gland-skin sun exposed lower leg
+adrenal gland,muscle skeletal,0.8352395228843587,adrenal gland-muscle skeletal
+adrenal gland,brain substantia nigra,0.680828911783096,adrenal gland-brain substantia nigra
+adrenal gland,testis,0.8199507986548918,adrenal gland-testis
+adrenal gland,small intestine terminal ileum,0.8431480745097721,adrenal gland-small intestine terminal ileum
+adrenal gland,nerve tibial,0.9580342949270897,adrenal gland-nerve tibial
+adrenal gland,brain frontal cortex ba9,0.5613154619425105,adrenal gland-brain frontal cortex ba9
+adrenal gland,colon transverse,0.9149765850289667,adrenal gland-colon transverse
+adrenal gland,ovary,0.8581940578713686,adrenal gland-ovary
+adrenal gland,minor salivary gland,0.940750653671203,adrenal gland-minor salivary gland
+adrenal gland,brain cerebellar hemisphere,0.6281499709855479,adrenal gland-brain cerebellar hemisphere
+adrenal gland,thyroid,0.942128730024006,adrenal gland-thyroid
+adrenal gland,liver,0.7878995587828781,adrenal gland-liver
+adrenal gland,cells ebv-transformed lymphocytes,0.48508889206143513,adrenal gland-cells ebv-transformed lymphocytes
+adrenal gland,kidney cortex,0.8453381581048238,adrenal gland-kidney cortex
+adrenal gland,colon sigmoid,0.8822077733349784,adrenal gland-colon sigmoid
+adrenal gland,brain caudate basal ganglia,0.7272049279175382,adrenal gland-brain caudate basal ganglia
+adrenal gland,spleen,0.7359050068963725,adrenal gland-spleen
+adrenal gland,uterus,0.9373067812031556,adrenal gland-uterus
+esophagus gastroesophageal junction,esophagus mucosa,0.8232921986490213,esophagus gastroesophageal junction-esophagus mucosa
+esophagus gastroesophageal junction,pancreas,0.676744268172389,esophagus gastroesophageal junction-pancreas
+esophagus gastroesophageal junction,vagina,0.8760302144973451,esophagus gastroesophageal junction-vagina
+esophagus gastroesophageal junction,esophagus muscularis,0.996852963805127,esophagus gastroesophageal junction-esophagus muscularis
+esophagus gastroesophageal junction,whole blood,0.685435667814374,esophagus gastroesophageal junction-whole blood
+esophagus gastroesophageal junction,prostate,0.9333996155533609,esophagus gastroesophageal junction-prostate
+esophagus gastroesophageal junction,stomach,0.9547023869462375,esophagus gastroesophageal junction-stomach
+esophagus gastroesophageal junction,skin not sun exposed suprapubic,0.7806220302071123,esophagus gastroesophageal junction-skin not sun exposed suprapubic
+esophagus gastroesophageal junction,pituitary,0.9368507525426782,esophagus gastroesophageal junction-pituitary
+esophagus gastroesophageal junction,heart atrial appendage,0.91926280463564225,esophagus gastroesophageal junction-heart atrial appendage
+esophagus gastroesophageal junction,esophagus gastroesophageal junction,1,esophagus gastroesophageal junction-esophagus gastroesophageal junction
+esophagus gastroesophageal junction,heart left ventricle,0.8568054567447412,esophagus gastroesophageal junction-heart left ventricle
+esophagus gastroesophageal junction,lung,0.8970227653799087,esophagus gastroesophageal junction-lung
+esophagus gastroesophageal junction,skin sun exposed lower leg,0.773338901239844,esophagus gastroesophageal junction-skin sun exposed lower leg
+esophagus gastroesophageal junction,muscle skeletal,0.8060305170303568,esophagus gastroesophageal junction-muscle skeletal
+esophagus gastroesophageal junction,testis,0.7959839796659536,esophagus gastroesophageal junction-testis
+esophagus gastroesophageal junction,small intestine terminal ileum,0.8052077896545496,esophagus gastroesophageal junction-small intestine terminal ileum
+esophagus gastroesophageal junction,nerve tibial,0.9494333019093809,esophagus gastroesophageal junction-nerve tibial
+esophagus gastroesophageal junction,ovary,0.802296705165281,esophagus gastroesophageal junction-ovary
+esophagus gastroesophageal junction,minor salivary gland,0.9266345185290242,esophagus gastroesophageal junction-minor salivary gland
+esophagus gastroesophageal junction,thyroid,0.9458684131749391,esophagus gastroesophageal junction-thyroid
+esophagus gastroesophageal junction,liver,0.8179910149712935,esophagus gastroesophageal junction-liver
+esophagus gastroesophageal junction,kidney cortex,0.8235862368426329,esophagus gastroesophageal junction-kidney cortex
+esophagus gastroesophageal junction,spleen,0.6866051207057382,esophagus gastroesophageal junction-spleen
+esophagus gastroesophageal junction,uterus,0.9679869047057262,esophagus gastroesophageal junction-uterus
+heart left ventricle,pancreas,0.7663522593605279,heart left ventricle-pancreas
+heart left ventricle,vagina,0.7612688136820022,heart left ventricle-vagina
+heart left ventricle,whole blood,0.614155501402418,heart left ventricle-whole blood
+heart left ventricle,prostate,0.8218791765462528,heart left ventricle-prostate
+heart left ventricle,stomach,0.8323243755638436,heart left ventricle-stomach
+heart left ventricle,skin not sun exposed suprapubic,0.6518290702090915,heart left ventricle-skin not sun exposed suprapubic
+heart left ventricle,pituitary,0.875395166686281,heart left ventricle-pituitary
+heart left ventricle,heart left ventricle,1,heart left ventricle-heart left ventricle
+heart left ventricle,lung,0.801723998751498,heart left ventricle-lung
+heart left ventricle,skin sun exposed lower leg,0.650342857176193,heart left ventricle-skin sun exposed lower leg
+heart left ventricle,muscle skeletal,0.9221854678351854,heart left ventricle-muscle skeletal
+heart left ventricle,testis,0.7614434042860894,heart left ventricle-testis
+heart left ventricle,small intestine terminal ileum,0.6786028976087685,heart left ventricle-small intestine terminal ileum
+heart left ventricle,nerve tibial,0.8752525871575655,heart left ventricle-nerve tibial
+heart left ventricle,ovary,0.7288992701052798,heart left ventricle-ovary
+heart left ventricle,minor salivary gland,0.8476939708708827,heart left ventricle-minor salivary gland
+heart left ventricle,thyroid,0.8462922494577167,heart left ventricle-thyroid
+heart left ventricle,liver,0.7352741864690477,heart left ventricle-liver
+heart left ventricle,kidney cortex,0.7959993444531963,heart left ventricle-kidney cortex
+heart left ventricle,spleen,0.5610431563832516,heart left ventricle-spleen
+heart left ventricle,uterus,0.8174317326370996,heart left ventricle-uterus
+cells cultured fibroblasts,esophagus mucosa,0.7746949947089343,cells cultured fibroblasts-esophagus mucosa
+cells cultured fibroblasts,pancreas,0.7178690293817286,cells cultured fibroblasts-pancreas
+cells cultured fibroblasts,vagina,0.8211406040779738,cells cultured fibroblasts-vagina
+cells cultured fibroblasts,esophagus muscularis,0.7993167814575918,cells cultured fibroblasts-esophagus muscularis
+cells cultured fibroblasts,whole blood,0.7528790106514938,cells cultured fibroblasts-whole blood
+cells cultured fibroblasts,prostate,0.8124105425148462,cells cultured fibroblasts-prostate
+cells cultured fibroblasts,stomach,0.8572344453549098,cells cultured fibroblasts-stomach
+cells cultured fibroblasts,skin not sun exposed suprapubic,0.7403399718901552,cells cultured fibroblasts-skin not sun exposed suprapubic
+cells cultured fibroblasts,pituitary,0.8635578315717374,cells cultured fibroblasts-pituitary
+cells cultured fibroblasts,heart atrial appendage,0.8241007168403303,cells cultured fibroblasts-heart atrial appendage
+cells cultured fibroblasts,esophagus gastroesophageal junction,0.8110608717203275,cells cultured fibroblasts-esophagus gastroesophageal junction
+cells cultured fibroblasts,heart left ventricle,0.7816055720646986,cells cultured fibroblasts-heart left ventricle
+cells cultured fibroblasts,cells cultured fibroblasts,1,cells cultured fibroblasts-cells cultured fibroblasts
+cells cultured fibroblasts,lung,0.8603208690686269,cells cultured fibroblasts-lung
+cells cultured fibroblasts,skin sun exposed lower leg,0.7331983005628708,cells cultured fibroblasts-skin sun exposed lower leg
+cells cultured fibroblasts,muscle skeletal,0.8011787751335168,cells cultured fibroblasts-muscle skeletal
+cells cultured fibroblasts,testis,0.7572062120335593,cells cultured fibroblasts-testis
+cells cultured fibroblasts,small intestine terminal ileum,0.8197810528982084,cells cultured fibroblasts-small intestine terminal ileum
+cells cultured fibroblasts,nerve tibial,0.876806552637517,cells cultured fibroblasts-nerve tibial
+cells cultured fibroblasts,colon transverse,0.8254711841301995,cells cultured fibroblasts-colon transverse
+cells cultured fibroblasts,ovary,0.7967831956298795,cells cultured fibroblasts-ovary
+cells cultured fibroblasts,minor salivary gland,0.8864628937820971,cells cultured fibroblasts-minor salivary gland
+cells cultured fibroblasts,thyroid,0.8372982199891031,cells cultured fibroblasts-thyroid
+cells cultured fibroblasts,liver,0.7460954034010796,cells cultured fibroblasts-liver
+cells cultured fibroblasts,cells ebv-transformed lymphocytes,0.6558557845148814,cells cultured fibroblasts-cells ebv-transformed lymphocytes
+cells cultured fibroblasts,kidney cortex,0.792307729576456,cells cultured fibroblasts-kidney cortex
+cells cultured fibroblasts,colon sigmoid,0.7337833905999747,cells cultured fibroblasts-colon sigmoid
+cells cultured fibroblasts,spleen,0.717473811469271,cells cultured fibroblasts-spleen
+cells cultured fibroblasts,uterus,0.8274898203557122,cells cultured fibroblasts-uterus
+lung,pancreas,0.6587558510861365,lung-pancreas
+lung,vagina,0.9036841989472614,lung-vagina
+lung,whole blood,0.8959573251948219,lung-whole blood
+lung,prostate,0.8386839838666676,lung-prostate
+lung,stomach,0.9377393437393763,lung-stomach
+lung,skin not sun exposed suprapubic,0.8393406727245094,lung-skin not sun exposed suprapubic
+lung,pituitary,0.8697779125573735,lung-pituitary
+lung,lung,1,lung-lung
+lung,skin sun exposed lower leg,0.8186994602175809,lung-skin sun exposed lower leg
+lung,muscle skeletal,0.809049443781963,lung-muscle skeletal
+lung,testis,0.7041396567488908,lung-testis
+lung,small intestine terminal ileum,0.9028067629753815,lung-small intestine terminal ileum
+lung,nerve tibial,0.9342602819101322,lung-nerve tibial
+lung,ovary,0.7420291960055857,lung-ovary
+lung,minor salivary gland,0.9603521915278482,lung-minor salivary gland
+lung,thyroid,0.9169442109212315,lung-thyroid
+lung,spleen,0.8562187707144924,lung-spleen
+lung,uterus,0.8786804155956898,lung-uterus
+skin sun exposed lower leg,vagina,0.9580249970343483,skin sun exposed lower leg-vagina
+skin sun exposed lower leg,whole blood,0.7515939439357613,skin sun exposed lower leg-whole blood
+skin sun exposed lower leg,stomach,0.7944602353134065,skin sun exposed lower leg-stomach
+skin sun exposed lower leg,skin sun exposed lower leg,1,skin sun exposed lower leg-skin sun exposed lower leg
+skin sun exposed lower leg,testis,0.6336217756621331,skin sun exposed lower leg-testis
+skin sun exposed lower leg,small intestine terminal ileum,0.7982379776098154,skin sun exposed lower leg-small intestine terminal ileum
+skin sun exposed lower leg,thyroid,0.7419654435874267,skin sun exposed lower leg-thyroid
+skin sun exposed lower leg,spleen,0.7215930529317234,skin sun exposed lower leg-spleen
+skin sun exposed lower leg,uterus,0.7362824023329362,skin sun exposed lower leg-uterus
+muscle skeletal,pancreas,0.8841057830072672,muscle skeletal-pancreas
+muscle skeletal,vagina,0.7664593652389398,muscle skeletal-vagina
+muscle skeletal,whole blood,0.6304709296414939,muscle skeletal-whole blood
+muscle skeletal,prostate,0.7387173577550187,muscle skeletal-prostate
+muscle skeletal,stomach,0.7947754453074191,muscle skeletal-stomach
+muscle skeletal,skin not sun exposed suprapubic,0.6909062531009064,muscle skeletal-skin not sun exposed suprapubic
+muscle skeletal,pituitary,0.8238758142063995,muscle skeletal-pituitary
+muscle skeletal,skin sun exposed lower leg,0.6676851154312621,muscle skeletal-skin sun exposed lower leg
+muscle skeletal,muscle skeletal,1,muscle skeletal-muscle skeletal
+muscle skeletal,testis,0.6497541236725833,muscle skeletal-testis
+muscle skeletal,small intestine terminal ileum,0.6759825810326873,muscle skeletal-small intestine terminal ileum
+muscle skeletal,nerve tibial,0.8280952211380693,muscle skeletal-nerve tibial
+muscle skeletal,ovary,0.7411892341677473,muscle skeletal-ovary
+muscle skeletal,thyroid,0.7994783994912339,muscle skeletal-thyroid
+muscle skeletal,spleen,0.5608961776650495,muscle skeletal-spleen
+muscle skeletal,uterus,0.7677053715063105,muscle skeletal-uterus
+brain substantia nigra,esophagus mucosa,0.5431403325811908,brain substantia nigra-esophagus mucosa
+brain substantia nigra,pancreas,0.5582515224099796,brain substantia nigra-pancreas
+brain substantia nigra,vagina,0.6004835385129104,brain substantia nigra-vagina
+brain substantia nigra,esophagus muscularis,0.804463407941835,brain substantia nigra-esophagus muscularis
+brain substantia nigra,whole blood,0.31078020375823223,brain substantia nigra-whole blood
+brain substantia nigra,prostate,0.8063502779659463,brain substantia nigra-prostate
+brain substantia nigra,stomach,0.6802886307389877,brain substantia nigra-stomach
+brain substantia nigra,skin not sun exposed suprapubic,0.4936819580095304,brain substantia nigra-skin not sun exposed suprapubic
+brain substantia nigra,pituitary,0.7565363606492516,brain substantia nigra-pituitary
+brain substantia nigra,heart atrial appendage,0.7124970359062349,brain substantia nigra-heart atrial appendage
+brain substantia nigra,breast mammary tissue,0.6854905717671549,brain substantia nigra-breast mammary tissue
+brain substantia nigra,esophagus gastroesophageal junction,0.7833774682746922,brain substantia nigra-esophagus gastroesophageal junction
+brain substantia nigra,heart left ventricle,0.6839941186212752,brain substantia nigra-heart left ventricle
+brain substantia nigra,cells cultured fibroblasts,0.583834402571554,brain substantia nigra-cells cultured fibroblasts
+brain substantia nigra,lung,0.5167909346964541,brain substantia nigra-lung
+brain substantia nigra,skin sun exposed lower leg,0.5247927131941067,brain substantia nigra-skin sun exposed lower leg
+brain substantia nigra,muscle skeletal,0.5575527028344659,brain substantia nigra-muscle skeletal
+brain substantia nigra,brain substantia nigra,1,brain substantia nigra-brain substantia nigra
+brain substantia nigra,testis,0.7751505357412061,brain substantia nigra-testis
+brain substantia nigra,small intestine terminal ileum,0.40304136068754526,brain substantia nigra-small intestine terminal ileum
+brain substantia nigra,nerve tibial,0.7066320817238978,brain substantia nigra-nerve tibial
+brain substantia nigra,colon transverse,0.5961722879102223,brain substantia nigra-colon transverse
+brain substantia nigra,ovary,0.6435965428542567,brain substantia nigra-ovary
+brain substantia nigra,minor salivary gland,0.6088922628713596,brain substantia nigra-minor salivary gland
+brain substantia nigra,thyroid,0.6549231058920707,brain substantia nigra-thyroid
+brain substantia nigra,liver,0.6336433450016824,brain substantia nigra-liver
+brain substantia nigra,cells ebv-transformed lymphocytes,0.21251234347139283,brain substantia nigra-cells ebv-transformed lymphocytes
+brain substantia nigra,kidney cortex,0.702223705474637,brain substantia nigra-kidney cortex
+brain substantia nigra,colon sigmoid,0.8496361677500127,brain substantia nigra-colon sigmoid
+brain substantia nigra,spleen,0.2736508856498528,brain substantia nigra-spleen
+brain substantia nigra,uterus,0.7413777990348218,brain substantia nigra-uterus
+testis,vagina,0.7180384001233056,testis-vagina
+testis,whole blood,0.5444047730920487,testis-whole blood
+testis,testis,1,testis-testis
+testis,thyroid,0.8209427075932709,testis-thyroid
+testis,uterus,0.7850692389065893,testis-uterus
+small intestine terminal ileum,vagina,0.855942248542327,small intestine terminal ileum-vagina
+small intestine terminal ileum,whole blood,0.8314024726413983,small intestine terminal ileum-whole blood
+small intestine terminal ileum,stomach,0.875510572338742,small intestine terminal ileum-stomach
+small intestine terminal ileum,testis,0.585734509864697,small intestine terminal ileum-testis
+small intestine terminal ileum,small intestine terminal ileum,1,small intestine terminal ileum-small intestine terminal ileum
+small intestine terminal ileum,thyroid,0.855184250390052,small intestine terminal ileum-thyroid
+small intestine terminal ileum,spleen,0.9325387368606811,small intestine terminal ileum-spleen
+small intestine terminal ileum,uterus,0.8185238729392393,small intestine terminal ileum-uterus
+nerve tibial,pancreas,0.6842946324470276,nerve tibial-pancreas
+nerve tibial,vagina,0.9258777952988778,nerve tibial-vagina
+nerve tibial,whole blood,0.7609303483191721,nerve tibial-whole blood
+nerve tibial,prostate,0.9137877775065387,nerve tibial-prostate
+nerve tibial,stomach,0.9560804460784114,nerve tibial-stomach
+nerve tibial,skin not sun exposed suprapubic,0.8350556692839258,nerve tibial-skin not sun exposed suprapubic
+nerve tibial,pituitary,0.950437444226647,nerve tibial-pituitary
+nerve tibial,skin sun exposed lower leg,0.8366166997759328,nerve tibial-skin sun exposed lower leg
+nerve tibial,testis,0.8649334190088386,nerve tibial-testis
+nerve tibial,small intestine terminal ileum,0.8379401160425887,nerve tibial-small intestine terminal ileum
+nerve tibial,nerve tibial,1,nerve tibial-nerve tibial
+nerve tibial,ovary,0.8299016340839782,nerve tibial-ovary
+nerve tibial,thyroid,0.9473120632685149,nerve tibial-thyroid
+nerve tibial,spleen,0.7181861731371325,nerve tibial-spleen
+nerve tibial,uterus,0.9287434371755386,nerve tibial-uterus
+adipose visceral omentum,esophagus mucosa,0.8837576775219632,adipose visceral omentum-esophagus mucosa
+adipose visceral omentum,pancreas,0.6814018293171907,adipose visceral omentum-pancreas
+adipose visceral omentum,vagina,0.9287429428140658,adipose visceral omentum-vagina
+adipose visceral omentum,esophagus muscularis,0.8997061067187767,adipose visceral omentum-esophagus muscularis
+adipose visceral omentum,whole blood,0.8167393510542654,adipose visceral omentum-whole blood
+adipose visceral omentum,brain hypothalamus,0.5873275968165562,adipose visceral omentum-brain hypothalamus
+adipose visceral omentum,brain nucleus accumbens basal ganglia,0.5707011019704691,adipose visceral omentum-brain nucleus accumbens basal ganglia
+adipose visceral omentum,brain putamen basal ganglia,0.5734020736118307,adipose visceral omentum-brain putamen basal ganglia
+adipose visceral omentum,prostate,0.8533881016038363,adipose visceral omentum-prostate
+adipose visceral omentum,brain hippocampus,0.5303376136502722,adipose visceral omentum-brain hippocampus
+adipose visceral omentum,artery aorta,0.9526489524502023,adipose visceral omentum-artery aorta
+adipose visceral omentum,brain amygdala,0.5598122752129535,adipose visceral omentum-brain amygdala
+adipose visceral omentum,brain spinal cord cervical c-1,0.516020250275013,adipose visceral omentum-brain spinal cord cervical c-1
+adipose visceral omentum,stomach,0.9297304548973505,adipose visceral omentum-stomach
+adipose visceral omentum,skin not sun exposed suprapubic,0.863936128277465,adipose visceral omentum-skin not sun exposed suprapubic
+adipose visceral omentum,artery coronary,0.951980069161144,adipose visceral omentum-artery coronary
+adipose visceral omentum,brain anterior cingulate cortex ba24,0.47047861336342794,adipose visceral omentum-brain anterior cingulate cortex ba24
+adipose visceral omentum,pituitary,0.8636648037614016,adipose visceral omentum-pituitary
+adipose visceral omentum,brain cerebellum,0.5290638477043922,adipose visceral omentum-brain cerebellum
+adipose visceral omentum,artery tibial,0.895322706366378,adipose visceral omentum-artery tibial
+adipose visceral omentum,heart atrial appendage,0.878420518991316,adipose visceral omentum-heart atrial appendage
+adipose visceral omentum,breast mammary tissue,0.9685468234921615,adipose visceral omentum-breast mammary tissue
+adipose visceral omentum,brain cortex,0.4538451963616475,adipose visceral omentum-brain cortex
+adipose visceral omentum,adrenal gland,0.9222584245357728,adipose visceral omentum-adrenal gland
+adipose visceral omentum,esophagus gastroesophageal junction,0.9234285195958984,adipose visceral omentum-esophagus gastroesophageal junction
+adipose visceral omentum,heart left ventricle,0.7901858091448296,adipose visceral omentum-heart left ventricle
+adipose visceral omentum,cells cultured fibroblasts,0.8656286403403082,adipose visceral omentum-cells cultured fibroblasts
+adipose visceral omentum,lung,0.961358978322433,adipose visceral omentum-lung
+adipose visceral omentum,skin sun exposed lower leg,0.841196518817015,adipose visceral omentum-skin sun exposed lower leg
+adipose visceral omentum,muscle skeletal,0.8207038918181878,adipose visceral omentum-muscle skeletal
+adipose visceral omentum,brain substantia nigra,0.5926484033603291,adipose visceral omentum-brain substantia nigra
+adipose visceral omentum,testis,0.7231977689003933,adipose visceral omentum-testis
+adipose visceral omentum,small intestine terminal ileum,0.8604828169717185,adipose visceral omentum-small intestine terminal ileum
+adipose visceral omentum,nerve tibial,0.9468686261006632,adipose visceral omentum-nerve tibial
+adipose visceral omentum,adipose visceral omentum,1,adipose visceral omentum-adipose visceral omentum
+adipose visceral omentum,brain frontal cortex ba9,0.4117131062491523,adipose visceral omentum-brain frontal cortex ba9
+adipose visceral omentum,colon transverse,0.9069321761986147,adipose visceral omentum-colon transverse
+adipose visceral omentum,ovary,0.835815538205578,adipose visceral omentum-ovary
+adipose visceral omentum,minor salivary gland,0.9487386820663762,adipose visceral omentum-minor salivary gland
+adipose visceral omentum,brain cerebellar hemisphere,0.5186282968821488,adipose visceral omentum-brain cerebellar hemisphere
+adipose visceral omentum,thyroid,0.9091328448429777,adipose visceral omentum-thyroid
+adipose visceral omentum,liver,0.8373958546545749,adipose visceral omentum-liver
+adipose visceral omentum,cells ebv-transformed lymphocytes,0.5087399530388703,adipose visceral omentum-cells ebv-transformed lymphocytes
+adipose visceral omentum,kidney cortex,0.7812378650905516,adipose visceral omentum-kidney cortex
+adipose visceral omentum,colon sigmoid,0.8500594633822854,adipose visceral omentum-colon sigmoid
+adipose visceral omentum,brain caudate basal ganglia,0.6143128502998529,adipose visceral omentum-brain caudate basal ganglia
+adipose visceral omentum,spleen,0.7742199819051959,adipose visceral omentum-spleen
+adipose visceral omentum,uterus,0.9239349924101455,adipose visceral omentum-uterus
+brain frontal cortex ba9,esophagus mucosa,0.3782667774324101,brain frontal cortex ba9-esophagus mucosa
+brain frontal cortex ba9,pancreas,0.541362951013156,brain frontal cortex ba9-pancreas
+brain frontal cortex ba9,vagina,0.44430865077640797,brain frontal cortex ba9-vagina
+brain frontal cortex ba9,esophagus muscularis,0.6718638466779944,brain frontal cortex ba9-esophagus muscularis
+brain frontal cortex ba9,whole blood,0.1902017729932725,brain frontal cortex ba9-whole blood
+brain frontal cortex ba9,brain hypothalamus,0.9357133202772144,brain frontal cortex ba9-brain hypothalamus
+brain frontal cortex ba9,brain nucleus accumbens basal ganglia,0.9590228922373543,brain frontal cortex ba9-brain nucleus accumbens basal ganglia
+brain frontal cortex ba9,brain putamen basal ganglia,0.9369788019636812,brain frontal cortex ba9-brain putamen basal ganglia
+brain frontal cortex ba9,prostate,0.672625666610288,brain frontal cortex ba9-prostate
+brain frontal cortex ba9,brain hippocampus,0.9428966730306824,brain frontal cortex ba9-brain hippocampus
+brain frontal cortex ba9,brain spinal cord cervical c-1,0.6957177774900742,brain frontal cortex ba9-brain spinal cord cervical c-1
+brain frontal cortex ba9,stomach,0.5436542580850895,brain frontal cortex ba9-stomach
+brain frontal cortex ba9,skin not sun exposed suprapubic,0.3431145994658605,brain frontal cortex ba9-skin not sun exposed suprapubic
+brain frontal cortex ba9,pituitary,0.6905501929040805,brain frontal cortex ba9-pituitary
+brain frontal cortex ba9,heart atrial appendage,0.620846885047846,brain frontal cortex ba9-heart atrial appendage
+brain frontal cortex ba9,breast mammary tissue,0.5369256816538418,brain frontal cortex ba9-breast mammary tissue
+brain frontal cortex ba9,esophagus gastroesophageal junction,0.6376604139937567,brain frontal cortex ba9-esophagus gastroesophageal junction
+brain frontal cortex ba9,heart left ventricle,0.6051406520623462,brain frontal cortex ba9-heart left ventricle
+brain frontal cortex ba9,cells cultured fibroblasts,0.4875490316673503,brain frontal cortex ba9-cells cultured fibroblasts
+brain frontal cortex ba9,lung,0.36103620698198635,brain frontal cortex ba9-lung
+brain frontal cortex ba9,skin sun exposed lower leg,0.3880601188435364,brain frontal cortex ba9-skin sun exposed lower leg
+brain frontal cortex ba9,muscle skeletal,0.4951416024060409,brain frontal cortex ba9-muscle skeletal
+brain frontal cortex ba9,brain substantia nigra,0.9188398710129483,brain frontal cortex ba9-brain substantia nigra
+brain frontal cortex ba9,testis,0.7338183315565142,brain frontal cortex ba9-testis
+brain frontal cortex ba9,small intestine terminal ileum,0.2651583685392795,brain frontal cortex ba9-small intestine terminal ileum
+brain frontal cortex ba9,nerve tibial,0.5815315811441697,brain frontal cortex ba9-nerve tibial
+brain frontal cortex ba9,brain frontal cortex ba9,1,brain frontal cortex ba9-brain frontal cortex ba9
+brain frontal cortex ba9,colon transverse,0.4477173042607216,brain frontal cortex ba9-colon transverse
+brain frontal cortex ba9,ovary,0.571036204399423,brain frontal cortex ba9-ovary
+brain frontal cortex ba9,minor salivary gland,0.49120667985034583,brain frontal cortex ba9-minor salivary gland
+brain frontal cortex ba9,thyroid,0.5366104550479864,brain frontal cortex ba9-thyroid
+brain frontal cortex ba9,liver,0.42575039438651746,brain frontal cortex ba9-liver
+brain frontal cortex ba9,cells ebv-transformed lymphocytes,0.16943509856115685,brain frontal cortex ba9-cells ebv-transformed lymphocytes
+brain frontal cortex ba9,kidney cortex,0.6282098040108669,brain frontal cortex ba9-kidney cortex
+brain frontal cortex ba9,colon sigmoid,0.6909997332693726,brain frontal cortex ba9-colon sigmoid
+brain frontal cortex ba9,spleen,0.13722258480315008,brain frontal cortex ba9-spleen
+brain frontal cortex ba9,uterus,0.5605476063285951,brain frontal cortex ba9-uterus
+colon transverse,esophagus mucosa,0.8850563130088708,colon transverse-esophagus mucosa
+colon transverse,pancreas,0.6287554168510879,colon transverse-pancreas
+colon transverse,vagina,0.908430177432608,colon transverse-vagina
+colon transverse,esophagus muscularis,0.9030007461602707,colon transverse-esophagus muscularis
+colon transverse,whole blood,0.7697921941480622,colon transverse-whole blood
+colon transverse,prostate,0.883482139607707,colon transverse-prostate
+colon transverse,stomach,0.9420459271771041,colon transverse-stomach
+colon transverse,skin not sun exposed suprapubic,0.8604244150897157,colon transverse-skin not sun exposed suprapubic
+colon transverse,pituitary,0.8740117300083377,colon transverse-pituitary
+colon transverse,heart atrial appendage,0.829335639836441,colon transverse-heart atrial appendage
+colon transverse,esophagus gastroesophageal junction,0.9175113928154398,colon transverse-esophagus gastroesophageal junction
+colon transverse,heart left ventricle,0.7607492420260425,colon transverse-heart left ventricle
+colon transverse,lung,0.9097613173777601,colon transverse-lung
+colon transverse,skin sun exposed lower leg,0.8489792290197838,colon transverse-skin sun exposed lower leg
+colon transverse,muscle skeletal,0.7383698127510985,colon transverse-muscle skeletal
+colon transverse,testis,0.684651552211563,colon transverse-testis
+colon transverse,small intestine terminal ileum,0.9443577818815062,colon transverse-small intestine terminal ileum
+colon transverse,nerve tibial,0.9011118021303002,colon transverse-nerve tibial
+colon transverse,colon transverse,1,colon transverse-colon transverse
+colon transverse,ovary,0.7402818483479701,colon transverse-ovary
+colon transverse,minor salivary gland,0.9250853875064645,colon transverse-minor salivary gland
+colon transverse,thyroid,0.9123802807529858,colon transverse-thyroid
+colon transverse,liver,0.7817734796176525,colon transverse-liver
+colon transverse,kidney cortex,0.7927261313295457,colon transverse-kidney cortex
+colon transverse,spleen,0.8444648230004659,colon transverse-spleen
+colon transverse,uterus,0.9093852047396974,colon transverse-uterus
+ovary,pancreas,0.6849855764874763,ovary-pancreas
+ovary,vagina,0.7653279209046108,ovary-vagina
+ovary,whole blood,0.5874995745713686,ovary-whole blood
+ovary,prostate,0.8022116752158931,ovary-prostate
+ovary,stomach,0.7560873204734977,ovary-stomach
+ovary,skin not sun exposed suprapubic,0.6656118382759229,ovary-skin not sun exposed suprapubic
+ovary,pituitary,0.8042011256979098,ovary-pituitary
+ovary,skin sun exposed lower leg,0.663427501742121,ovary-skin sun exposed lower leg
+ovary,testis,0.7510040594214265,ovary-testis
+ovary,small intestine terminal ileum,0.6801861124962636,ovary-small intestine terminal ileum
+ovary,ovary,1,ovary-ovary
+ovary,thyroid,0.8127231724433511,ovary-thyroid
+ovary,spleen,0.5996173967011287,ovary-spleen
+ovary,uterus,0.8500348978053995,ovary-uterus
+minor salivary gland,pancreas,0.7161539661673382,minor salivary gland-pancreas
+minor salivary gland,vagina,0.9120333231741031,minor salivary gland-vagina
+minor salivary gland,whole blood,0.830749060097356,minor salivary gland-whole blood
+minor salivary gland,prostate,0.9003355911671403,minor salivary gland-prostate
+minor salivary gland,stomach,0.9764148254208336,minor salivary gland-stomach
+minor salivary gland,skin not sun exposed suprapubic,0.8368606111048723,minor salivary gland-skin not sun exposed suprapubic
+minor salivary gland,pituitary,0.9317582112244954,minor salivary gland-pituitary
+minor salivary gland,skin sun exposed lower leg,0.8280846601890397,minor salivary gland-skin sun exposed lower leg
+minor salivary gland,muscle skeletal,0.8335947910576025,minor salivary gland-muscle skeletal
+minor salivary gland,testis,0.794873162824447,minor salivary gland-testis
+minor salivary gland,small intestine terminal ileum,0.8888185513985403,minor salivary gland-small intestine terminal ileum
+minor salivary gland,nerve tibial,0.9668217282136501,minor salivary gland-nerve tibial
+minor salivary gland,ovary,0.7833372465191041,minor salivary gland-ovary
+minor salivary gland,minor salivary gland,1,minor salivary gland-minor salivary gland
+minor salivary gland,thyroid,0.946804371028495,minor salivary gland-thyroid
+minor salivary gland,spleen,0.7809675169647412,minor salivary gland-spleen
+minor salivary gland,uterus,0.9004770621526478,minor salivary gland-uterus
+brain cerebellar hemisphere,esophagus mucosa,0.48915027130301825,brain cerebellar hemisphere-esophagus mucosa
+brain cerebellar hemisphere,pancreas,0.5768000843997065,brain cerebellar hemisphere-pancreas
+brain cerebellar hemisphere,vagina,0.5395196287791809,brain cerebellar hemisphere-vagina
+brain cerebellar hemisphere,esophagus muscularis,0.7329024042090397,brain cerebellar hemisphere-esophagus muscularis
+brain cerebellar hemisphere,whole blood,0.33613637957270337,brain cerebellar hemisphere-whole blood
+brain cerebellar hemisphere,brain hypothalamus,0.9247079855201493,brain cerebellar hemisphere-brain hypothalamus
+brain cerebellar hemisphere,brain nucleus accumbens basal ganglia,0.9388122489807893,brain cerebellar hemisphere-brain nucleus accumbens basal ganglia
+brain cerebellar hemisphere,brain putamen basal ganglia,0.9179574783611524,brain cerebellar hemisphere-brain putamen basal ganglia
+brain cerebellar hemisphere,prostate,0.7623282924654319,brain cerebellar hemisphere-prostate
+brain cerebellar hemisphere,brain hippocampus,0.9071315547111694,brain cerebellar hemisphere-brain hippocampus
+brain cerebellar hemisphere,brain spinal cord cervical c-1,0.7202147175921313,brain cerebellar hemisphere-brain spinal cord cervical c-1
+brain cerebellar hemisphere,stomach,0.6409132210948398,brain cerebellar hemisphere-stomach
+brain cerebellar hemisphere,skin not sun exposed suprapubic,0.4375927330529121,brain cerebellar hemisphere-skin not sun exposed suprapubic
+brain cerebellar hemisphere,pituitary,0.764376999450146,brain cerebellar hemisphere-pituitary
+brain cerebellar hemisphere,brain cerebellum,0.9920377553808982,brain cerebellar hemisphere-brain cerebellum
+brain cerebellar hemisphere,heart atrial appendage,0.6707650544279942,brain cerebellar hemisphere-heart atrial appendage
+brain cerebellar hemisphere,breast mammary tissue,0.6556599273687141,brain cerebellar hemisphere-breast mammary tissue
+brain cerebellar hemisphere,brain cortex,0.9309753061574503,brain cerebellar hemisphere-brain cortex
+brain cerebellar hemisphere,esophagus gastroesophageal junction,0.6986415734349167,brain cerebellar hemisphere-esophagus gastroesophageal junction
+brain cerebellar hemisphere,heart left ventricle,0.6900494021319288,brain cerebellar hemisphere-heart left ventricle
+brain cerebellar hemisphere,cells cultured fibroblasts,0.6040333792364554,brain cerebellar hemisphere-cells cultured fibroblasts
+brain cerebellar hemisphere,lung,0.487241774600012,brain cerebellar hemisphere-lung
+brain cerebellar hemisphere,skin sun exposed lower leg,0.4832701441679816,brain cerebellar hemisphere-skin sun exposed lower leg
+brain cerebellar hemisphere,muscle skeletal,0.6000454913781459,brain cerebellar hemisphere-muscle skeletal
+brain cerebellar hemisphere,brain substantia nigra,0.8925230238531249,brain cerebellar hemisphere-brain substantia nigra
+brain cerebellar hemisphere,testis,0.8297894237406358,brain cerebellar hemisphere-testis
+brain cerebellar hemisphere,small intestine terminal ileum,0.3770573379904076,brain cerebellar hemisphere-small intestine terminal ileum
+brain cerebellar hemisphere,nerve tibial,0.6797332535875614,brain cerebellar hemisphere-nerve tibial
+brain cerebellar hemisphere,brain frontal cortex ba9,0.9159752108408266,brain cerebellar hemisphere-brain frontal cortex ba9
+brain cerebellar hemisphere,colon transverse,0.5294733167695573,brain cerebellar hemisphere-colon transverse
+brain cerebellar hemisphere,ovary,0.5968090216972148,brain cerebellar hemisphere-ovary
+brain cerebellar hemisphere,minor salivary gland,0.6099732146238974,brain cerebellar hemisphere-minor salivary gland
+brain cerebellar hemisphere,brain cerebellar hemisphere,1,brain cerebellar hemisphere-brain cerebellar hemisphere
+brain cerebellar hemisphere,thyroid,0.6300611260369275,brain cerebellar hemisphere-thyroid
+brain cerebellar hemisphere,liver,0.5666584681561614,brain cerebellar hemisphere-liver
+brain cerebellar hemisphere,cells ebv-transformed lymphocytes,0.21641769094799077,brain cerebellar hemisphere-cells ebv-transformed lymphocytes
+brain cerebellar hemisphere,kidney cortex,0.7401773394586296,brain cerebellar hemisphere-kidney cortex
+brain cerebellar hemisphere,colon sigmoid,0.7169707554301773,brain cerebellar hemisphere-colon sigmoid
+brain cerebellar hemisphere,spleen,0.24229165554125498,brain cerebellar hemisphere-spleen
+brain cerebellar hemisphere,uterus,0.6357415393176248,brain cerebellar hemisphere-uterus
+thyroid,vagina,0.8674987804628636,thyroid-vagina
+thyroid,whole blood,0.7302294321179089,thyroid-whole blood
+thyroid,thyroid,1,thyroid-thyroid
+thyroid,uterus,0.9516173281567408,thyroid-uterus
+liver,pancreas,0.7489415932590161,liver-pancreas
+liver,vagina,0.7754866522635543,liver-vagina
+liver,whole blood,0.6339929090390489,liver-whole blood
+liver,prostate,0.8735851148248643,liver-prostate
+liver,stomach,0.8660573157674326,liver-stomach
+liver,skin not sun exposed suprapubic,0.6579842896969972,liver-skin not sun exposed suprapubic
+liver,pituitary,0.7884826586673985,liver-pituitary
+liver,lung,0.8083044111113918,liver-lung
+liver,skin sun exposed lower leg,0.6385826432811134,liver-skin sun exposed lower leg
+liver,muscle skeletal,0.7547076213760514,liver-muscle skeletal
+liver,testis,0.6633777869441139,liver-testis
+liver,small intestine terminal ileum,0.7186604788055644,liver-small intestine terminal ileum
+liver,nerve tibial,0.8031979836884989,liver-nerve tibial
+liver,ovary,0.6932966122740241,liver-ovary
+liver,minor salivary gland,0.8180332505350252,liver-minor salivary gland
+liver,thyroid,0.835413116873991,liver-thyroid
+liver,liver,1,liver-liver
+liver,spleen,0.6617915865532298,liver-spleen
+liver,uterus,0.8583006327259468,liver-uterus
+cells ebv-transformed lymphocytes,esophagus mucosa,0.40938465822780656,cells ebv-transformed lymphocytes-esophagus mucosa
+cells ebv-transformed lymphocytes,pancreas,0.37760885946347617,cells ebv-transformed lymphocytes-pancreas
+cells ebv-transformed lymphocytes,vagina,0.4321117682906786,cells ebv-transformed lymphocytes-vagina
+cells ebv-transformed lymphocytes,esophagus muscularis,0.40727348722427564,cells ebv-transformed lymphocytes-esophagus muscularis
+cells ebv-transformed lymphocytes,whole blood,0.5180053202793224,cells ebv-transformed lymphocytes-whole blood
+cells ebv-transformed lymphocytes,prostate,0.37248340776730654,cells ebv-transformed lymphocytes-prostate
+cells ebv-transformed lymphocytes,stomach,0.45226797952659265,cells ebv-transformed lymphocytes-stomach
+cells ebv-transformed lymphocytes,skin not sun exposed suprapubic,0.41392856395518063,cells ebv-transformed lymphocytes-skin not sun exposed suprapubic
+cells ebv-transformed lymphocytes,pituitary,0.469151324045279,cells ebv-transformed lymphocytes-pituitary
+cells ebv-transformed lymphocytes,heart atrial appendage,0.4369528744217977,cells ebv-transformed lymphocytes-heart atrial appendage
+cells ebv-transformed lymphocytes,esophagus gastroesophageal junction,0.42171372027992327,cells ebv-transformed lymphocytes-esophagus gastroesophageal junction
+cells ebv-transformed lymphocytes,heart left ventricle,0.382713676538305,cells ebv-transformed lymphocytes-heart left ventricle
+cells ebv-transformed lymphocytes,lung,0.5613012096572989,cells ebv-transformed lymphocytes-lung
+cells ebv-transformed lymphocytes,skin sun exposed lower leg,0.3812230355506827,cells ebv-transformed lymphocytes-skin sun exposed lower leg
+cells ebv-transformed lymphocytes,muscle skeletal,0.4622798325742585,cells ebv-transformed lymphocytes-muscle skeletal
+cells ebv-transformed lymphocytes,testis,0.34717725724690596,cells ebv-transformed lymphocytes-testis
+cells ebv-transformed lymphocytes,small intestine terminal ileum,0.5299790505991796,cells ebv-transformed lymphocytes-small intestine terminal ileum
+cells ebv-transformed lymphocytes,nerve tibial,0.46376295359436115,cells ebv-transformed lymphocytes-nerve tibial
+cells ebv-transformed lymphocytes,colon transverse,0.4590838355027031,cells ebv-transformed lymphocytes-colon transverse
+cells ebv-transformed lymphocytes,ovary,0.449263512443911,cells ebv-transformed lymphocytes-ovary
+cells ebv-transformed lymphocytes,minor salivary gland,0.47937186123051617,cells ebv-transformed lymphocytes-minor salivary gland
+cells ebv-transformed lymphocytes,thyroid,0.4427175206253258,cells ebv-transformed lymphocytes-thyroid
+cells ebv-transformed lymphocytes,liver,0.36640315827453857,cells ebv-transformed lymphocytes-liver
+cells ebv-transformed lymphocytes,cells ebv-transformed lymphocytes,1,cells ebv-transformed lymphocytes-cells ebv-transformed lymphocytes
+cells ebv-transformed lymphocytes,kidney cortex,0.3555978245403638,cells ebv-transformed lymphocytes-kidney cortex
+cells ebv-transformed lymphocytes,colon sigmoid,0.36054235704136617,cells ebv-transformed lymphocytes-colon sigmoid
+cells ebv-transformed lymphocytes,spleen,0.5319280047621081,cells ebv-transformed lymphocytes-spleen
+cells ebv-transformed lymphocytes,uterus,0.45077946442999356,cells ebv-transformed lymphocytes-uterus
+adipose subcutaneous,esophagus mucosa,0.7971571200358721,adipose subcutaneous-esophagus mucosa
+adipose subcutaneous,pancreas,0.6460713715852255,adipose subcutaneous-pancreas
+adipose subcutaneous,vagina,0.8709226314175433,adipose subcutaneous-vagina
+adipose subcutaneous,esophagus muscularis,0.8953963725562114,adipose subcutaneous-esophagus muscularis
+adipose subcutaneous,whole blood,0.7285072795694918,adipose subcutaneous-whole blood
+adipose subcutaneous,brain hypothalamus,0.742765881865749,adipose subcutaneous-brain hypothalamus
+adipose subcutaneous,brain nucleus accumbens basal ganglia,0.725820823189918,adipose subcutaneous-brain nucleus accumbens basal ganglia
+adipose subcutaneous,brain putamen basal ganglia,0.731198743403697,adipose subcutaneous-brain putamen basal ganglia
+adipose subcutaneous,prostate,0.9119391580422077,adipose subcutaneous-prostate
+adipose subcutaneous,brain hippocampus,0.7046352919473209,adipose subcutaneous-brain hippocampus
+adipose subcutaneous,artery aorta,0.9204002013642085,adipose subcutaneous-artery aorta
+adipose subcutaneous,brain amygdala,0.716252014267233,adipose subcutaneous-brain amygdala
+adipose subcutaneous,brain spinal cord cervical c-1,0.6693239769905364,adipose subcutaneous-brain spinal cord cervical c-1
+adipose subcutaneous,stomach,0.896826877292681,adipose subcutaneous-stomach
+adipose subcutaneous,skin not sun exposed suprapubic,0.7679310745699417,adipose subcutaneous-skin not sun exposed suprapubic
+adipose subcutaneous,artery coronary,0.9374858801054563,adipose subcutaneous-artery coronary
+adipose subcutaneous,brain anterior cingulate cortex ba24,0.6328678676991304,adipose subcutaneous-brain anterior cingulate cortex ba24
+adipose subcutaneous,pituitary,0.8753662351144962,adipose subcutaneous-pituitary
+adipose subcutaneous,brain cerebellum,0.7021030242089091,adipose subcutaneous-brain cerebellum
+adipose subcutaneous,artery tibial,0.9327535920510572,adipose subcutaneous-artery tibial
+adipose subcutaneous,heart atrial appendage,0.8950343424812254,adipose subcutaneous-heart atrial appendage
+adipose subcutaneous,breast mammary tissue,0.980688521901732,adipose subcutaneous-breast mammary tissue
+adipose subcutaneous,brain cortex,0.6153444890368981,adipose subcutaneous-brain cortex
+adipose subcutaneous,adrenal gland,0.9093755740078365,adipose subcutaneous-adrenal gland
+adipose subcutaneous,esophagus gastroesophageal junction,0.9052341863172959,adipose subcutaneous-esophagus gastroesophageal junction
+adipose subcutaneous,heart left ventricle,0.8138295022681483,adipose subcutaneous-heart left ventricle
+adipose subcutaneous,cells cultured fibroblasts,0.8605060658292627,adipose subcutaneous-cells cultured fibroblasts
+adipose subcutaneous,lung,0.8755080908218997,adipose subcutaneous-lung
+adipose subcutaneous,skin sun exposed lower leg,0.7737338055358505,adipose subcutaneous-skin sun exposed lower leg
+adipose subcutaneous,muscle skeletal,0.7672212651688302,adipose subcutaneous-muscle skeletal
+adipose subcutaneous,brain substantia nigra,0.7359115785871637,adipose subcutaneous-brain substantia nigra
+adipose subcutaneous,testis,0.8525218850332663,adipose subcutaneous-testis
+adipose subcutaneous,small intestine terminal ileum,0.76822204274234,adipose subcutaneous-small intestine terminal ileum
+adipose subcutaneous,nerve tibial,0.9480913276289066,adipose subcutaneous-nerve tibial
+adipose subcutaneous,adipose visceral omentum,0.9329456137386684,adipose subcutaneous-adipose visceral omentum
+adipose subcutaneous,brain frontal cortex ba9,0.5795576390354221,adipose subcutaneous-brain frontal cortex ba9
+adipose subcutaneous,colon transverse,0.8327579593726203,adipose subcutaneous-colon transverse
+adipose subcutaneous,ovary,0.8775210047587265,adipose subcutaneous-ovary
+adipose subcutaneous,minor salivary gland,0.9100217249754651,adipose subcutaneous-minor salivary gland
+adipose subcutaneous,brain cerebellar hemisphere,0.6986459077369348,adipose subcutaneous-brain cerebellar hemisphere
+adipose subcutaneous,thyroid,0.8957814700474503,adipose subcutaneous-thyroid
+adipose subcutaneous,liver,0.8256888703996973,adipose subcutaneous-liver
+adipose subcutaneous,cells ebv-transformed lymphocytes,0.4302969235612174,adipose subcutaneous-cells ebv-transformed lymphocytes
+adipose subcutaneous,adipose subcutaneous,1,adipose subcutaneous-adipose subcutaneous
+adipose subcutaneous,kidney cortex,0.8604594805977278,adipose subcutaneous-kidney cortex
+adipose subcutaneous,colon sigmoid,0.852357005309566,adipose subcutaneous-colon sigmoid
+adipose subcutaneous,brain caudate basal ganglia,0.7558837105030454,adipose subcutaneous-brain caudate basal ganglia
+adipose subcutaneous,spleen,0.662738268052517,adipose subcutaneous-spleen
+adipose subcutaneous,uterus,0.9188445489168419,adipose subcutaneous-uterus
+kidney cortex,pancreas,0.6578749213973214,kidney cortex-pancreas
+kidney cortex,vagina,0.8374963359504544,kidney cortex-vagina
+kidney cortex,whole blood,0.6484168845287451,kidney cortex-whole blood
+kidney cortex,prostate,0.9259078189879244,kidney cortex-prostate
+kidney cortex,stomach,0.8862279392059905,kidney cortex-stomach
+kidney cortex,skin not sun exposed suprapubic,0.7079512576629885,kidney cortex-skin not sun exposed suprapubic
+kidney cortex,pituitary,0.901337612276993,kidney cortex-pituitary
+kidney cortex,lung,0.8050614554583393,kidney cortex-lung
+kidney cortex,skin sun exposed lower leg,0.73561870367136,kidney cortex-skin sun exposed lower leg
+kidney cortex,muscle skeletal,0.7082713558775684,kidney cortex-muscle skeletal
+kidney cortex,testis,0.8883518428242764,kidney cortex-testis
+kidney cortex,small intestine terminal ileum,0.7400533255704895,kidney cortex-small intestine terminal ileum
+kidney cortex,nerve tibial,0.8944940846031629,kidney cortex-nerve tibial
+kidney cortex,ovary,0.7242382032729237,kidney cortex-ovary
+kidney cortex,minor salivary gland,0.8625903742606004,kidney cortex-minor salivary gland
+kidney cortex,thyroid,0.8901757737964131,kidney cortex-thyroid
+kidney cortex,liver,0.8148271753629155,kidney cortex-liver
+kidney cortex,kidney cortex,1,kidney cortex-kidney cortex
+kidney cortex,spleen,0.6631986346756124,kidney cortex-spleen
+kidney cortex,uterus,0.8216316345658992,kidney cortex-uterus
+colon sigmoid,esophagus mucosa,0.7521880116461688,colon sigmoid-esophagus mucosa
+colon sigmoid,pancreas,0.6339228920008338,colon sigmoid-pancreas
+colon sigmoid,vagina,0.8057026604921477,colon sigmoid-vagina
+colon sigmoid,esophagus muscularis,0.9786243175401972,colon sigmoid-esophagus muscularis
+colon sigmoid,whole blood,0.5705095991383736,colon sigmoid-whole blood
+colon sigmoid,prostate,0.911552374263139,colon sigmoid-prostate
+colon sigmoid,stomach,0.8963523720687022,colon sigmoid-stomach
+colon sigmoid,skin not sun exposed suprapubic,0.7051166889925855,colon sigmoid-skin not sun exposed suprapubic
+colon sigmoid,pituitary,0.886264683434062,colon sigmoid-pituitary
+colon sigmoid,heart atrial appendage,0.8581643721991269,colon sigmoid-heart atrial appendage
+colon sigmoid,esophagus gastroesophageal junction,0.97673004918448,colon sigmoid-esophagus gastroesophageal junction
+colon sigmoid,heart left ventricle,0.797245773263573,colon sigmoid-heart left ventricle
+colon sigmoid,lung,0.8052722928508338,colon sigmoid-lung
+colon sigmoid,skin sun exposed lower leg,0.7010024788010695,colon sigmoid-skin sun exposed lower leg
+colon sigmoid,muscle skeletal,0.7227826847044633,colon sigmoid-muscle skeletal
+colon sigmoid,testis,0.7432916740451163,colon sigmoid-testis
+colon sigmoid,small intestine terminal ileum,0.7294750196878067,colon sigmoid-small intestine terminal ileum
+colon sigmoid,nerve tibial,0.8824154086612788,colon sigmoid-nerve tibial
+colon sigmoid,colon transverse,0.8711863853532237,colon sigmoid-colon transverse
+colon sigmoid,ovary,0.7581584205910947,colon sigmoid-ovary
+colon sigmoid,minor salivary gland,0.8435448958852989,colon sigmoid-minor salivary gland
+colon sigmoid,thyroid,0.8805184408707737,colon sigmoid-thyroid
+colon sigmoid,liver,0.7844093693539816,colon sigmoid-liver
+colon sigmoid,kidney cortex,0.7592129664016726,colon sigmoid-kidney cortex
+colon sigmoid,colon sigmoid,1,colon sigmoid-colon sigmoid
+colon sigmoid,spleen,0.6070957574104544,colon sigmoid-spleen
+colon sigmoid,uterus,0.9454770052319906,colon sigmoid-uterus
+brain caudate basal ganglia,esophagus mucosa,0.5570991401800507,brain caudate basal ganglia-esophagus mucosa
+brain caudate basal ganglia,pancreas,0.6074725427446175,brain caudate basal ganglia-pancreas
+brain caudate basal ganglia,vagina,0.6213994361746912,brain caudate basal ganglia-vagina
+brain caudate basal ganglia,esophagus muscularis,0.8091039129042606,brain caudate basal ganglia-esophagus muscularis
+brain caudate basal ganglia,whole blood,0.3587293168201576,brain caudate basal ganglia-whole blood
+brain caudate basal ganglia,brain hypothalamus,0.9824965734652377,brain caudate basal ganglia-brain hypothalamus
+brain caudate basal ganglia,brain nucleus accumbens basal ganglia,0.9947035520349833,brain caudate basal ganglia-brain nucleus accumbens basal ganglia
+brain caudate basal ganglia,brain putamen basal ganglia,0.9908069575105157,brain caudate basal ganglia-brain putamen basal ganglia
+brain caudate basal ganglia,prostate,0.8266061218010364,brain caudate basal ganglia-prostate
+brain caudate basal ganglia,brain hippocampus,0.9822449711626834,brain caudate basal ganglia-brain hippocampus
+brain caudate basal ganglia,brain spinal cord cervical c-1,0.8058189136353747,brain caudate basal ganglia-brain spinal cord cervical c-1
+brain caudate basal ganglia,stomach,0.722865431237235,brain caudate basal ganglia-stomach
+brain caudate basal ganglia,skin not sun exposed suprapubic,0.5069189685648254,brain caudate basal ganglia-skin not sun exposed suprapubic
+brain caudate basal ganglia,pituitary,0.81403888704033045,brain caudate basal ganglia-pituitary
+brain caudate basal ganglia,brain cerebellum,0.9270015345438634,brain caudate basal ganglia-brain cerebellum
+brain caudate basal ganglia,heart atrial appendage,0.7670192351109023,brain caudate basal ganglia-heart atrial appendage
+brain caudate basal ganglia,breast mammary tissue,0.7200869193257347,brain caudate basal ganglia-breast mammary tissue
+brain caudate basal ganglia,brain cortex,0.9656582168865957,brain caudate basal ganglia-brain cortex
+brain caudate basal ganglia,esophagus gastroesophageal junction,0.789465639843626,brain caudate basal ganglia-esophagus gastroesophageal junction
+brain caudate basal ganglia,heart left ventricle,0.7398452653289102,brain caudate basal ganglia-heart left ventricle
+brain caudate basal ganglia,cells cultured fibroblasts,0.6427749146801045,brain caudate basal ganglia-cells cultured fibroblasts
+brain caudate basal ganglia,lung,0.5558666803087268,brain caudate basal ganglia-lung
+brain caudate basal ganglia,skin sun exposed lower leg,0.5385981020268648,brain caudate basal ganglia-skin sun exposed lower leg
+brain caudate basal ganglia,muscle skeletal,0.6293430557822836,brain caudate basal ganglia-muscle skeletal
+brain caudate basal ganglia,brain substantia nigra,0.9696262341235246,brain caudate basal ganglia-brain substantia nigra
+brain caudate basal ganglia,testis,0.8476860800838166,brain caudate basal ganglia-testis
+brain caudate basal ganglia,small intestine terminal ileum,0.439044820696523,brain caudate basal ganglia-small intestine terminal ileum
+brain caudate basal ganglia,nerve tibial,0.7460611235239891,brain caudate basal ganglia-nerve tibial
+brain caudate basal ganglia,brain frontal cortex ba9,0.9442269856805129,brain caudate basal ganglia-brain frontal cortex ba9
+brain caudate basal ganglia,colon transverse,0.619516933295389,brain caudate basal ganglia-colon transverse
+brain caudate basal ganglia,ovary,0.6835206823294782,brain caudate basal ganglia-ovary
+brain caudate basal ganglia,minor salivary gland,0.6607088771448664,brain caudate basal ganglia-minor salivary gland
+brain caudate basal ganglia,brain cerebellar hemisphere,0.9305018912851071,brain caudate basal ganglia-brain cerebellar hemisphere
+brain caudate basal ganglia,thyroid,0.7074410980390934,brain caudate basal ganglia-thyroid
+brain caudate basal ganglia,liver,0.6511737421017207,brain caudate basal ganglia-liver
+brain caudate basal ganglia,cells ebv-transformed lymphocytes,0.26239962969197744,brain caudate basal ganglia-cells ebv-transformed lymphocytes
+brain caudate basal ganglia,kidney cortex,0.7682836383084154,brain caudate basal ganglia-kidney cortex
+brain caudate basal ganglia,colon sigmoid,0.8184502575386982,brain caudate basal ganglia-colon sigmoid
+brain caudate basal ganglia,brain caudate basal ganglia,1,brain caudate basal ganglia-brain caudate basal ganglia
+brain caudate basal ganglia,spleen,0.30205720957130594,brain caudate basal ganglia-spleen
+brain caudate basal ganglia,uterus,0.7445107420312254,brain caudate basal ganglia-uterus
+spleen,vagina,0.7749829029402439,spleen-vagina
+spleen,whole blood,0.861915192911023,spleen-whole blood
+spleen,stomach,0.7622443100290923,spleen-stomach
+spleen,testis,0.44398444393271014,spleen-testis
+spleen,thyroid,0.7679696012808714,spleen-thyroid
+spleen,spleen,1,spleen-spleen
+spleen,uterus,0.7184061583862904,spleen-uterus
+uterus,vagina,0.8616979660173786,uterus-vagina
+uterus,whole blood,0.6633920381207584,uterus-whole blood
+uterus,uterus,1,uterus-uterus
