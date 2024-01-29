@@ -7,7 +7,7 @@ library(reshape2)
 library(ggrepel)
  
 # Load data
-df <- read_csv('data/CellDeath_TPM/GTExv8_TPM_ProgrammedCellDeathGenes.csv')
+df <- read_csv('data/GTExv8_TPM_ProgrammedCellDeathGenes.csv')
  
 # Define colors for graphing specific pathways
 gcolor <- c("#EFD4A5","#6993A7","#E59A98")
@@ -87,7 +87,7 @@ write_csv(TissueCorr.res, 'data/GeneGeneCorrelations_GTExModules.csv')
  
  
 # Module-specific analysis setup -------
-tissuemods <- read_csv('data/GTExTissueModules.csv')
+tissuemods <- read_csv('results/GTExTissueModules.csv')
 mod1 <- filter(tissuemods, Module == "1")
 mod2 <- filter(tissuemods, Module == "2")
 mod3 <- filter(tissuemods, Module == "3")
