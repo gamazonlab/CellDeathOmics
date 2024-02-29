@@ -11,10 +11,6 @@ pws <- read_csv('metadata/ProgrammedCellDeathGeneList_Pathways.csv')
 # Load associations for all genes, tissues, and traits where p<0.05
 df_all <- read_csv('data/UKBBv3_AllTraits_FINAL_AllAssociations.csv.gz')
  
- 
-# FDR calculations for each trait across all tissues -------
-# The purpose of this is to identify the p-value threshold at which an FDR<0.05 holds for 
-# multiple testing correction done using hte 
 # Load information on genes tested in each JTI tissue model
 genepertissue <- read_csv('metadata/GenesTestedForEachJTITissue.csv')
 genepertissue_cd <- filter(genepertissue, gene_name %in% pws$`Gene Name`)
