@@ -8,10 +8,8 @@ library(corrplot)
 library(RColorBrewer)
 
 # Load and format data -------
-setwd('/Users/abbyrich/Desktop/CellDeath/')
-df.all <- read_csv('TWAS/Neale_Results/UKBBv3_SPrediXcanResults_PCDGenes_FINAL.csv')
+df.all <- read_csv('results/UKBBv3_SPrediXcanResults_PCDGenes_FINAL.csv')
 phenos2color <- read_csv('metadata/categorycolors2phenotypes.csv')
-#pathways <- read_csv('metadata/ProgrammedCellDeathGeneList_Pathways.csv')
 
 # Annotate data with trait category and color information
 df.all <- merge(df.all, phenos2color, all.x=T)
@@ -34,11 +32,11 @@ df.all$Category <- factor(df.all$Category,
 
 # Subset for nominally significant traits
 df.ehr <- filter(df.all, Derivation == "ICD10/FinnGen" & FDR_all < 0.25)
-bloodtraits2remove <- c("High light scatter reticulocyte percentage", 
+whittletraits4graphing <- c("High light scatter reticulocyte percentage", 
                         "Haematocrit percentage", "Lymphocyte percentage", 
                         "Monocyte percentage", "Neutrophil percentage",
                         "Reticulocyte percentage", "Mean sphered cell volume")
-df.cont <- filter(df.all, Derivation == "Lab/Continuous" & !`Phenotype Description` %in% bloodtraits2remove)
+df.cont <- filter(df.all, Derivation == "Lab/Continuous" & !`Phenotype Description` %in% whittletraits4graphing)
 df.cont.sig <- filter(df.cont, FDR_all < 0.01)
 
 
@@ -77,13 +75,13 @@ p.ehr.trait.all.heatplot <- ggplot(p.ehr.trait.all.2, aes(x = gene_name, y = `Ph
   theme(strip.text.x=element_blank(), strip.text.y=element_text(angle = 0), axis.text.x=element_text(angle=90, hjust=1, face = "italic")) + # removed strip.text.y = element_blank(),
   facet_grid(Category ~ SubPathway, scales = "free", space = "free")
 p.ehr.trait.all.heatplot
-ggsave('figures/Fig4B_Heatplot_EHR_2.tiff', 
+ggsave('figures/Fig4B_Heatplot_EHR.tiff', 
        plot = p.ehr.trait.all.heatplot, device = "tiff", 
        dpi = 200, width = 14, height = 7, units= "in", limitsize = TRUE)
 
 
 # Heatmap of continuous traits with FDR<0.01; but for all all gene/trait associations -------
-df.cont.all <- filter(df.all, Derivation=="Lab/Continuous" & !`Phenotype Description` %in% bloodtraits2remove)
+df.cont.all <- filter(df.all, Derivation=="Lab/Continuous" & !`Phenotype Description` %in% whittletraits4graphing)
 df.cont.all$FDR01 <- ifelse(df.cont.all$FDR_all<0.01, 1, 0)
 df.cont.med.all <-  df.cont.all %>% 
   group_by(gene_name, `Phenotype Description`) %>% 
@@ -110,6 +108,6 @@ p.cont.trait.all.heatplot <- ggplot(p.cont.trait.all.2, aes(x = gene_name, y = `
   theme(strip.text.x = element_blank(), strip.text.y=element_text(angle=0), axis.text.x=element_text(angle=90, hjust=1, face = "italic")) +
   facet_grid(Category ~ SubPathway, scales = "free", space = "free")
 p.cont.trait.all.heatplot
-ggsave('figures/Fig5B_Heatplot_Lab_2.tiff', 
+ggsave('figures/Fig5B_Heatplot_Lab.tiff', 
        plot = p.cont.trait.all.heatplot, device = "tiff", 
        dpi = 200, width = 14, height = 5, units= "in", limitsize = TRUE)
